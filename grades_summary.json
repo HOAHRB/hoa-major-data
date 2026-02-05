@@ -726,7 +726,13 @@
     ]
   },
   "COMP3002": {
-    "default": [
+    "2023_default": [
+      {
+        "name": "课堂作业",
+        "percent": "100%"
+      }
+    ],
+    "2022_default": [
       {
         "name": "作业",
         "percent": "30%"
