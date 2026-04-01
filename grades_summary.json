@@ -667,11 +667,11 @@
     "default": [
       {
         "name": "作业",
-        "percent": "40%"
+        "percent": "30%"
       },
       {
         "name": "期末考试",
-        "percent": "60%"
+        "percent": "70%"
       }
     ]
   },
