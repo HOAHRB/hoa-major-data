@@ -1,0 +1,203 @@
+[[courses]]
+course_code = "22CC22021"
+course_name = "化学基础实验D"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "化工与化学学院"
+total_hours = 72
+
+[[courses]]
+course_code = "22CC22022"
+course_name = "大型仪器分析实验"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "化工与化学学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22CC22027"
+course_name = "计算化学B"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC31018"
+course_name = "精细有机合成原理"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "化工与化学学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22CC31020"
+course_name = "结构化学B"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC31021"
+course_name = "应用化学综合实验"
+credit = 4.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "化工与化学学院"
+total_hours = 96
+
+[[courses]]
+course_code = "22ME21005"
+course_name = "工程制图基础B"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22PE13005"
+course_name = "体育（5）"
+credit = 0.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22CC32001"
+course_name = "英文科技写作"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "海外课程"
+offering_college = "化工与化学学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22CC31019"
+course_name = "材料分析测试技术"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC31022"
+course_name = "含能材料"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC31024"
+course_name = "配位化学"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC31025"
+course_name = "固体化学"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC33013"
+course_name = "专业课程设计"
+credit = 3.0
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "化工与化学学院"
+
+[[courses]]
+course_code = "22MX11008"
+course_name = "形势与政策（3）"
+credit = 0.5
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[[courses]]
+course_code = "22PE13006"
+course_name = "体育（6）"
+credit = 0.5
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22CC32003"
+course_name = "表面化学"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC32005"
+course_name = "合成化学"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC32007"
+course_name = "人工智能与应用化学"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[info]
+year = "2024"
+major_code = "25078"
+major_name = "应用化学"
+school_name = "化工与化学学院"
+plan_ID = "HIT-2024-25078"

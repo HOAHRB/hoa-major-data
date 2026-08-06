@@ -1,0 +1,61 @@
+[[courses]]
+course_code = "22AR22101F"
+course_name = "中外建筑史"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AR22801F"
+course_name = "建筑环境交互原理"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AR31101F"
+course_name = "建筑设计专题-1"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AR22102F"
+course_name = "建筑结构与构造"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "跨专业发展"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AR31102F"
+course_name = "建筑设计专题-2"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "跨专业发展"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[info]
+year = "2024"
+major_code = "11BF341"
+major_name = "建筑学"
+school_name = "建筑与设计学院"
+plan_ID = "HIT-2024-11BF341"

@@ -1,0 +1,94 @@
+[[courses]]
+course_code = "22FL22501F"
+course_name = "英语读写"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL31501F"
+course_name = "英国概况"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL31503F"
+course_name = "中国文化"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL22502F"
+course_name = "英语读写进阶"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL22503F"
+course_name = "英语演讲"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL31502F"
+course_name = "美国概况"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL22504F"
+course_name = "英汉笔译"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL31504F"
+course_name = "英语文学基础"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[info]
+year = "2024"
+major_code = "35F151"
+major_name = "英语"
+school_name = "人文社科学部"
+plan_ID = "HIT-2024-35F151"

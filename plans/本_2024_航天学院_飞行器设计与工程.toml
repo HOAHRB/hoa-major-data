@@ -1,0 +1,150 @@
+[[courses]]
+course_code = "22AS22012"
+course_name = "自动控制原理C"
+credit = 3.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 56
+
+[[courses]]
+course_code = "22AS31501"
+course_name = "弹箭空气动力学"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AS31601"
+course_name = "飞行器结构力学B"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22ME22004"
+course_name = "机械设计基础C"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22ME22019"
+course_name = "机械设计基础实验"
+credit = 0.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22PE13005"
+course_name = "体育（5）"
+credit = 0.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22AS31602"
+course_name = "飞行器多体动力学基础"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AS31652"
+course_name = "飞行器导航原理"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AS31653"
+course_name = "基础天文学"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AS32508"
+course_name = "航天器电源系统"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AS32509"
+course_name = "微纳卫星星务系统"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AS32535"
+course_name = "飞行器制导控制仿真"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AS32536"
+course_name = "弹性力学及有限元B"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AS44504"
+course_name = "微纳卫星设计方法与实践"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 24
+
+[info]
+year = "2024"
+major_code = "01182"
+major_name = "飞行器设计与工程"
+school_name = "航天学院"
+plan_ID = "HIT-2024-01182"

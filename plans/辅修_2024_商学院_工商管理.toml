@@ -1,0 +1,92 @@
+[[courses]]
+course_code = "22EM21401F"
+course_name = "管理学基础"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM31402F"
+course_name = "组织行为学"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM31202F"
+course_name = "人力资源管理"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM31403F"
+course_name = "战略管理"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM31404F"
+course_name = "领导力与沟通"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM31406F"
+course_name = "创业管理基础"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM31407F"
+course_name = "生产与运作管理"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM31408F"
+course_name = "管理学思想史"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 24
+
+[info]
+year = "2024"
+major_code = "60F201"
+major_name = "工商管理"
+school_name = "商学院"
+plan_ID = "HIT-2024-60F201"

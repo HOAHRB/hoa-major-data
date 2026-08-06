@@ -1,0 +1,100 @@
+[[courses]]
+course_code = "22HS22101F"
+course_name = "社会管理学"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 16
+
+[[courses]]
+course_code = "22HS22102F"
+course_name = "社会科学研究方法"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS22103F"
+course_name = "习近平法治思想概论"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 16
+
+[[courses]]
+course_code = "22HS22104F"
+course_name = "经济学原理"
+credit = 1.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 24
+
+[[courses]]
+course_code = "22HS31101F"
+course_name = "国际法治专题"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS31102F"
+course_name = "社会统计软件与数据分析技术"
+credit = 1.5
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 24
+
+[[courses]]
+course_code = "22HS31103F"
+course_name = "中国当代经济"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS31104F"
+course_name = "国内法治专题"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS31105F"
+course_name = "社会保障政策"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[info]
+year = "2024"
+major_code = "35F164S"
+major_name = "社会治理"
+school_name = "人文社科学部"
+plan_ID = "HIT-2024-35F164S"

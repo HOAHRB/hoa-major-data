@@ -1,0 +1,169 @@
+[[courses]]
+course_code = "22AR31304"
+course_name = "城乡规划原理-2"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AR31305"
+course_name = "场地设计原理"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AR31306"
+course_name = "城市道路与交通"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22AR31307"
+course_name = "场地设计"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AR31308"
+course_name = "规划设计-1"
+credit = 5.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 80
+
+[[courses]]
+course_code = "22AR31312"
+course_name = "快速设计-1"
+credit = 0.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 8
+
+[[courses]]
+course_code = "22AR33302"
+course_name = "城市认识"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+
+[[courses]]
+course_code = "22PE13005"
+course_name = "体育（5）"
+credit = 0.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22AR32004"
+course_name = "太阳能能源工程"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "海外课程"
+offering_college = "建筑与设计学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AR32301"
+course_name = "城市社会学概论"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AR32302"
+course_name = "社会调查研究方法"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AR32311"
+course_name = "计算城市科学导论"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AR32312"
+course_name = "城乡规划系统工程学"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AR32313"
+course_name = "城市经济学"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AR32315"
+course_name = "风景园林规划原理"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AR32328"
+course_name = "城市规划大语言模型应用"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 24
+
+[info]
+year = "2024"
+major_code = "11B345"
+major_name = "城乡规划"
+school_name = "建筑与设计学院"
+plan_ID = "HIT-2024-11B345"

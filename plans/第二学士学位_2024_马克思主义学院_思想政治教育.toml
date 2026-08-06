@@ -1,0 +1,285 @@
+[[courses]]
+course_code = "22MX22001"
+course_name = "政治学概论"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX22002"
+course_name = "马克思主义哲学"
+credit = 3.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MX22024"
+course_name = "马克思主义发展史"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX31002"
+course_name = "思想政治教育学原理"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX31006"
+course_name = "中国古代德育思想史"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX32015"
+course_name = "教育学概论"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX32005"
+course_name = "中国公务员制度概论"
+credit = 1.5
+recommended_year_semester = "第一学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22MX32006"
+course_name = "社会学"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX21001"
+course_name = "国外马克思主义"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX21002"
+course_name = "科学社会主义"
+credit = 3.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MX21005"
+course_name = "马克思主义政治经济学"
+credit = 3.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MX22004"
+course_name = "政治思想史概论"
+credit = 3.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MX31001"
+course_name = "马克思主义伦理学"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX31004"
+course_name = "思想政治教育方法论"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX32007"
+course_name = "西方哲学史"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX32008"
+course_name = "中国哲学史"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX33003"
+course_name = "专业实习"
+credit = 1.0
+recommended_year_semester = "第一学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+
+[[courses]]
+course_code = "22MX21003"
+course_name = "马克思主义经典著作导读"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MX31003"
+course_name = "比较思想政治教育"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX31005"
+course_name = "中国共产党思想政治教育史"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX31007"
+course_name = "网络思想政治教育"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX22012"
+course_name = "马克思主义理论专业英语"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX32003"
+course_name = "党务工作理论与实务"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MX32004"
+course_name = "辅导员工作理论与实务"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MX32009"
+course_name = "中国共产党建设的理论与实践"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX32012B"
+course_name = "当代国际政治与国际组织"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX33001"
+course_name = "毕业论文（设计）"
+credit = 10.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+
+[info]
+year = "2024"
+major_code = "49E491"
+major_name = "思想政治教育"
+school_name = "马克思主义学院"
+plan_ID = "HIT-2024-49E491"

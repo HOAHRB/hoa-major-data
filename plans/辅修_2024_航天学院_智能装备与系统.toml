@@ -1,0 +1,59 @@
+[[courses]]
+course_code = "22AS22101F"
+course_name = "智能信号检测与处理（1）"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AS22102F"
+course_name = "智能信号检测与处理（2）"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AS31101F"
+course_name = "智能系统控制理论（1）"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AS31102F"
+course_name = "人工智能基础"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22AS31103F"
+course_name = "智能系统控制理论（2）"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[info]
+year = "2024"
+major_code = "01F043"
+major_name = "智能装备与系统"
+school_name = "航天学院"
+plan_ID = "HIT-2024-01F043"

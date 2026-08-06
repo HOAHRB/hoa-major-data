@@ -1,0 +1,17 @@
+[[courses]]
+course_code = "22AS22004F"
+course_name = "理论力学C"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[info]
+year = "2025"
+major_code = "01F184"
+major_name = "复合材料与工程"
+school_name = "航天学院"
+plan_ID = "HIT-2025-01F184"

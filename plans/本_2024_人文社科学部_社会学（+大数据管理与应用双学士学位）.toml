@@ -1,0 +1,626 @@
+[[courses]]
+course_code = "22AD11001"
+course_name = "思想政治理论实践课"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "学生工作部（处）/团委"
+total_hours = 32
+
+[[courses]]
+course_code = "22AD16001"
+course_name = "军事理论"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+total_hours = 36
+
+[[courses]]
+course_code = "22AD16004"
+course_name = "军事技能"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+
+[[courses]]
+course_code = "22CS14004"
+course_name = "计算思维与人工智能"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL12001"
+course_name = "大学外语"
+credit = 2.5
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "英语"
+offering_college = "人文社科学部"
+total_hours = 60
+
+[[courses]]
+course_code = "22HS16001"
+course_name = "写作与沟通"
+credit = 1.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 16
+
+[[courses]]
+course_code = "22HS22103"
+course_name = "社会学概论"
+credit = 3.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 48
+
+[[courses]]
+course_code = "22MA15009"
+course_name = "微积分E（1）"
+credit = 4.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22MX11002"
+course_name = "思想道德与法治"
+credit = 2.5
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22PE13001"
+course_name = "体育（1）"
+credit = 1.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 32
+
+[[courses]]
+course_code = "22AD16003"
+course_name = "悦己人生"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL12002"
+course_name = "大学外语"
+credit = 1.5
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "英语"
+offering_college = "人文社科学部"
+total_hours = 36
+
+[[courses]]
+course_code = "22HS22901"
+course_name = "社会与管理研究方法"
+credit = 3.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 48
+
+[[courses]]
+course_code = "22MA15010"
+course_name = "微积分E（2）"
+credit = 4.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22MX11001"
+course_name = "习近平新时代中国特色社会主义思想概论"
+credit = 2.5
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22MX11002"
+course_name = "思想道德与法治"
+credit = 2.5
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22MX11003"
+course_name = "中国近现代史纲要"
+credit = 2.5
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22MX11006"
+course_name = "形势与政策（1）"
+credit = 0.5
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[[courses]]
+course_code = "22PE13002"
+course_name = "体育（2）"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS32101"
+course_name = "普通心理学"
+credit = 1.5
+recommended_year_semester = "第一学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 24
+
+[[courses]]
+course_code = "22HS22107"
+course_name = "中国社会思想史"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 48
+
+[[courses]]
+course_code = "22HS22113"
+course_name = "社会学理论"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 48
+
+[[courses]]
+course_code = "22HS22202"
+course_name = "统计学原理"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 48
+
+[[courses]]
+course_code = "22HS22908"
+course_name = "算法与数据结构"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22MA15029"
+course_name = "概率论与数理统计H"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MX11004"
+course_name = "毛泽东思想和中国特色社会主义理论体系概论"
+credit = 2.5
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22MX16001"
+course_name = "国家安全教育"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22PE13003"
+course_name = "体育（3）"
+credit = 0.5
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22HS32103B"
+course_name = "世界文明史"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS32106"
+course_name = "当代传播理论"
+credit = 1.5
+recommended_year_semester = "第二学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 24
+
+[[courses]]
+course_code = "22EM22005"
+course_name = "数据管理"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS22903"
+course_name = "社会统计软件"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS31105"
+course_name = "社会心理学基础"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS31905"
+course_name = "社会数据分析技术基础：基于R与Python"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 48
+
+[[courses]]
+course_code = "22MX11005"
+course_name = "马克思主义基本原理"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MX11007"
+course_name = "形势与政策（2）"
+credit = 1.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MX44001"
+course_name = "劳动教育概论"
+credit = 0.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[[courses]]
+course_code = "22PE13004"
+course_name = "体育（4）"
+credit = 0.5
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22EM21002"
+course_name = "运筹学"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22HS32103"
+course_name = "中国社会"
+credit = 1.5
+recommended_year_semester = "第二学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 24
+
+[[courses]]
+course_code = "22HS32117"
+course_name = "家庭社会学"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS32112"
+course_name = "社会保障学"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 16
+
+[[courses]]
+course_code = "22HS32221"
+course_name = "人工智能与经济社会"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+course_nature = "选修"
+course_category = "海外课程"
+offering_college = "人文社科学部"
+total_hours = 16
+
+[[courses]]
+course_code = "22EM22007"
+course_name = "人工智能与机器学习"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "经济与管理学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22EM31105"
+course_name = "文本分析与文本挖掘"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS22111"
+course_name = "经济社会学"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 48
+
+[[courses]]
+course_code = "22HS31906"
+course_name = "数字社会工作"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 48
+
+[[courses]]
+course_code = "22HS31907"
+course_name = "数字人类学"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS33911"
+course_name = "调查方法与数据分析实习"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+
+[[courses]]
+course_code = "22PE13005"
+course_name = "体育（5）"
+credit = 0.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22EM21001"
+course_name = "管理信息系统"
+credit = 2.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22EM21402"
+course_name = "组织行为学"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "商学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM31211"
+course_name = "大数据基础设施B"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22EM32002"
+course_name = "数据仓库与数据挖掘"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS31108"
+course_name = "组织社会学"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS32102"
+course_name = "社会工作基础理论"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 48
+
+[[courses]]
+course_code = "22HS32107B"
+course_name = "社会问题选讲"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 16
+
+[[courses]]
+course_code = "22HS32109"
+course_name = "文化社会学"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS32110B"
+course_name = "人口社会学"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS32113"
+course_name = "计算社会科学引论：行为与心理"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 24
+
+[info]
+year = "2024"
+major_code = "35SXS161103"
+major_name = "社会学（+大数据管理与应用双学士学位）"
+school_name = "人文社科学部"
+plan_ID = "HIT-2024-35SXS161103"

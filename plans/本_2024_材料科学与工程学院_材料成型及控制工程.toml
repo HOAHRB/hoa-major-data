@@ -1,0 +1,383 @@
+[[courses]]
+course_code = "22ME22011"
+course_name = "工程训练（电子工艺实习）"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+
+[[courses]]
+course_code = "22MS22106"
+course_name = "材料分析测试方法"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "材料科学与工程学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MS31201B"
+course_name = "热加工过程传输原理A"
+credit = 2.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "凝固成形"
+offering_college = "材料科学与工程学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22MS31203"
+course_name = "液态成形理论基础A"
+credit = 2.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "凝固成形"
+offering_college = "材料科学与工程学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22MS31204"
+course_name = "液态成形合金基础"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "凝固成形"
+offering_college = "材料科学与工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MS31301"
+course_name = "热加工过程传输原理B"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "塑性成形"
+offering_college = "材料科学与工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MS31303"
+course_name = "弹塑性力学基础A"
+credit = 3.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "塑性成形"
+offering_college = "材料科学与工程学院"
+total_hours = 56
+
+[[courses]]
+course_code = "22MS31304"
+course_name = "塑性成形物理基础"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "塑性成形"
+offering_college = "材料科学与工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22PE13005"
+course_name = "体育（5）"
+credit = 0.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22IS31001"
+course_name = "互换性与测量技术基础"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "塑性成形"
+offering_college = "仪器科学与工程学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22IS31001"
+course_name = "互换性与测量技术基础"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "凝固成形"
+offering_college = "仪器科学与工程学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22MS32159"
+course_name = "金属微观结构发展的基础及纳米结构控制的可能性"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "凝固成形"
+offering_college = "材料科学与工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MS32159"
+course_name = "金属微观结构发展的基础及纳米结构控制的可能性"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "塑性成形"
+offering_college = "材料科学与工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MS32201"
+course_name = "高温合金及其应用"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "凝固成形"
+offering_college = "材料科学与工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MS32203"
+course_name = "熔模精密铸造"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "凝固成形"
+offering_college = "材料科学与工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MS32204"
+course_name = "数字化成型车间概述"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "凝固成形"
+offering_college = "材料科学与工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MS32205"
+course_name = "钛合金热成形技术"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "凝固成形"
+offering_college = "材料科学与工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MS32206"
+course_name = "材料电磁加工技术"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "凝固成形"
+offering_college = "材料科学与工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MS32207"
+course_name = "凝固成形过程检测技术"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "凝固成形"
+offering_college = "材料科学与工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MS32208"
+course_name = "粉末冶金技术"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "凝固成形"
+offering_college = "材料科学与工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MS32210"
+course_name = "先进金属间化合物结构材料"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "凝固成形"
+offering_college = "材料科学与工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MS32211"
+course_name = "镁合金液态成形技术"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "凝固成形"
+offering_college = "材料科学与工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MS32212"
+course_name = "非平衡凝固新材料"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "凝固成形"
+offering_college = "材料科学与工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MS32214"
+course_name = "先进材料精密液态成形"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "凝固成形"
+offering_college = "材料科学与工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MS32236"
+course_name = "液态成形理论基础B"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "塑性成形"
+offering_college = "材料科学与工程学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22MS32238"
+course_name = "材料加工人工智能技术与应用"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "塑性成形"
+offering_college = "材料科学与工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MS32238"
+course_name = "材料加工人工智能技术与应用"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "凝固成形"
+offering_college = "材料科学与工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MS32301"
+course_name = "材料成形过程工业机器人感知技术"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "塑性成形"
+offering_college = "材料科学与工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MS32302"
+course_name = "塑性成形科技英语"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "塑性成形"
+offering_college = "材料科学与工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MS32303"
+course_name = "塑性成形数字化测量方法"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "塑性成形"
+offering_college = "材料科学与工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MS32304"
+course_name = "模具加工工艺"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "塑性成形"
+offering_college = "材料科学与工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MS32305"
+course_name = "纳米材料制备及成形"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "塑性成形"
+offering_college = "材料科学与工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MS32306"
+course_name = "塑性成形过程多尺度模拟"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "塑性成形"
+offering_college = "材料科学与工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MS32324"
+course_name = "弹塑性力学基础B"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+track = "凝固成形"
+offering_college = "材料科学与工程学院"
+total_hours = 24
+
+[info]
+year = "2024"
+major_code = "03091"
+major_name = "材料成型及控制工程"
+school_name = "材料科学与工程学院"
+plan_ID = "HIT-2024-03091"

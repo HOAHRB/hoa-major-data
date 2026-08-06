@@ -1,0 +1,681 @@
+[[courses]]
+course_code = "22AD11001"
+course_name = "思想政治理论实践课"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "学生工作部（处）/团委"
+total_hours = 32
+
+[[courses]]
+course_code = "22AD16001"
+course_name = "军事理论"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+total_hours = 36
+
+[[courses]]
+course_code = "22AD16004"
+course_name = "军事技能"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+
+[[courses]]
+course_code = "22AR22001"
+course_name = "人居环境导论"
+credit = 1.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AR22002"
+course_name = "设计基础"
+credit = 4.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22AR22006"
+course_name = "造型艺术基础1"
+credit = 3.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22FL12001"
+course_name = "大学外语"
+credit = 2.5
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "英语"
+offering_college = "人文社科学部"
+total_hours = 60
+
+[[courses]]
+course_code = "22MA15014"
+course_name = "文科数学"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX11001"
+course_name = "习近平新时代中国特色社会主义思想概论"
+credit = 2.5
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22MX11003"
+course_name = "中国近现代史纲要"
+credit = 2.5
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22PE13001"
+course_name = "体育（1）"
+credit = 1.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 32
+
+[[courses]]
+course_code = "22AD16003"
+course_name = "悦己人生"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+total_hours = 32
+
+[[courses]]
+course_code = "22AR21004"
+course_name = "智能创意设计基础"
+credit = 4.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22AR22005"
+course_name = "设计美学基础"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AR22008"
+course_name = "造型艺术基础-2"
+credit = 3.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22AR22020"
+course_name = "设计与调研分析"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CS14004"
+course_name = "计算思维与人工智能"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL12002"
+course_name = "大学外语"
+credit = 1.5
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "英语"
+offering_college = "人文社科学部"
+total_hours = 36
+
+[[courses]]
+course_code = "22MX11002"
+course_name = "思想道德与法治"
+credit = 2.5
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22MX11006"
+course_name = "形势与政策（1）"
+credit = 0.5
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[[courses]]
+course_code = "22PE13002"
+course_name = "体育（2）"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 32
+
+[[courses]]
+course_code = "22AR21001"
+course_name = "绘画实习"
+credit = 2.0
+recommended_year_semester = "第一学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+
+[[courses]]
+course_code = "22AR21002"
+course_name = "专业认知实践"
+credit = 1.0
+recommended_year_semester = "第一学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+
+[[courses]]
+course_code = "22MX44001"
+course_name = "劳动教育概论"
+credit = 0.0
+recommended_year_semester = "第一学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[[courses]]
+course_code = "22AR22019"
+course_name = "设计思维"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AR22021"
+course_name = "摄影与镜头语言设计"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22AR22022"
+course_name = "影像声音基础"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AR22023"
+course_name = "数字媒体程序基础"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AR22024"
+course_name = "数字媒体设计基础"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS16001"
+course_name = "写作与沟通"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 16
+
+[[courses]]
+course_code = "22MX11005"
+course_name = "马克思主义基本原理"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MX16001"
+course_name = "国家安全教育"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22PE13003"
+course_name = "体育（3）"
+credit = 0.5
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22AR31705"
+course_name = "数字剪辑与合成"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AR31706"
+course_name = "动画-1"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22AR31707"
+course_name = "动画-2"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22AR31710"
+course_name = "网站与网络程序设计"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22AR31714"
+course_name = "游戏引擎基础"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MX11004"
+course_name = "毛泽东思想和中国特色社会主义理论体系概论"
+credit = 2.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22MX11007"
+course_name = "形势与政策（2）"
+credit = 1.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22PE13004"
+course_name = "体育（4）"
+credit = 0.5
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22AR33701"
+course_name = "动画课程设计"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+
+[[courses]]
+course_code = "22AR33702"
+course_name = "网站与网络程序设计课程设计"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+
+[[courses]]
+course_code = "22AR33703"
+course_name = "创意实习"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+
+[[courses]]
+course_code = "13SE93400300"
+course_name = "景观学研究方法"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+course_nature = "限选"
+course_category = "海外课程"
+offering_college = "建筑与设计学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AR32006"
+course_name = "生成式计算艺术与跨媒介设计实践"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+course_nature = "限选"
+course_category = "海外课程"
+offering_college = "建筑与设计学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AR32007"
+course_name = "碳中和城市前沿"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+course_nature = "限选"
+course_category = "海外课程"
+offering_college = "建筑与设计学院"
+total_hours = 16
+
+[[courses]]
+course_code = "AR33004"
+course_name = "基于城市可持续更新的住区设计体系"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+course_nature = "限选"
+course_category = "海外课程"
+offering_college = "建筑与设计学院"
+total_hours = 16
+
+[[courses]]
+course_code = "AR33007"
+course_name = "未原型设计：建筑和城市形态创新研究"
+credit = 1.5
+recommended_year_semester = "第二学年夏季"
+course_nature = "限选"
+course_category = "海外课程"
+offering_college = "建筑与设计学院"
+total_hours = 24
+
+[[courses]]
+course_code = "AR33014"
+course_name = "智慧城市能源计量过程架构与实现"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AR31701"
+course_name = "设计美学"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AR31702B"
+course_name = "交互设计"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AR31703E"
+course_name = "建筑与新媒体（英文）"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AR31708"
+course_name = "数字影像特效"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AR31709"
+course_name = "传播学"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AR31713"
+course_name = "虚拟现实系统"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22PE13005"
+course_name = "体育（5）"
+credit = 0.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22AR32004"
+course_name = "太阳能能源工程"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "限选"
+course_category = "海外课程"
+offering_college = "建筑与设计学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AR32701"
+course_name = "故事创意与写作"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AR32702"
+course_name = "数字影像作品分析"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AR32704"
+course_name = "数字色彩"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AR32706"
+course_name = "录音艺术与声音设计"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AR32708"
+course_name = "社会网络的理论方法与应用"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AR32709"
+course_name = "媒体数据分析"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AR32715"
+course_name = "互动装置艺术设计"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AR32716"
+course_name = "数据可视化设计"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 24
+
+[info]
+year = "2024"
+major_code = "11B304"
+major_name = "数字媒体艺术"
+school_name = "建筑与设计学院"
+plan_ID = "HIT-2024-11B304"

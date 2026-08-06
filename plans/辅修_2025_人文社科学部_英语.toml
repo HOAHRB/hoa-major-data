@@ -1,0 +1,39 @@
+[[courses]]
+course_code = "22FL22501F"
+course_name = "英语读写"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL31501F"
+course_name = "英国概况"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL31503F"
+course_name = "中国文化"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[info]
+year = "2025"
+major_code = "35F151"
+major_name = "英语"
+school_name = "人文社科学部"
+plan_ID = "HIT-2025-35F151"

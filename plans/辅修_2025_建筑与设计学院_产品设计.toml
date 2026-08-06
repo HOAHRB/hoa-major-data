@@ -1,0 +1,28 @@
+[[courses]]
+course_code = "22AR22903F"
+course_name = "智能创意设计基础"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AR22904F"
+course_name = "用户体验方法与度量B"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[info]
+year = "2025"
+major_code = "11BF3410"
+major_name = "产品设计"
+school_name = "建筑与设计学院"
+plan_ID = "HIT-2025-11BF3410"

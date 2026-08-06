@@ -1,0 +1,128 @@
+[[courses]]
+course_code = "22LS22004F"
+course_name = "生物专业导论"
+credit = 1.5
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 24
+
+[[courses]]
+course_code = "22LS22005F"
+course_name = "生物大分子分析及检测"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 24
+
+[[courses]]
+course_code = "22LS22006F"
+course_name = "实验室安全及基础实验训练"
+credit = 1.5
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 36
+
+[[courses]]
+course_code = "22LS22007F"
+course_name = "生物学特色实验（1）"
+credit = 0.5
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 12
+
+[[courses]]
+course_code = "22LS22002F"
+course_name = "生物学特色实验（2）"
+credit = 0.5
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 12
+
+[[courses]]
+course_code = "22LS22010F"
+course_name = "生物学基础"
+credit = 1.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 16
+
+[[courses]]
+course_code = "22LS22011F"
+course_name = "生物学基础实验"
+credit = 0.5
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 12
+
+[[courses]]
+course_code = "22LS22009F"
+course_name = "细胞生物学基础实验"
+credit = 0.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 12
+
+[[courses]]
+course_code = "22LS22012F"
+course_name = "遗传学基础"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22LS22013F"
+course_name = "遗传学基础实验"
+credit = 0.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 12
+
+[[courses]]
+course_code = "22LS22014F"
+course_name = "生物化学基础"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22LS22015F"
+course_name = "生物化学基础实验"
+credit = 0.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 12
+
+[info]
+year = "2024"
+major_code = "37F281"
+major_name = "生物技术"
+school_name = "生命科学和医学学部"
+plan_ID = "HIT-2024-37F281"

@@ -1,0 +1,253 @@
+[[courses]]
+course_code = "22AR21001E"
+course_name = "人居环境导论"
+credit = 1.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AR21002E"
+course_name = "造型艺术基础-1"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AR21003E"
+course_name = "设计基础"
+credit = 4.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22CS14004E"
+course_name = "计算思维与人工智能"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS16002"
+course_name = "初级汉语（1）"
+credit = 3.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 48
+
+[[courses]]
+course_code = "22HS22002E"
+course_name = "中国概况"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22MA15014E"
+course_name = "文科数学"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22ME21100E"
+course_name = "画法几何与阴影透视"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22PE13001"
+course_name = "体育（1）"
+credit = 1.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 32
+
+[[courses]]
+course_code = "22AR21004E"
+course_name = "设计基础-2"
+credit = 4.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22AR21005E"
+course_name = "造型艺术基础-2"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS16003"
+course_name = "初级汉语（2）"
+credit = 3.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 48
+
+[[courses]]
+course_code = "22ME21010E"
+course_name = "制图技术基础"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22PE13002"
+course_name = "体育（2）"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 32
+
+[[courses]]
+course_code = "22AR21006E"
+course_name = "绘画实习"
+credit = 2.0
+recommended_year_semester = "第一学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+
+[[courses]]
+course_code = "22AR21007E"
+course_name = "专业认知实践"
+credit = 1.0
+recommended_year_semester = "第一学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+
+[[courses]]
+course_code = "22MX44001E"
+course_name = "劳动教育概论"
+credit = 0.0
+recommended_year_semester = "第一学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[[courses]]
+course_code = "22AR22007E"
+course_name = "建筑设计-1"
+credit = 6.5
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 104
+
+[[courses]]
+course_code = "22HS16004"
+course_name = "中级汉语（1）"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22ME21008E"
+course_name = "建筑工程制图"
+credit = 1.5
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22PE13003"
+course_name = "体育（3）"
+credit = 0.5
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22AR22009E"
+course_name = "建筑材料"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AR22010E"
+course_name = "BIM设计基础"
+credit = 1.5
+recommended_year_semester = "第二学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AR22014E"
+course_name = "城市发展与规划史-1"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 16
+
+[info]
+year = "2025"
+major_code = "11BY341"
+major_name = "建筑学"
+school_name = "建筑与设计学院"
+plan_ID = "HIT-2025-11BY341"

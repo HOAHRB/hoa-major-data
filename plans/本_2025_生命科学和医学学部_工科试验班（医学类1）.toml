@@ -1,0 +1,170 @@
+[[courses]]
+course_code = "22MA15025"
+course_name = "概率论与数理统计C"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MH22005"
+course_name = "新医学科学与技术综合实验（1）"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 24
+
+[[courses]]
+course_code = "22MH22012"
+course_name = "生物化学"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22MH22013"
+course_name = "分子生物学"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22MH22014"
+course_name = "分子生物学综合实验"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 24
+
+[[courses]]
+course_code = "22MH22028"
+course_name = "医学数据分析与可视化"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 16
+
+[[courses]]
+course_code = "22MH22029"
+course_name = "生物组学数据编程基础"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22MH22204"
+course_name = "生物信息学导论"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX11004"
+course_name = "毛泽东思想和中国特色社会主义理论体系概论"
+credit = 2.5
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22MX16001"
+course_name = "国家安全教育"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MX44001"
+course_name = "劳动教育概论"
+credit = 0.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[[courses]]
+course_code = "22PE13003"
+course_name = "体育（3）"
+credit = 0.5
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22PH15018"
+course_name = "大学物理实验B"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "物理学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22MH32002"
+course_name = "向大自然学习纳米生物技术"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22MH32003"
+course_name = "微纳机器人原理与医学应用"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22MH32022"
+course_name = "AI+药食同源与健康"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 32
+
+[info]
+year = "2025"
+major_code = "3721L520"
+major_name = "工科试验班（医学类1）"
+school_name = "生命科学和医学学部"
+plan_ID = "HIT-2025-3721L520"
