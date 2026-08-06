@@ -24,6 +24,7 @@ total_hours = 40
 course_code = "22EI32181F"
 course_name = "信息处理的数学基础"
 credit = 2.0
+assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
 course_nature = "选修"
 course_category = "跨专业发展"

@@ -13,6 +13,7 @@ total_hours = 32
 course_code = "22AS22016F"
 course_name = "工程力学实验"
 credit = 1.0
+assessment_method = "考查"
 recommended_year_semester = "第二学年春季"
 course_nature = "必修"
 course_category = "其他"
