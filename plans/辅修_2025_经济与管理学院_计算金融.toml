@@ -13,6 +13,7 @@ total_hours = 48
 course_code = "22EM21801F"
 course_name = "金融市场学"
 credit = 2.0
+assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
 course_nature = "必修"
 course_category = "其他"

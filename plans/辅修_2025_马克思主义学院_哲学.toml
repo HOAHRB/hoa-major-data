@@ -13,6 +13,7 @@ total_hours = 24
 course_code = "22MX22021F"
 course_name = "哲学导论"
 credit = 1.5
+assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
 course_nature = "必修"
 course_category = "跨专业发展"

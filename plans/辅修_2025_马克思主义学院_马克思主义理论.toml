@@ -13,6 +13,7 @@ total_hours = 32
 course_code = "22MX31001F"
 course_name = "马克思主义伦理学"
 credit = 2.0
+assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
 course_nature = "必修"
 course_category = "跨专业发展"

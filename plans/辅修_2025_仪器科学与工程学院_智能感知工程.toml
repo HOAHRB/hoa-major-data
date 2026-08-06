@@ -2,6 +2,7 @@
 course_code = "22IS22006F"
 course_name = "嵌入式系统及应用"
 credit = 3.0
+assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
 course_nature = "必修"
 course_category = "专业基础"

@@ -2,6 +2,7 @@
 course_code = "22AS22101F"
 course_name = "智能信号检测与处理（1）"
 credit = 2.0
+assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
 course_nature = "必修"
 course_category = "其他"
@@ -12,6 +13,7 @@ total_hours = 32
 course_code = "22AS22102F"
 course_name = "智能信号检测与处理（2）"
 credit = 2.0
+assessment_method = "考查"
 recommended_year_semester = "第二学年春季"
 course_nature = "必修"
 course_category = "其他"
