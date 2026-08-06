@@ -1,0 +1,71 @@
+[[courses]]
+course_code = "22AS22251F"
+course_name = "理论力学E"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AS22016F"
+course_name = "工程力学实验"
+credit = 1.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AS22252F"
+course_name = "材料力学E"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AS22253F"
+course_name = "分析力学"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AS22254F"
+course_name = "弹性力学"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22AS22255F"
+course_name = "计算力学"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[info]
+year = "2024"
+major_code = "01F181"
+major_name = "工程力学"
+school_name = "航天学院"
+plan_ID = "HIT-2024-01F181"

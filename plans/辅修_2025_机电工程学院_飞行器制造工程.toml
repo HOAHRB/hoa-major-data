@@ -1,0 +1,28 @@
+[[courses]]
+course_code = "22ME22018F"
+course_name = "机械工程材料及成形技术基础"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22ME31301F"
+course_name = "空间技术概论"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[info]
+year = "2025"
+major_code = "02F083"
+major_name = "飞行器制造工程"
+school_name = "机电工程学院"
+plan_ID = "HIT-2025-02F083"

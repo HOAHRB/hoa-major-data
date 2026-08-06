@@ -1,0 +1,626 @@
+[[courses]]
+course_code = "22AD11001C"
+course_name = "思想政治理论实践课"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "学生工作部（处）/团委"
+total_hours = 72
+
+[[courses]]
+course_code = "22AD16001C"
+course_name = "军事理论"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+total_hours = 72
+
+[[courses]]
+course_code = "22AD16002C"
+course_name = "军事技能"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+total_hours = 72
+
+[[courses]]
+course_code = "22CC22010C"
+course_name = "无机化学"
+credit = 4.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 144
+
+[[courses]]
+course_code = "22CS14001C"
+course_name = "计算思维与信息基础"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 72
+
+[[courses]]
+course_code = "22FL12001C"
+course_name = "大学外语"
+credit = 3.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "英语"
+offering_college = "人文社科学部"
+total_hours = 108
+
+[[courses]]
+course_code = "22FL32250C"
+course_name = "综合俄语1"
+credit = 3.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 108
+
+[[courses]]
+course_code = "22FL32258C"
+course_name = "俄语基础语法1"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 72
+
+[[courses]]
+course_code = "22MA15040C"
+course_name = "微积分E（1）"
+credit = 4.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 144
+
+[[courses]]
+course_code = "22MA15042C"
+course_name = "代数与几何F"
+credit = 3.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22MX11003C"
+course_name = "中国近现代史纲要"
+credit = 3.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22PE13001C"
+course_name = "体育（1）"
+credit = 1.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 36
+
+[[courses]]
+course_code = "22AD16003C"
+course_name = "悦己人生"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+total_hours = 72
+
+[[courses]]
+course_code = "22CC31001C"
+course_name = "热力学基础(俄)"
+credit = 3.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22FL12002C"
+course_name = "大学外语"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "英语"
+offering_college = "人文社科学部"
+total_hours = 72
+
+[[courses]]
+course_code = "22FL32259C"
+course_name = "综合俄语2"
+credit = 3.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 108
+
+[[courses]]
+course_code = "22FL32261C"
+course_name = "俄语基础语法2"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 36
+
+[[courses]]
+course_code = "22MA15041C"
+course_name = "微积分E（2）"
+credit = 4.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 144
+
+[[courses]]
+course_code = "22MX11001C"
+course_name = "习近平新时代中国特色社会主义思想概论"
+credit = 3.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22MX11002C"
+course_name = "思想道德与法治"
+credit = 3.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22MX11006C"
+course_name = "形势与政策（1）"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 36
+
+[[courses]]
+course_code = "22PE13002C"
+course_name = "体育（2）"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 36
+
+[[courses]]
+course_code = "22CC31002C"
+course_name = "生命安全"
+credit = 1.0
+recommended_year_semester = "第一学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 36
+
+[[courses]]
+course_code = "22CC22001C"
+course_name = "分析化学"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 72
+
+[[courses]]
+course_code = "22CC22002C"
+course_name = "无机化学实验"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22CC22003C"
+course_name = "物理化学实验"
+credit = 5.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 180
+
+[[courses]]
+course_code = "22CC22004C"
+course_name = "物理化学"
+credit = 4.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 144
+
+[[courses]]
+course_code = "22CC32001C"
+course_name = "综合俄语（3）"
+credit = 4.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 144
+
+[[courses]]
+course_code = "22CC32002C"
+course_name = "俄语基础语法（3）"
+credit = 4.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 144
+
+[[courses]]
+course_code = "22MX11005C"
+course_name = "马克思主义基本原理"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22PE13003C"
+course_name = "体育（3）"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 36
+
+[[courses]]
+course_code = "22PH15008C"
+course_name = "大学物理F"
+credit = 4.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "物理学院"
+total_hours = 144
+
+[[courses]]
+course_code = "22CC22005C"
+course_name = "分析化学实验"
+credit = 5.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 180
+
+[[courses]]
+course_code = "22CC22007C"
+course_name = "有机化学基础"
+credit = 5.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 180
+
+[[courses]]
+course_code = "22CC31016C"
+course_name = "化学科技英语"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22CC32003C"
+course_name = "综合俄语（4）"
+credit = 4.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 144
+
+[[courses]]
+course_code = "22CC32004C"
+course_name = "俄语基础语法（4）"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 72
+
+[[courses]]
+course_code = "22CC32026C"
+course_name = "哲学"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 72
+
+[[courses]]
+course_code = "22MX11004C"
+course_name = "毛泽东思想和中国特色社会主义理论体系概论"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22MX11007C"
+course_name = "形势与政策（2）"
+credit = 1.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 36
+
+[[courses]]
+course_code = "22MX16001C"
+course_name = "国家安全教育"
+credit = 1.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 36
+
+[[courses]]
+course_code = "22PE13004C"
+course_name = "体育（4）"
+credit = 1.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 36
+
+[[courses]]
+course_code = "22PH15018C"
+course_name = "大学物理实验B"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "物理学院"
+total_hours = 72
+
+[[courses]]
+course_code = "22CC32006C"
+course_name = "生物化学"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22CC32007C"
+course_name = "催化化学"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22CC32015C"
+course_name = "化学中的机器学习"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22CC32019C"
+course_name = "配合物的认识与应用"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22MX44001"
+course_name = "劳动教育概论"
+credit = 0.0
+recommended_year_semester = "第二学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[[courses]]
+course_code = "22CC22006C"
+course_name = "有机化学实验"
+credit = 5.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 180
+
+[[courses]]
+course_code = "22CC31003C"
+course_name = "俄罗斯概况"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22CC31007C"
+course_name = "化学传感器"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22CC31008C"
+course_name = "生活中的化学"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22CC31011C"
+course_name = "胶体化学"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22CC31015C"
+course_name = "电化学"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22CC31019C"
+course_name = "实验数据处理"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22CC31023C"
+course_name = "量子化学"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22CC31024C"
+course_name = "化学科技俄语"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22CC31025C"
+course_name = "结构化学"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22CC31029C"
+course_name = "现代电化学电源"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22CC32020C"
+course_name = "无机固体化学"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 108
+
+[info]
+year = "2024"
+major_code = "25079"
+major_name = "化学（中外合作）"
+school_name = "化工与化学学院"
+plan_ID = "HIT-2024-25079"

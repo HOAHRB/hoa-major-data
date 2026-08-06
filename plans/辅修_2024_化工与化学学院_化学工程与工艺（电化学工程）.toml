@@ -1,0 +1,112 @@
+[[courses]]
+course_code = "22CC22001F"
+course_name = "化学与生活"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC22002F"
+course_name = "无机与分析化学"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC22004F"
+course_name = "物理化学"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "化工与化学学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22CC22005F"
+course_name = "有机化学"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "化工与化学学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22CC31005F"
+course_name = "理论电化学"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "化工与化学学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22CC31006F"
+course_name = "电化学测量技术"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC31007F"
+course_name = "新型化学电源"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC31008F"
+course_name = "电化学表面工程"
+credit = 2.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC31009F"
+course_name = "电化学实验"
+credit = 1.0
+recommended_year_semester = "第四学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22CC33002F"
+course_name = "毕业论文（设计）"
+credit = 5.0
+recommended_year_semester = "第四学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+
+[info]
+year = "2024"
+major_code = "25F142"
+major_name = "化学工程与工艺（电化学工程）"
+school_name = "化工与化学学院"
+plan_ID = "HIT-2024-25F142"

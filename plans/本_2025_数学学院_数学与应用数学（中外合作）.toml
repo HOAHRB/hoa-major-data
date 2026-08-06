@@ -1,0 +1,319 @@
+[[courses]]
+course_code = "22AD11001C"
+course_name = "思想政治理论实践课"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "学生工作部（处）/团委"
+total_hours = 72
+
+[[courses]]
+course_code = "22AD16001C"
+course_name = "军事理论"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+total_hours = 72
+
+[[courses]]
+course_code = "22AD16002C"
+course_name = "军事技能"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+total_hours = 72
+
+[[courses]]
+course_code = "22FL12001C"
+course_name = "大学外语"
+credit = 3.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "英语"
+offering_college = "人文社科学部"
+total_hours = 108
+
+[[courses]]
+course_code = "22MA22103C"
+course_name = "数学分析（1）"
+credit = 8.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 288
+
+[[courses]]
+course_code = "22MA22104C"
+course_name = "高等代数（1）"
+credit = 6.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 216
+
+[[courses]]
+course_code = "22MA32102C"
+course_name = "数学专业英语"
+credit = 1.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 36
+
+[[courses]]
+course_code = "22MX11003C"
+course_name = "中国近现代史纲要"
+credit = 3.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22PE13001C"
+course_name = "体育（1）"
+credit = 1.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 36
+
+[[courses]]
+course_code = "22AD16003C"
+course_name = "悦己人生"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+total_hours = 72
+
+[[courses]]
+course_code = "22FL12002C"
+course_name = "大学外语"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "英语"
+offering_college = "人文社科学部"
+total_hours = 72
+
+[[courses]]
+course_code = "22MA22016C"
+course_name = "数学分析（2）"
+credit = 8.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 288
+
+[[courses]]
+course_code = "22MA22017C"
+course_name = "高等代数（2）"
+credit = 8.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 288
+
+[[courses]]
+course_code = "22MA22018C"
+course_name = "解析几何与初等拓扑"
+credit = 7.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 252
+
+[[courses]]
+course_code = "22MA31003C"
+course_name = "数理逻辑"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 36
+
+[[courses]]
+course_code = "22MX11001C"
+course_name = "习近平新时代中国特色社会主义思想概论"
+credit = 3.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22MX11002C"
+course_name = "思想道德与法治"
+credit = 3.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22MX11006C"
+course_name = "形势与政策（1）"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 36
+
+[[courses]]
+course_code = "22PE13002C"
+course_name = "体育（2）"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 36
+
+[[courses]]
+course_code = "22MA32113C"
+course_name = "基础数学（A）"
+credit = 1.0
+recommended_year_semester = "第一学年夏季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 36
+
+[[courses]]
+course_code = "22MA32114C"
+course_name = "组合计算"
+credit = 1.0
+recommended_year_semester = "第一学年夏季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 36
+
+[[courses]]
+course_code = "22MA32426C"
+course_name = "积分在物理和几何中的应用方法"
+credit = 1.0
+recommended_year_semester = "第一学年夏季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 36
+
+[[courses]]
+course_code = "22CS14004C"
+course_name = "计算思维与人工智能"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 72
+
+[[courses]]
+course_code = "22FL32250C"
+course_name = "综合俄语1"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 108
+
+[[courses]]
+course_code = "22FL32251C"
+course_name = "俄语基础语法1"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 36
+
+[[courses]]
+course_code = "22MA22019C"
+course_name = "数学分析（3）"
+credit = 8.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 288
+
+[[courses]]
+course_code = "22MA22020C"
+course_name = "常微分方程"
+credit = 6.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 216
+
+[[courses]]
+course_code = "22MA22021C"
+course_name = "点集拓扑学"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22MX11005C"
+course_name = "马克思主义基本原理"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22PE13003C"
+course_name = "体育（3）"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 36
+
+[info]
+year = "2025"
+major_code = "31126"
+major_name = "数学与应用数学（中外合作）"
+school_name = "数学学院"
+plan_ID = "HIT-2025-31126"

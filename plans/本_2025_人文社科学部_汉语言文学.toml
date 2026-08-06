@@ -1,0 +1,169 @@
+[[courses]]
+course_code = "22HS22421"
+course_name = "初级口语（上）"
+credit = 6.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 96
+
+[[courses]]
+course_code = "22HS22423"
+course_name = "初级听力（上）"
+credit = 4.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 64
+
+[[courses]]
+course_code = "22HS31401"
+course_name = "初级汉语（上）"
+credit = 8.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 128
+
+[[courses]]
+course_code = "22HS31402"
+course_name = "初级阅读（上）"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS22422"
+course_name = "初级口语（下）"
+credit = 6.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 96
+
+[[courses]]
+course_code = "22HS22424"
+course_name = "初级听力（下）"
+credit = 4.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 64
+
+[[courses]]
+course_code = "22HS31403"
+course_name = "初级汉语（下）"
+credit = 8.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 128
+
+[[courses]]
+course_code = "22HS31404"
+course_name = "初级阅读（下）"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS32406"
+course_name = "中国文化"
+credit = 2.0
+recommended_year_semester = "第一学年夏季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS22412"
+course_name = "中级口语（上）"
+credit = 4.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 64
+
+[[courses]]
+course_code = "22HS22414"
+course_name = "中级听力（上）"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS31405"
+course_name = "中级汉语（上）"
+credit = 6.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 96
+
+[[courses]]
+course_code = "22HS31406"
+course_name = "中级阅读（上）"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS31407"
+course_name = "中级写作（上）"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS32401"
+course_name = "中国概况"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[info]
+year = "2025"
+major_code = "35163"
+major_name = "汉语言文学"
+school_name = "人文社科学部"
+plan_ID = "HIT-2025-35163"

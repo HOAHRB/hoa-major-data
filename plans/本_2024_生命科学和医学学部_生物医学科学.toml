@@ -1,0 +1,140 @@
+[[courses]]
+course_code = "22MH31102"
+course_name = "医学遗传学"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22MH31304"
+course_name = "医学细胞生物学"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22PE13005"
+course_name = "体育（5）"
+credit = 0.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22MH31310"
+course_name = "慢性疾病管理与健康"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "限选"
+course_category = "其他"
+track = "方向2：健康医学"
+offering_college = "生命科学和医学学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22MH31313"
+course_name = "预防医学B"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "限选"
+course_category = "其他"
+track = "方向2：健康医学"
+offering_college = "生命科学和医学学部"
+total_hours = 24
+
+[[courses]]
+course_code = "22EE32075"
+course_name = "电路与电子技术B"
+credit = 4.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "电气工程及自动化学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22EE32076"
+course_name = "电路与电子技术实验B"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "电气工程及自动化学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22MH32004"
+course_name = "分子影像"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22MH32007"
+course_name = "信息物理系统-理论与建模"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22MH32047"
+course_name = "医学神经生物学"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22MH32053"
+course_name = "公共营养"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 24
+
+[[courses]]
+course_code = "22MH32054"
+course_name = "毒理学"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22MH32057"
+course_name = "特殊人群营养"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 24
+
+[info]
+year = "2024"
+major_code = "37522"
+major_name = "生物医学科学"
+school_name = "生命科学和医学学部"
+plan_ID = "HIT-2024-37522"

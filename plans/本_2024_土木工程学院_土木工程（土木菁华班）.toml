@@ -1,0 +1,188 @@
+[[courses]]
+course_code = "22CC31035"
+course_name = "物理化学C"
+credit = 3.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "土木工程材料"
+offering_college = "化工与化学学院"
+total_hours = 56
+
+[[courses]]
+course_code = "22CE31001"
+course_name = "结构动力学"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "土木菁华班"
+offering_college = "土木工程学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22CE31001"
+course_name = "结构动力学"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "建筑工程"
+offering_college = "土木工程学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22CE31002"
+course_name = "混凝土结构基本原理A"
+credit = 3.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "建筑工程"
+offering_college = "土木工程学院"
+total_hours = 56
+
+[[courses]]
+course_code = "22CE31003"
+course_name = "钢结构基本原理"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "建筑工程"
+offering_college = "土木工程学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22CE31004"
+course_name = "基础工程B"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "建筑工程"
+offering_college = "土木工程学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22CE31004"
+course_name = "基础工程B"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "土木菁华班"
+offering_college = "土木工程学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22CE31009"
+course_name = "混凝土结构"
+credit = 3.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "土木菁华班"
+offering_college = "土木工程学院"
+total_hours = 56
+
+[[courses]]
+course_code = "22CE31015"
+course_name = "无机材料科学基础"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "土木工程材料"
+offering_college = "土木工程学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22CE31016"
+course_name = "材料分析测试方法"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "土木工程材料"
+offering_college = "土木工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CE31017"
+course_name = "钢筋混凝土结构"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "土木工程材料"
+offering_college = "土木工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CE33002"
+course_name = "钢筋混凝土肋梁楼盖设计"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+track = "建筑工程"
+offering_college = "土木工程学院"
+
+[[courses]]
+course_code = "22CE33003"
+course_name = "基础工程B课程设计"
+credit = 0.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+track = "建筑工程"
+offering_college = "土木工程学院"
+
+[[courses]]
+course_code = "22CE33010"
+course_name = "混凝土结构课程设计A"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+track = "土木菁华班"
+offering_college = "土木工程学院"
+
+[[courses]]
+course_code = "22CE33011"
+course_name = "基础工程B课程设计与电算分析"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+track = "土木菁华班"
+offering_college = "土木工程学院"
+
+[[courses]]
+course_code = "22PE13005"
+course_name = "体育（5）"
+credit = 0.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[info]
+year = "2024"
+major_code = "09331"
+major_name = "土木工程（土木菁华班）"
+school_name = "土木工程学院"
+plan_ID = "HIT-2024-09331"

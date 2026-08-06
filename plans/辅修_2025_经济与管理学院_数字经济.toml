@@ -1,0 +1,27 @@
+[[courses]]
+course_code = "22EM21901F"
+course_name = "宏观经济学"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22EM21909F"
+course_name = "国际商务"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[info]
+year = "2025"
+major_code = "07F223"
+major_name = "数字经济"
+school_name = "经济与管理学院"
+plan_ID = "HIT-2025-07F223"

@@ -1,0 +1,46 @@
+[[courses]]
+course_code = "22LS22004F"
+course_name = "生物专业导论"
+credit = 1.5
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 24
+
+[[courses]]
+course_code = "22LS22005F"
+course_name = "生物大分子分析及检测"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 24
+
+[[courses]]
+course_code = "22LS22006F"
+course_name = "实验室安全及基础实验训练"
+credit = 1.5
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 36
+
+[[courses]]
+course_code = "22LS22007F"
+course_name = "生物学特色实验（1）"
+credit = 0.5
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 12
+
+[info]
+year = "2025"
+major_code = "37F281"
+major_name = "生物技术"
+school_name = "生命科学和医学学部"
+plan_ID = "HIT-2025-37F281"

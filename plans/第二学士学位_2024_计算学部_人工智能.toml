@@ -1,0 +1,281 @@
+[[courses]]
+course_code = "22CS22018"
+course_name = "Python程序设计C"
+credit = 4.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 64
+
+[[courses]]
+course_code = "22CS22032"
+course_name = "集合论与图论B"
+credit = 4.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 64
+
+[[courses]]
+course_code = "22CS22033"
+course_name = "算法设计与分析B"
+credit = 3.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 48
+
+[[courses]]
+course_code = "22CS22034"
+course_name = "数据结构与算法B"
+credit = 4.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 64
+
+[[courses]]
+course_code = "22CS22035"
+course_name = "数字逻辑与数字系统设计B"
+credit = 3.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 48
+
+[[courses]]
+course_code = "22CS22037"
+course_name = "计算机网络B"
+credit = 4.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 64
+
+[[courses]]
+course_code = "22CS22038"
+course_name = "数理逻辑与近世代数C"
+credit = 4.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 64
+
+[[courses]]
+course_code = "22CS22039"
+course_name = "计算机组成原理C"
+credit = 4.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 64
+
+[[courses]]
+course_code = "22CS33060"
+course_name = "人工智能程序设计实践B"
+credit = 2.0
+recommended_year_semester = "第一学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+
+[[courses]]
+course_code = "22CS31060"
+course_name = "模式识别与机器学习C"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 48
+
+[[courses]]
+course_code = "22CS31061"
+course_name = "计算机视觉B"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 48
+
+[[courses]]
+course_code = "22CS31062"
+course_name = "自然语言处理B"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 48
+
+[[courses]]
+course_code = "22CS31063"
+course_name = "数字媒体处理技术B"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 48
+
+[[courses]]
+course_code = "22CS32042"
+course_name = "智能语音处理B"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22CS32728"
+course_name = "中文信息处理"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22CS32735"
+course_name = "计算建模B"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22CS32737"
+course_name = "并行计算B"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22CS32739"
+course_name = "人工智能导论B"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22CS32741"
+course_name = "信息检索B"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22CS31054"
+course_name = "智能系统设计与实践"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+
+[[courses]]
+course_code = "22CS33900"
+course_name = "毕业论文（设计）"
+credit = 8.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+
+[[courses]]
+course_code = "22CS31000"
+course_name = "计算理论"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22CS32704"
+course_name = "知识表示与推理B"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22CS32733"
+course_name = "计算机体系结构D"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22CS32736"
+course_name = "高级算法B"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22CS32738"
+course_name = "分布式系统B"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22CS32740"
+course_name = "脑机接口技术B"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 32
+
+[info]
+year = "2024"
+major_code = "13BE036"
+major_name = "人工智能"
+school_name = "计算学部"
+plan_ID = "HIT-2024-13BE036"

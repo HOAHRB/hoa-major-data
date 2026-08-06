@@ -1,0 +1,205 @@
+[[courses]]
+course_code = "22FL22130"
+course_name = "基础英语（1）"
+credit = 4.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 64
+
+[[courses]]
+course_code = "22FL22132"
+course_name = "英语听力（1）"
+credit = 4.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 64
+
+[[courses]]
+course_code = "22FL22134"
+course_name = "英语基础写作"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL22139"
+course_name = "英汉笔译"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL31130"
+course_name = "英国概况"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL31132"
+course_name = "英国文学史及选读"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL22131"
+course_name = "基础英语（2）"
+credit = 4.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 64
+
+[[courses]]
+course_code = "22FL22133"
+course_name = "英语听力（2）"
+credit = 4.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 64
+
+[[courses]]
+course_code = "22FL22135"
+course_name = "英语学术写作"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL31131"
+course_name = "美国文学史及选读"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL31133"
+course_name = "美国概况"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL31137"
+course_name = "汉英笔译"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL31138"
+course_name = "英语语言学导论"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL22136"
+course_name = "高级英语"
+credit = 4.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 64
+
+[[courses]]
+course_code = "22FL22137"
+course_name = "英语高级听力"
+credit = 4.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 64
+
+[[courses]]
+course_code = "22FL22138"
+course_name = "英语演讲"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL31134"
+course_name = "英汉口译"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL31135"
+course_name = "科技翻译"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL31139"
+course_name = "跨文化交际C"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[info]
+year = "2025"
+major_code = "35E151"
+major_name = "英语"
+school_name = "人文社科学部"
+plan_ID = "HIT-2025-35E151"

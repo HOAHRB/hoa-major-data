@@ -1,0 +1,172 @@
+[[courses]]
+course_code = "22MX11005"
+course_name = "马克思主义基本原理"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MX11007"
+course_name = "形势与政策（2）"
+credit = 1.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22PE13004"
+course_name = "体育（4）"
+credit = 0.5
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22TS21104"
+course_name = "结构力学B"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "交通科学与工程学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22TS22404"
+course_name = "数据结构与算法A"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "交通科学与工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22PE13005"
+course_name = "体育（5）"
+credit = 0.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22TS21102"
+course_name = "工程地质与水文地质"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "交通科学与工程学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22TS21301"
+course_name = "土木工程材料"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "交通科学与工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22TS21601"
+course_name = "测量学A"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "交通科学与工程学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22TS22402"
+course_name = "运输经济学"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "交通科学与工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22TS31401"
+course_name = "综合运输概论"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "交通科学与工程学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22TS31402"
+course_name = "交通控制A"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "交通科学与工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22TS31405"
+course_name = "交通系统工程"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "交通科学与工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22TS33402"
+course_name = "交通控制课程设计A"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "交通科学与工程学院"
+
+[[courses]]
+course_code = "22TS33405"
+course_name = "交通系统工程课程设计"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "交通科学与工程学院"
+
+[[courses]]
+course_code = "22TS31512"
+course_name = "AI+交通行为分析"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "交通科学与工程学院"
+total_hours = 16
+
+[info]
+year = "2024"
+major_code = "12322"
+major_name = "交通工程"
+school_name = "交通科学与工程学院"
+plan_ID = "HIT-2024-12322"

@@ -1,0 +1,120 @@
+[[courses]]
+course_code = "22CC22001F"
+course_name = "化学与生活"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC22002F"
+course_name = "无机与分析化学"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC22003F"
+course_name = "化学基础实验"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22CC22004F"
+course_name = "物理化学"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "化工与化学学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22CC22005F"
+course_name = "有机化学"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "化工与化学学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22CC31022F"
+course_name = "计算化学"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC31023F"
+course_name = "生物化学"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC31024F"
+course_name = "基因的奥秘"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC31025F"
+course_name = "纳米材料导论"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC31026F"
+course_name = "晶体及分子对称性"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC33006F"
+course_name = "毕业论文（设计）"
+credit = 5.0
+recommended_year_semester = "第四学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+
+[info]
+year = "2024"
+major_code = "25F076"
+major_name = "化学"
+school_name = "化工与化学学院"
+plan_ID = "HIT-2024-25F076"

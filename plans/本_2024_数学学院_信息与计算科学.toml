@@ -1,0 +1,81 @@
+[[courses]]
+course_code = "22MA22012"
+course_name = "概率论"
+credit = 4.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 72
+
+[[courses]]
+course_code = "22MA22015"
+course_name = "数学物理方程"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MA31021"
+course_name = "数值代数"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MA31023"
+course_name = "数值逼近"
+credit = 3.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 56
+
+[[courses]]
+course_code = "22PE13005"
+course_name = "体育（5）"
+credit = 0.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22PH15013"
+course_name = "大学物理x（2）"
+credit = 4.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "物理学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22MA22007"
+course_name = "初等数论"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 32
+
+[info]
+year = "2024"
+major_code = "31122"
+major_name = "信息与计算科学"
+school_name = "数学学院"
+plan_ID = "HIT-2024-31122"

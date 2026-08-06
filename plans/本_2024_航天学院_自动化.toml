@@ -1,0 +1,67 @@
+[[courses]]
+course_code = "22AS31102"
+course_name = "自动控制理论（1）"
+credit = 5.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 80
+
+[[courses]]
+course_code = "22AS31104"
+course_name = "自动控制实践（1）"
+credit = 4.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22ME22007"
+course_name = "机械原理B"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22ME22011"
+course_name = "工程训练（电子工艺实习）"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+
+[[courses]]
+course_code = "22ME22020"
+course_name = "机械基础实验（机械原理B）"
+credit = 0.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 12
+
+[[courses]]
+course_code = "22PE13005"
+course_name = "体育（5）"
+credit = 0.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[info]
+year = "2024"
+major_code = "01041"
+major_name = "自动化"
+school_name = "航天学院"
+plan_ID = "HIT-2024-01041"

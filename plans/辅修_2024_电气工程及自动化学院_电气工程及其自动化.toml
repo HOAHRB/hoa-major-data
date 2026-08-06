@@ -1,0 +1,79 @@
+[[courses]]
+course_code = "22EE21002F"
+course_name = "电路与电子技术基础"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "电气工程及自动化学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22EE21003F"
+course_name = "电路与电子技术实验"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "电气工程及自动化学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22EE22004F"
+course_name = "信号与系统"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "电气工程及自动化学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EE22041F"
+course_name = "工程电磁场"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "电气工程及自动化学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EE32008F"
+course_name = "电网络分析"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "电气工程及自动化学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EE22043F"
+course_name = "控制原理与应用"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "跨专业发展"
+offering_college = "电气工程及自动化学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EE31010F"
+course_name = "电机原理"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "跨专业发展"
+offering_college = "电气工程及自动化学院"
+total_hours = 48
+
+[info]
+year = "2024"
+major_code = "05F061"
+major_name = "电气工程及其自动化"
+school_name = "电气工程及自动化学院"
+plan_ID = "HIT-2024-05F061"

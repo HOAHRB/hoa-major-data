@@ -1,0 +1,89 @@
+[[courses]]
+course_code = "22MX22020F"
+course_name = "中国哲学史"
+credit = 1.5
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22MX22021F"
+course_name = "哲学导论"
+credit = 1.5
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22MX22022F"
+course_name = "西方哲学史"
+credit = 1.5
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22MX22019F"
+course_name = "中西方哲学经典选读"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX22023F"
+course_name = "马克思主义哲学原理"
+credit = 1.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22MX31021F"
+course_name = "哲学与社会"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "跨专业发展"
+offering_college = "马克思主义学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22MX31022F"
+course_name = "人生哲学"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "跨专业发展"
+offering_college = "马克思主义学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22MX31023F"
+course_name = "伦理学"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "跨专业发展"
+offering_college = "马克思主义学院"
+total_hours = 24
+
+[info]
+year = "2024"
+major_code = "49F493S"
+major_name = "哲学"
+school_name = "马克思主义学院"
+plan_ID = "HIT-2024-49F493S"

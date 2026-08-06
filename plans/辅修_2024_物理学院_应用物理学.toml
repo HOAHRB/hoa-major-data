@@ -1,0 +1,60 @@
+[[courses]]
+course_code = "22PH22001F"
+course_name = "原子物理"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "物理学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22PH22002F"
+course_name = "电动力学"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "物理学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22PH22003F"
+course_name = "热力学与统计物理"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "物理学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22PH22004F"
+course_name = "量子力学"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "物理学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22PH22005F"
+course_name = "近代物理实验"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "物理学院"
+total_hours = 72
+
+[info]
+year = "2024"
+major_code = "32F111"
+major_name = "应用物理学"
+school_name = "物理学院"
+plan_ID = "HIT-2024-32F111"

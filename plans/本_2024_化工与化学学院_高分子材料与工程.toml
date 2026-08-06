@@ -1,0 +1,270 @@
+[[courses]]
+course_code = "22CC22021"
+course_name = "化学基础实验D"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "化工与化学学院"
+total_hours = 72
+
+[[courses]]
+course_code = "22CC22022"
+course_name = "大型仪器分析实验"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "化工与化学学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22CC22027"
+course_name = "计算化学B"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC31001"
+course_name = "高分子物理"
+credit = 4.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "化工与化学学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22CC31002"
+course_name = "高分子化学A"
+credit = 4.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "化工与化学学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22CC31003"
+course_name = "高分子专业实验"
+credit = 4.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "化工与化学学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22ME21005"
+course_name = "工程制图基础B"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22PE13005"
+course_name = "体育（5）"
+credit = 0.5
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22CC32001"
+course_name = "英文科技写作"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "海外课程"
+offering_college = "化工与化学学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22CC31005"
+course_name = "高分子流变学"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX11008"
+course_name = "形势与政策（3）"
+credit = 0.5
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[[courses]]
+course_code = "22PE13006"
+course_name = "体育（6）"
+credit = 0.5
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22CC32017"
+course_name = "高分子材料成型加工"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC32018"
+course_name = "高分子合成工艺学"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC32019"
+course_name = "合成纤维"
+credit = 1.5
+recommended_year_semester = "第三学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22CC32020"
+course_name = "合成橡胶材料学"
+credit = 1.5
+recommended_year_semester = "第三学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22CC32021"
+course_name = "塑料材料学"
+credit = 1.5
+recommended_year_semester = "第三学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22CC32026"
+course_name = "绿色高分子材料"
+credit = 1.5
+recommended_year_semester = "第三学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22CC32027"
+course_name = "生物高分子材料及应用"
+credit = 1.5
+recommended_year_semester = "第三学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22CC32028"
+course_name = "液晶高分子"
+credit = 1.5
+recommended_year_semester = "第三学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22CC31004"
+course_name = "高分子材料分析表征技术"
+credit = 1.0
+recommended_year_semester = "第四学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22CC32022"
+course_name = "树脂基复合材料"
+credit = 1.5
+recommended_year_semester = "第四学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22CC32023"
+course_name = "粘接剂与涂料"
+credit = 1.5
+recommended_year_semester = "第四学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22CC32024"
+course_name = "功能高分子材料"
+credit = 1.5
+recommended_year_semester = "第四学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22CC32025"
+course_name = "高分子膜材料"
+credit = 1.5
+recommended_year_semester = "第四学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22CC32083"
+course_name = "专业思维训练"
+credit = 1.0
+recommended_year_semester = "第四学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 16
+
+[info]
+year = "2024"
+major_code = "25141"
+major_name = "高分子材料与工程"
+school_name = "化工与化学学院"
+plan_ID = "HIT-2024-25141"
