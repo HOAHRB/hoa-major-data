@@ -1,0 +1,73 @@
+[[courses]]
+course_code = "22FL22130"
+course_name = "基础英语（1）"
+credit = 4.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 64
+
+[[courses]]
+course_code = "22FL22132"
+course_name = "英语听力（1）"
+credit = 4.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 64
+
+[[courses]]
+course_code = "22FL22134"
+course_name = "英语基础写作"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL22139"
+course_name = "英汉笔译"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL31130"
+course_name = "英国概况"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL31132"
+course_name = "英国文学史及选读"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[info]
+year = "2026"
+major_code = "35E151"
+major_name = "英语"
+school_name = "人文社科学部"
+plan_category = "第二学士学位"
+plan_ID = "HIT-2026-35E151"

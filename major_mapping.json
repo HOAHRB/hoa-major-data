@@ -2012,5 +2012,445 @@
       "school_name": "商学院",
       "majors": []
     }
+  },
+  "2026": {
+    "01044": {
+      "name": "智能装备与系统（强基计划）",
+      "plan_ID": "HIT-2026-01044",
+      "school_name": "航天学院",
+      "majors": []
+    },
+    "011841": {
+      "name": "复合材料与工程（强基计划）",
+      "plan_ID": "HIT-2026-011841",
+      "school_name": "航天学院",
+      "majors": []
+    },
+    "01187": {
+      "name": "工程力学（强基计划）",
+      "plan_ID": "HIT-2026-01187",
+      "school_name": "航天学院",
+      "majors": []
+    },
+    "01E041": {
+      "name": "自动化",
+      "plan_ID": "HIT-2026-01E041",
+      "school_name": "航天学院",
+      "majors": []
+    },
+    "01Y041": {
+      "name": "自动化",
+      "plan_ID": "HIT-2026-01Y041",
+      "school_name": "航天学院",
+      "majors": []
+    },
+    "01Y215": {
+      "name": "集成电路设计与集成系统",
+      "plan_ID": "HIT-2026-01Y215",
+      "school_name": "航天学院",
+      "majors": []
+    },
+    "020831": {
+      "name": "飞行器制造工程（强基计划）",
+      "plan_ID": "HIT-2026-020831",
+      "school_name": "机电工程学院",
+      "majors": []
+    },
+    "02Y086": {
+      "name": "机器人工程",
+      "plan_ID": "HIT-2026-02Y086",
+      "school_name": "机电工程学院",
+      "majors": []
+    },
+    "02Y087": {
+      "name": "智能制造工程",
+      "plan_ID": "HIT-2026-02Y087",
+      "school_name": "机电工程学院",
+      "majors": []
+    },
+    "031911": {
+      "name": "材料科学与工程（强基计划）",
+      "plan_ID": "HIT-2026-031911",
+      "school_name": "材料科学与工程学院",
+      "majors": []
+    },
+    "03Y190": {
+      "name": "材料科学与工程",
+      "plan_ID": "HIT-2026-03Y190",
+      "school_name": "材料科学与工程学院",
+      "majors": []
+    },
+    "04025": {
+      "name": "核工程与核技术",
+      "plan_ID": "HIT-2026-04025",
+      "school_name": "能源科学与工程学院",
+      "majors": []
+    },
+    "040281": {
+      "name": "储能科学与工程（强基计划）",
+      "plan_ID": "HIT-2026-040281",
+      "school_name": "能源科学与工程学院",
+      "majors": []
+    },
+    "04Y024": {
+      "name": "能源与动力工程",
+      "plan_ID": "HIT-2026-04Y024",
+      "school_name": "能源科学与工程学院",
+      "majors": []
+    },
+    "05Y061": {
+      "name": "电气工程及其自动化",
+      "plan_ID": "HIT-2026-05Y061",
+      "school_name": "电气工程及自动化学院",
+      "majors": []
+    },
+    "071001": {
+      "name": "大数据管理与应用（中外合作）",
+      "plan_ID": "HIT-2026-071001",
+      "school_name": "经济与管理学院",
+      "majors": []
+    },
+    "07E103": {
+      "name": "大数据管理与应用",
+      "plan_ID": "HIT-2026-07E103",
+      "school_name": "经济与管理学院",
+      "majors": []
+    },
+    "07Y103": {
+      "name": "大数据管理与应用",
+      "plan_ID": "HIT-2026-07Y103",
+      "school_name": "经济与管理学院",
+      "majors": []
+    },
+    "07Y223": {
+      "name": "数字经济",
+      "plan_ID": "HIT-2026-07Y223",
+      "school_name": "经济与管理学院",
+      "majors": []
+    },
+    "09Y331": {
+      "name": "土木工程",
+      "plan_ID": "HIT-2026-09Y331",
+      "school_name": "土木工程学院",
+      "majors": []
+    },
+    "11B304": {
+      "name": "数字媒体艺术",
+      "plan_ID": "HIT-2026-11B304",
+      "school_name": "建筑与设计学院",
+      "majors": []
+    },
+    "11B3410": {
+      "name": "产品设计",
+      "plan_ID": "HIT-2026-11B3410",
+      "school_name": "建筑与设计学院",
+      "majors": []
+    },
+    "11B349": {
+      "name": "智慧建筑与建造（中外合作）",
+      "plan_ID": "HIT-2026-11B349",
+      "school_name": "建筑与设计学院",
+      "majors": []
+    },
+    "11BY304": {
+      "name": "数字媒体艺术",
+      "plan_ID": "HIT-2026-11BY304",
+      "school_name": "建筑与设计学院",
+      "majors": []
+    },
+    "11BY341": {
+      "name": "建筑学",
+      "plan_ID": "HIT-2026-11BY341",
+      "school_name": "建筑与设计学院",
+      "majors": []
+    },
+    "13B0312": {
+      "name": "数学类（智能科学）",
+      "plan_ID": "HIT-2026-13B0312",
+      "school_name": "计算学部",
+      "majors": []
+    },
+    "13BY031": {
+      "name": "计算机科学与技术",
+      "plan_ID": "HIT-2026-13BY031",
+      "school_name": "计算学部",
+      "majors": []
+    },
+    "13BY036": {
+      "name": "人工智能",
+      "plan_ID": "HIT-2026-13BY036",
+      "school_name": "计算学部",
+      "majors": []
+    },
+    "20E052": {
+      "name": "电子信息工程",
+      "plan_ID": "HIT-2026-20E052",
+      "school_name": "电子与信息工程学院",
+      "majors": []
+    },
+    "20Y052": {
+      "name": "电子信息工程",
+      "plan_ID": "HIT-2026-20Y052",
+      "school_name": "电子与信息工程学院",
+      "majors": []
+    },
+    "25079": {
+      "name": "化学（中外合作）",
+      "plan_ID": "HIT-2026-25079",
+      "school_name": "化工与化学学院",
+      "majors": []
+    },
+    "25Y142": {
+      "name": "化学工程与工艺",
+      "plan_ID": "HIT-2026-25Y142",
+      "school_name": "化工与化学学院",
+      "majors": []
+    },
+    "260126Q01": {
+      "name": "工科试验班（自主智能）",
+      "plan_ID": "HIT-2026-260126Q01",
+      "school_name": "工科试验班（自主智能）",
+      "majors": []
+    },
+    "260226Q02": {
+      "name": "工科试验班（脑机智能）",
+      "plan_ID": "HIT-2026-260226Q02",
+      "school_name": "工科试验班（脑机智能）",
+      "majors": []
+    },
+    "260326Q03": {
+      "name": "工科试验班（未来空天）",
+      "plan_ID": "HIT-2026-260326Q03",
+      "school_name": "工科试验班（未来空天）",
+      "majors": []
+    },
+    "260426Q04": {
+      "name": "工科试验班（未来信息）",
+      "plan_ID": "HIT-2026-260426Q04",
+      "school_name": "工科试验班（未来信息）",
+      "majors": []
+    },
+    "260726Q05": {
+      "name": "经济管理试验班（智能社会治理）",
+      "plan_ID": "HIT-2026-260726Q05",
+      "school_name": "经济管理试验班（智能社会治理）",
+      "majors": []
+    },
+    "260826Q07": {
+      "name": "工科试验班（未来能源）",
+      "plan_ID": "HIT-2026-260826Q07",
+      "school_name": "工科试验班（未来能源）",
+      "majors": []
+    },
+    "260926Q08": {
+      "name": "工科试验班（未来城市）",
+      "plan_ID": "HIT-2026-260926Q08",
+      "school_name": "工科试验班（未来城市）",
+      "majors": []
+    },
+    "261026Q10": {
+      "name": "工科试验班（未来能源卓越联培班）",
+      "plan_ID": "HIT-2026-261026Q10",
+      "school_name": "工科试验班（未来能源卓越联培班）",
+      "majors": []
+    },
+    "261126Q11": {
+      "name": "工科试验班（未来城市卓越联培班）",
+      "plan_ID": "HIT-2026-261126Q11",
+      "school_name": "工科试验班（未来城市卓越联培班）",
+      "majors": []
+    },
+    "261226Q12": {
+      "name": "工科试验班（未来智造卓越联培班）",
+      "plan_ID": "HIT-2026-261226Q12",
+      "school_name": "工科试验班（未来智造卓越联培班）",
+      "majors": []
+    },
+    "261326Q13": {
+      "name": "数学与应用数学（卓越联培班）",
+      "plan_ID": "HIT-2026-261326Q13",
+      "school_name": "数学与应用数学（卓越联培班）",
+      "majors": []
+    },
+    "27Y271": {
+      "name": "环境工程",
+      "plan_ID": "HIT-2026-27Y271",
+      "school_name": "环境学院",
+      "majors": []
+    },
+    "31120": {
+      "name": "数学类",
+      "plan_ID": "HIT-2026-31120",
+      "school_name": "数学学院",
+      "majors": []
+    },
+    "31126": {
+      "name": "数学与应用数学（中外合作）",
+      "plan_ID": "HIT-2026-31126",
+      "school_name": "数学学院",
+      "majors": []
+    },
+    "32111": {
+      "name": "应用物理学",
+      "plan_ID": "HIT-2026-32111",
+      "school_name": "物理学院",
+      "majors": []
+    },
+    "32115": {
+      "name": "应用物理学（中外合作）",
+      "plan_ID": "HIT-2026-32115",
+      "school_name": "物理学院",
+      "majors": []
+    },
+    "35152": {
+      "name": "俄语",
+      "plan_ID": "HIT-2026-35152",
+      "school_name": "人文社科学部",
+      "majors": []
+    },
+    "35E151": {
+      "name": "英语",
+      "plan_ID": "HIT-2026-35E151",
+      "school_name": "人文社科学部",
+      "majors": []
+    },
+    "35E161": {
+      "name": "社会学",
+      "plan_ID": "HIT-2026-35E161",
+      "school_name": "人文社科学部",
+      "majors": []
+    },
+    "35E232": {
+      "name": "经济学",
+      "plan_ID": "HIT-2026-35E232",
+      "school_name": "人文社科学部",
+      "majors": []
+    },
+    "35E242": {
+      "name": "法学",
+      "plan_ID": "HIT-2026-35E242",
+      "school_name": "人文社科学部",
+      "majors": []
+    },
+    "35Y154": {
+      "name": "国际组织与全球治理",
+      "plan_ID": "HIT-2026-35Y154",
+      "school_name": "人文社科学部",
+      "majors": []
+    },
+    "37289": {
+      "name": "生物技术（中外合作）",
+      "plan_ID": "HIT-2026-37289",
+      "school_name": "生命科学和医学学部",
+      "majors": []
+    },
+    "37522L": {
+      "name": "智能医学工程（联合培养）",
+      "plan_ID": "HIT-2026-37522L",
+      "school_name": "生命科学和医学学部",
+      "majors": []
+    },
+    "37Y282": {
+      "name": "生物工程",
+      "plan_ID": "HIT-2026-37Y282",
+      "school_name": "生命科学和医学学部",
+      "majors": []
+    },
+    "37Y521": {
+      "name": "智能医学工程",
+      "plan_ID": "HIT-2026-37Y521",
+      "school_name": "生命科学和医学学部",
+      "majors": []
+    },
+    "49E491": {
+      "name": "思想政治教育",
+      "plan_ID": "HIT-2026-49E491",
+      "school_name": "马克思主义学院",
+      "majors": []
+    },
+    "5205SY2": {
+      "name": "永坦班（英才）",
+      "plan_ID": "HIT-2026-5205SY2",
+      "school_name": "未来技术学院",
+      "majors": []
+    },
+    "52088": {
+      "name": "智能机器人班（英才）",
+      "plan_ID": "HIT-2026-52088",
+      "school_name": "未来技术学院",
+      "majors": []
+    },
+    "5213SY01": {
+      "name": "人工智能班（英才）",
+      "plan_ID": "HIT-2026-5213SY01",
+      "school_name": "未来技术学院",
+      "majors": []
+    },
+    "52188": {
+      "name": "小卫星班(英才)",
+      "plan_ID": "HIT-2026-52188",
+      "school_name": "未来技术学院",
+      "majors": []
+    },
+    "52189": {
+      "name": "善义班（英才）",
+      "plan_ID": "HIT-2026-52189",
+      "school_name": "未来技术学院",
+      "majors": []
+    },
+    "52AIS": {
+      "name": "自主智能系统班（英才）",
+      "plan_ID": "HIT-2026-52AIS",
+      "school_name": "未来技术学院",
+      "majors": []
+    },
+    "52HK1": {
+      "name": "港大优学班（英才）",
+      "plan_ID": "HIT-2026-52HK1",
+      "school_name": "未来技术学院",
+      "majors": []
+    },
+    "52JDYQ01": {
+      "name": "尖端仪器班（英才）",
+      "plan_ID": "HIT-2026-52JDYQ01",
+      "school_name": "未来技术学院",
+      "majors": []
+    },
+    "52RGZNZGC": {
+      "name": "人工智能（中关村班）",
+      "plan_ID": "HIT-2026-52RGZNZGC",
+      "school_name": "未来技术学院",
+      "majors": []
+    },
+    "52TOP1": {
+      "name": "尖班（英才）",
+      "plan_ID": "HIT-2026-52TOP1",
+      "school_name": "未来技术学院",
+      "majors": []
+    },
+    "52TOP2": {
+      "name": "尖班（英才）-英国计划",
+      "plan_ID": "HIT-2026-52TOP2",
+      "school_name": "未来技术学院",
+      "majors": []
+    },
+    "52WL01": {
+      "name": "未来技术模块",
+      "plan_ID": "HIT-2026-52WL01",
+      "school_name": "未来技术学院",
+      "majors": []
+    },
+    "60E201": {
+      "name": "工商管理",
+      "plan_ID": "HIT-2026-60E201",
+      "school_name": "商学院",
+      "majors": []
+    },
+    "60Y201": {
+      "name": "工商管理",
+      "plan_ID": "HIT-2026-60Y201",
+      "school_name": "商学院",
+      "majors": []
+    }
   }
 }
