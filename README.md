@@ -10,6 +10,10 @@
 
 `major_mapping.json` 和 `plans/` 由 `hoahrb-jwts` 根据教务系统数据生成。
 
+培养方案文件以类别开头：`本_`、`辅修_`、`第二学士学位_`、`Y_`、`微专业_`
+或 `未分类_`。每个 TOML 的 `[info].plan_category` 必须与文件名前缀一致。
+当前站点只发布 `本_` 培养方案，其他类别仍保存在本仓库中。
+
 以下文件由维护者手工管理，不会被 `hoahrb-jwts` 覆盖：
 
 - `lookup_table.toml`
