@@ -1,37 +1,4 @@
 [[courses]]
-course_code = "22AR21001E"
-course_name = "人居环境导论"
-credit = 1.0
-recommended_year_semester = "第一学年秋季"
-assessment_method = "考查"
-course_nature = "必修"
-course_category = "其他"
-offering_college = "建筑与设计学院"
-total_hours = 16
-
-[[courses]]
-course_code = "22AR21002E"
-course_name = "造型艺术基础-1"
-credit = 2.0
-recommended_year_semester = "第一学年秋季"
-assessment_method = "考查"
-course_nature = "必修"
-course_category = "其他"
-offering_college = "建筑与设计学院"
-total_hours = 32
-
-[[courses]]
-course_code = "22AR21003E"
-course_name = "设计基础"
-credit = 4.0
-recommended_year_semester = "第一学年秋季"
-assessment_method = "考试"
-course_nature = "必修"
-course_category = "其他"
-offering_college = "建筑与设计学院"
-total_hours = 64
-
-[[courses]]
 course_code = "22CS14004E"
 course_name = "计算思维与人工智能"
 credit = 2.0
@@ -47,7 +14,7 @@ course_code = "22HS16002"
 course_name = "初级汉语（1）"
 credit = 3.0
 recommended_year_semester = "第一学年秋季"
-assessment_method = "考试"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "人文社科学部"
@@ -58,33 +25,33 @@ course_code = "22HS22002E"
 course_name = "中国概况"
 credit = 2.0
 recommended_year_semester = "第一学年秋季"
-assessment_method = "考试"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "人文社科学部"
 total_hours = 32
 
 [[courses]]
-course_code = "22MA15014E"
-course_name = "文科数学"
-credit = 2.0
+course_code = "22MA15005E"
+course_name = "微积分C（1）"
+credit = 5.0
 recommended_year_semester = "第一学年秋季"
 assessment_method = "考试"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "数学学院"
-total_hours = 32
+total_hours = 80
 
 [[courses]]
-course_code = "22ME21100E"
-course_name = "画法几何与阴影透视"
-credit = 2.0
+course_code = "22MA15017E"
+course_name = "代数与几何B"
+credit = 3.5
 recommended_year_semester = "第一学年秋季"
 assessment_method = "考试"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "机电工程学院"
-total_hours = 32
+offering_college = "数学学院"
+total_hours = 56
 
 [[courses]]
 course_code = "22PE13001"
@@ -99,8 +66,8 @@ total_hours = 32
 
 [info]
 year = "2026"
-major_code = "11BY341"
-major_name = "建筑学"
-school_name = "建筑与设计学院"
-plan_category = "Y"
-plan_ID = "HIT-2026-11BY341"
+major_code = "02Y087"
+major_name = "智能制造工程"
+school_name = "机电工程学院"
+plan_category = "本科国际生"
+plan_ID = "HIT-2026-02Y087"

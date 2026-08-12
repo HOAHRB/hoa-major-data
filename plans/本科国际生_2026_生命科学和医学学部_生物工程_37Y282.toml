@@ -10,37 +10,26 @@ offering_college = "计算学部"
 total_hours = 32
 
 [[courses]]
-course_code = "22CS21001E"
-course_name = "高级语言程序设计"
-credit = 4.0
-recommended_year_semester = "第一学年秋季"
-assessment_method = "考试"
-course_nature = "必修"
-course_category = "其他"
-offering_college = "计算学部"
-total_hours = 64
-
-[[courses]]
 course_code = "22HS16002"
 course_name = "初级汉语（1）"
 credit = 3.0
 recommended_year_semester = "第一学年秋季"
-assessment_method = "考查"
+assessment_method = "考试"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "人文社科学部"
 total_hours = 48
 
 [[courses]]
-course_code = "22MA15005E"
-course_name = "微积分C（1）"
-credit = 5.0
+course_code = "22HS22002E"
+course_name = "中国概况"
+credit = 2.0
 recommended_year_semester = "第一学年秋季"
-assessment_method = "考试"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "数学学院"
-total_hours = 80
+offering_college = "人文社科学部"
+total_hours = 32
 
 [[courses]]
 course_code = "22MA15017E"
@@ -52,6 +41,17 @@ course_nature = "必修"
 course_category = "其他"
 offering_college = "数学学院"
 total_hours = 56
+
+[[courses]]
+course_code = "22MA15045E"
+course_name = "微积分E（1）"
+credit = 4.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 64
 
 [[courses]]
 course_code = "22PE13001"
@@ -66,8 +66,8 @@ total_hours = 32
 
 [info]
 year = "2026"
-major_code = "20Y052"
-major_name = "电子信息工程"
-school_name = "电子与信息工程学院"
-plan_category = "Y"
-plan_ID = "HIT-2026-20Y052"
+major_code = "37Y282"
+major_name = "生物工程"
+school_name = "生命科学和医学学部"
+plan_category = "本科国际生"
+plan_ID = "HIT-2026-37Y282"
