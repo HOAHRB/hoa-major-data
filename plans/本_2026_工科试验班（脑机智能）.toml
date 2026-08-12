@@ -1,0 +1,116 @@
+[[courses]]
+course_code = "22AD11002"
+course_name = "新时代实践教育"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "学生工作部（处）/团委"
+total_hours = 32
+
+[[courses]]
+course_code = "22AD16001"
+course_name = "军事理论"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+total_hours = 36
+
+[[courses]]
+course_code = "22AD16004"
+course_name = "军事技能"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+
+[[courses]]
+course_code = "22CS14004"
+course_name = "计算思维与人工智能"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL12003"
+course_name = "外语综合（1）"
+credit = 2.5
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "英语"
+offering_college = "人文社科学部"
+total_hours = 60
+
+[[courses]]
+course_code = "22LS15001"
+course_name = "生命科学基础"
+credit = 1.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 16
+
+[[courses]]
+course_code = "22MA15003"
+course_name = "微积分B（1）"
+credit = 5.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 80
+
+[[courses]]
+course_code = "22MA15018"
+course_name = "代数与几何C"
+credit = 3.5
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 56
+
+[[courses]]
+course_code = "22MX11011"
+course_name = "习近平新时代中国特色社会主义思想概论"
+credit = 3.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22PE13001"
+course_name = "体育（1）"
+credit = 1.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 32
+
+[info]
+year = "2026"
+major_code = "260226Q02"
+major_name = "工科试验班（脑机智能）"
+school_name = "工科试验班（脑机智能）"
+plan_category = "本"
+plan_ID = "HIT-2026-260226Q02"

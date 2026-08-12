@@ -1,0 +1,84 @@
+[[courses]]
+course_code = "22HS22161"
+course_name = "社会学概论A"
+credit = 3.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 48
+
+[[courses]]
+course_code = "22HS22162"
+course_name = "社会学研究方法A"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS22163"
+course_name = "古典社会学理论A"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS22164"
+course_name = "现代社会学理论A"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS31163"
+course_name = "社会统计学A"
+credit = 3.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 48
+
+[[courses]]
+course_code = "22HS31164"
+course_name = "社会人类学A"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS31165"
+course_name = "社会心理学基础A"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业核心"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[info]
+year = "2026"
+major_code = "35E161"
+major_name = "社会学"
+school_name = "人文社科学部"
+plan_category = "第二学士学位"
+plan_ID = "HIT-2026-35E161"
