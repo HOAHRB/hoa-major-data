@@ -1,4 +1,15 @@
 [[courses]]
+course_code = "22CE21002E"
+course_name = "土木制图基础"
+credit = 2.0
+assessment_method = "考查"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "土木工程学院"
+total_hours = 32
+
+[[courses]]
 course_code = "22CS14004E"
 course_name = "计算思维与人工智能"
 credit = 2.0
@@ -65,6 +76,39 @@ offering_college = "体育部"
 total_hours = 32
 
 [[courses]]
+course_code = "22CC22105E"
+course_name = "无机化学B"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CE21006E"
+course_name = "土木工程导论"
+credit = 1.0
+assessment_method = "考查"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "土木工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22CE22005E"
+course_name = "理论力学"
+credit = 2.5
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "土木工程学院"
+total_hours = 40
+
+[[courses]]
 course_code = "22HS16003"
 course_name = "初级汉语（2）"
 credit = 3.0
@@ -101,45 +145,87 @@ total_hours = 32
 course_code = "22PH15008E"
 course_name = "大学物理F"
 credit = 4.0
+assessment_method = "考查"
 recommended_year_semester = "第一学年春季"
-assessment_method = "考试"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "物理学院"
 total_hours = 64
 
 [[courses]]
-course_code = "22CC22003E"
-course_name = "有机化学C（1）"
+course_code = "22MX44001E"
+course_name = "劳动教育概论"
+credit = 0.0
+assessment_method = "考查"
+recommended_year_semester = "第一学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[[courses]]
+course_code = "22CE22006E"
+course_name = "材料力学"
 credit = 2.5
 recommended_year_semester = "第二学年秋季"
 assessment_method = "考试"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "化工与化学学院"
+offering_college = "土木工程学院"
 total_hours = 40
 
 [[courses]]
-course_code = "22CC22009E"
-course_name = "无机化学E"
-credit = 3.0
+course_code = "22CE22007E"
+course_name = "土木工程材料"
+credit = 2.5
 recommended_year_semester = "第二学年秋季"
 assessment_method = "考试"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "化工与化学学院"
-total_hours = 48
+offering_college = "土木工程学院"
+total_hours = 40
 
 [[courses]]
-course_code = "22CC22107E"
-course_name = "化学生物前沿"
+course_code = "22CE22008E"
+course_name = "房屋建筑学"
+credit = 2.5
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "土木工程学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22CE22009E"
+course_name = "C语言程序设计B"
 credit = 2.0
 assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "化工与化学学院"
+offering_college = "土木工程学院"
 total_hours = 32
+
+[[courses]]
+course_code = "22CE33046E"
+course_name = "认识实习"
+credit = 1.0
+assessment_method = "考查"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "土木工程学院"
+
+[[courses]]
+course_code = "22CE33056E"
+course_name = "房屋建筑学课程设计"
+credit = 1.0
+assessment_method = "考查"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "土木工程学院"
 
 [[courses]]
 course_code = "22HS16004"
@@ -187,8 +273,8 @@ total_hours = 24
 
 [info]
 year = "2025"
-major_code = "37Y521"
-major_name = "智能医学工程"
-school_name = "生命科学和医学学部"
-plan_category = "Y"
-plan_ID = "HIT-2025-37Y521"
+major_code = "09Y331"
+major_name = "土木工程"
+school_name = "土木工程学院"
+plan_category = "本科国际生"
+plan_ID = "HIT-2025-09Y331"

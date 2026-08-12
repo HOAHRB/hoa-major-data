@@ -1,13 +1,35 @@
 [[courses]]
-course_code = "22CE21002E"
-course_name = "土木制图基础"
+course_code = "22AR21001E"
+course_name = "人居环境导论"
+credit = 1.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AR21002E"
+course_name = "造型艺术基础-1"
 credit = 2.0
 recommended_year_semester = "第一学年秋季"
 assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "土木工程学院"
+offering_college = "建筑与设计学院"
 total_hours = 32
+
+[[courses]]
+course_code = "22AR21003E"
+course_name = "设计基础"
+credit = 4.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 64
 
 [[courses]]
 course_code = "22CS14004E"
@@ -36,33 +58,33 @@ course_code = "22HS22002E"
 course_name = "中国概况"
 credit = 2.0
 recommended_year_semester = "第一学年秋季"
-assessment_method = "考查"
+assessment_method = "考试"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "人文社科学部"
 total_hours = 32
 
 [[courses]]
-course_code = "22MA15017E"
-course_name = "代数与几何B"
-credit = 3.5
+course_code = "22MA15014E"
+course_name = "文科数学"
+credit = 2.0
 recommended_year_semester = "第一学年秋季"
 assessment_method = "考试"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "数学学院"
-total_hours = 56
+total_hours = 32
 
 [[courses]]
-course_code = "22MA15045E"
-course_name = "微积分E（1）"
-credit = 4.0
+course_code = "22ME21100E"
+course_name = "画法几何与阴影透视"
+credit = 2.0
 recommended_year_semester = "第一学年秋季"
 assessment_method = "考试"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "数学学院"
-total_hours = 64
+offering_college = "机电工程学院"
+total_hours = 32
 
 [[courses]]
 course_code = "22PE13001"
@@ -77,8 +99,8 @@ total_hours = 32
 
 [info]
 year = "2026"
-major_code = "27Y271"
-major_name = "环境工程"
-school_name = "环境学院"
-plan_category = "Y"
-plan_ID = "HIT-2026-27Y271"
+major_code = "11BY341"
+major_name = "建筑学"
+school_name = "建筑与设计学院"
+plan_category = "本科国际生"
+plan_ID = "HIT-2026-11BY341"
