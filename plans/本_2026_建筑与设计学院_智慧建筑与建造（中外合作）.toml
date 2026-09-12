@@ -1,13 +1,13 @@
 [[courses]]
-course_code = "22AD11002C"
+course_code = "22AD11002"
 course_name = "新时代实践教育"
-credit = 3.0
+credit = 2.0
 recommended_year_semester = "第一学年秋季"
 assessment_method = "考查"
 course_nature = "必修"
 course_category = "思政"
 offering_college = "学生工作部（处）/团委"
-total_hours = 108
+total_hours = 32
 
 [[courses]]
 course_code = "22AD16001"
@@ -86,7 +86,7 @@ offering_college = "机电工程学院"
 total_hours = 48
 
 [[courses]]
-course_code = "22MX11011C"
+course_code = "22MX11011"
 course_name = "习近平新时代中国特色社会主义思想概论"
 credit = 3.0
 recommended_year_semester = "第一学年秋季"
@@ -94,7 +94,7 @@ assessment_method = "考试"
 course_nature = "必修"
 course_category = "思政"
 offering_college = "马克思主义学院"
-total_hours = 144
+total_hours = 48
 
 [[courses]]
 course_code = "22PE13001"

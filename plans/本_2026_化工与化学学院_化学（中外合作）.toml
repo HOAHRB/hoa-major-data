@@ -111,7 +111,7 @@ total_hours = 108
 [[courses]]
 course_code = "22MX11011C"
 course_name = "习近平新时代中国特色社会主义思想概论"
-credit = 3.0
+credit = 4.0
 recommended_year_semester = "第一学年秋季"
 assessment_method = "考试"
 course_nature = "必修"
