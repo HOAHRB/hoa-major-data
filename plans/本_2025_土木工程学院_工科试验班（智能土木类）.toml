@@ -24,8 +24,8 @@ total_hours = 64
 course_code = "22AS22016"
 course_name = "工程力学实验"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "航天学院"
@@ -35,8 +35,8 @@ total_hours = 24
 course_code = "22CE22003"
 course_name = "工程地质"
 credit = 1.5
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "土木工程学院"
@@ -46,8 +46,8 @@ total_hours = 24
 course_code = "22CE33001"
 course_name = "认识实习"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "土木工程学院"
@@ -56,8 +56,8 @@ offering_college = "土木工程学院"
 course_code = "22MA15027"
 course_name = "概率论与数理统计E"
 credit = 3.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "数学学院"
@@ -89,8 +89,85 @@ total_hours = 40
 course_code = "22PE13003"
 course_name = "体育（3）"
 credit = 0.5
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22AR22018"
+course_name = "房屋建筑学"
+credit = 2.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 56
+
+[[courses]]
+course_code = "22AR22025"
+course_name = "流体力学B"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CE22033"
+course_name = "测量学"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "土木工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CS21502"
+course_name = "C语言程序设计B"
+credit = 2.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 40
+
+[[courses]]
+course_code = "22MX11005"
+course_name = "马克思主义基本原理"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MX11007"
+course_name = "形势与政策（2）"
+credit = 1.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22PE13004"
+course_name = "体育（4）"
+credit = 0.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "体育"
 offering_college = "体育部"

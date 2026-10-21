@@ -1,0 +1,968 @@
+[[courses]]
+course_code = "22AD11001"
+course_name = "思想政治理论实践课"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "学生工作部（处）/团委"
+total_hours = 32
+
+[[courses]]
+course_code = "22AD16001"
+course_name = "军事理论"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+total_hours = 36
+
+[[courses]]
+course_code = "22CC15003"
+course_name = "大学化学C"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CS14001"
+course_name = "计算思维与信息基础"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL12001"
+course_name = "大学外语"
+credit = 2.5
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "英语"
+offering_college = "人文社科学部"
+total_hours = 60
+
+[[courses]]
+course_code = "22MA15015"
+course_name = "数学分析（1）"
+credit = 5.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 80
+
+[[courses]]
+course_code = "22MA15023"
+course_name = "代数与几何x"
+credit = 4.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22ME21004"
+course_name = "工程制图基础A"
+credit = 3.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MX11002"
+course_name = "思想道德与法治"
+credit = 2.5
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22PE13001"
+course_name = "体育（1）"
+credit = 1.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 32
+
+[[courses]]
+course_code = "22AD16003"
+course_name = "悦己人生"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+total_hours = 32
+
+[[courses]]
+course_code = "22CS21501"
+course_name = "C语言程序设计A"
+credit = 3.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 48
+
+[[courses]]
+course_code = "22EE21001"
+course_name = "电路A（1）"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "电气工程及自动化学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL12002"
+course_name = "大学外语"
+credit = 1.5
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "英语"
+offering_college = "人文社科学部"
+total_hours = 36
+
+[[courses]]
+course_code = "22MA15016"
+course_name = "数学分析（2）"
+credit = 5.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 80
+
+[[courses]]
+course_code = "22MX11001"
+course_name = "习近平新时代中国特色社会主义思想概论"
+credit = 2.5
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22MX11003"
+course_name = "中国近现代史纲要"
+credit = 2.5
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22MX11006"
+course_name = "形势与政策（1）"
+credit = 0.5
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[[courses]]
+course_code = "22PE13002"
+course_name = "体育（2）"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 32
+
+[[courses]]
+course_code = "22PH15012"
+course_name = "大学物理x（1）"
+credit = 5.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "物理学院"
+total_hours = 80
+
+[[courses]]
+course_code = "22PH15014"
+course_name = "大学物理实验x（1）"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "物理学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AD16002"
+course_name = "军事技能"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+
+[[courses]]
+course_code = "22AS22002"
+course_name = "理论力学A"
+credit = 4.5
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 72
+
+[[courses]]
+course_code = "22EE22009"
+course_name = "电子技术C"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "电气工程及自动化学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EE22031"
+course_name = "电路与电子技术实验C"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "电气工程及自动化学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22MX11004"
+course_name = "毛泽东思想和中国特色社会主义理论体系概论"
+credit = 2.5
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22MX16001"
+course_name = "国家安全教育"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22PE13003"
+course_name = "体育（3）"
+credit = 0.5
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22PH15013"
+course_name = "大学物理x（2）"
+credit = 4.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "物理学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22PH15015"
+course_name = "大学物理实验x（2）"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "物理学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AS22005"
+course_name = "材料力学A"
+credit = 4.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 72
+
+[[courses]]
+course_code = "22AS22301"
+course_name = "复合材料导论"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AS33201"
+course_name = "创新科研实践"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+
+[[courses]]
+course_code = "22ES22032"
+course_name = "工程热力学D"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "能源科学与工程学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22HS16001"
+course_name = "写作与沟通"
+credit = 1.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 16
+
+[[courses]]
+course_code = "22ME22010"
+course_name = "工程训练（制造工艺实习）B"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+
+[[courses]]
+course_code = "22MX11005"
+course_name = "马克思主义基本原理"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MX11007"
+course_name = "形势与政策（2）"
+credit = 1.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MX44001"
+course_name = "劳动教育概论"
+credit = 0.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[[courses]]
+course_code = "22PE13004"
+course_name = "体育（4）"
+credit = 0.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22AS32135"
+course_name = "新能源功率变换器原理及控制技术"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "海外课程"
+offering_college = "航天学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AS32328"
+course_name = "超材料基础"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "海外课程"
+offering_college = "航天学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AS32539"
+course_name = "先进飞航技术发展与应用"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AS32812"
+course_name = "以需求为核心的集成电路芯片设计方法探索"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AS32814"
+course_name = "光电微系统前沿技术"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AS44501"
+course_name = "空间飞行器有效载荷设计"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "海外课程"
+offering_college = "航天学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AS44902"
+course_name = "先进光学制造与检测技术前沿"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "海外课程"
+offering_college = "航天学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AS31302"
+course_name = "弹塑性力学"
+credit = 4.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 72
+
+[[courses]]
+course_code = "22AS31361"
+course_name = "材料科学基础"
+credit = 5.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 80
+
+[[courses]]
+course_code = "22AS31363"
+course_name = "科学与工程计算基础"
+credit = 4.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22MA15031"
+course_name = "概率论与数理统计x"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22PE13005"
+course_name = "体育（5）"
+credit = 0.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22AS31303"
+course_name = "复合材料力学"
+credit = 3.5
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 56
+
+[[courses]]
+course_code = "22AS31304"
+course_name = "航天器结构"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AS31305"
+course_name = "复合材料力学性能实验方法"
+credit = 3.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22AS31307"
+course_name = "材料物理性能"
+credit = 3.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22AS32385"
+course_name = "数据科学与力学"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AS33382"
+course_name = "航天科技创新挑战研究"
+credit = 3.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+
+[[courses]]
+course_code = "22MX11008"
+course_name = "形势与政策（3）"
+credit = 0.5
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[[courses]]
+course_code = "22PE13006"
+course_name = "体育（6）"
+credit = 0.5
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22AS32135"
+course_name = "新能源功率变换器原理及控制技术"
+credit = 1.0
+recommended_year_semester = "第三学年夏季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "海外课程"
+offering_college = "航天学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AS32328"
+course_name = "超材料基础"
+credit = 1.0
+recommended_year_semester = "第三学年夏季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "海外课程"
+offering_college = "航天学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AS32812"
+course_name = "以需求为核心的集成电路芯片设计方法探索"
+credit = 1.0
+recommended_year_semester = "第三学年夏季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AS32814"
+course_name = "光电微系统前沿技术"
+credit = 1.0
+recommended_year_semester = "第三学年夏季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AS44501"
+course_name = "空间飞行器有效载荷设计"
+credit = 1.0
+recommended_year_semester = "第三学年夏季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "海外课程"
+offering_college = "航天学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AS31308"
+course_name = "材料分析测试方法"
+credit = 2.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AS33301"
+course_name = "先进复合材料结构设计课程设计"
+credit = 1.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+
+[[courses]]
+course_code = "22AS32301"
+course_name = "航天器环境"
+credit = 1.5
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AS32302"
+course_name = "热防护材料与结构"
+credit = 1.5
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AS32303"
+course_name = "工程结构建模与模拟方法"
+credit = 1.5
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AS32304"
+course_name = "结构动力学B"
+credit = 2.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AS32305"
+course_name = "力学中的数学方法"
+credit = 1.5
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AS32306"
+course_name = "复合材料结构设计"
+credit = 1.5
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AS32307"
+course_name = "复合材料结构可靠性"
+credit = 2.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AS32321"
+course_name = "微纳米复合材料"
+credit = 1.5
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AS32322"
+course_name = "陶瓷材料制备技术"
+credit = 1.5
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AS32323"
+course_name = "高分子物理"
+credit = 2.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AS32324"
+course_name = "材料力学性能分析"
+credit = 2.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AS32325"
+course_name = "粉末冶金原理"
+credit = 1.5
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AS32326"
+course_name = "功能材料与器件"
+credit = 1.5
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AS32327"
+course_name = "智能材料与结构"
+credit = 2.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AS44301"
+course_name = "光学镀膜方法与实践"
+credit = 1.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AS44302"
+course_name = "生物质基碳材料的改性及其应用"
+credit = 1.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AS44303"
+course_name = "新能源新概念未来飞行器设计竞赛培训"
+credit = 1.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AS44307"
+course_name = "新型材料的EBPVD制备技术与性能表征"
+credit = 1.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AS44308"
+course_name = "纤维增强复合材料结构件的研制与竞赛训练"
+credit = 1.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22AS33302"
+course_name = "毕业论文（设计）"
+credit = 8.0
+recommended_year_semester = "第四学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+
+[[courses]]
+course_code = "22AS33304"
+course_name = "生产实习"
+credit = 2.0
+recommended_year_semester = "第四学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+
+[info]
+year = "2023"
+major_code = "011841"
+major_name = "复合材料与工程（强基计划）"
+school_name = "航天学院"
+plan_category = "本"
+plan_ID = "HIT-2023-011841"

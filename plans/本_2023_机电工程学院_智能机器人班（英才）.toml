@@ -1,0 +1,1052 @@
+[[courses]]
+course_code = "AD11014"
+course_name = "思想政治理论实践课"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "学生工作部（处）/团委"
+total_hours = 32
+
+[[courses]]
+course_code = "AD15002"
+course_name = "军事理论"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+total_hours = 36
+
+[[courses]]
+course_code = "AD15003"
+course_name = "军事技能"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+
+[[courses]]
+course_code = "CC21005"
+course_name = "大学化学C"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "CS14006"
+course_name = "大学计算机-计算思维导论"
+credit = 1.5
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 24
+
+[[courses]]
+course_code = "CS31108"
+course_name = "高级语言程序设计"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 32
+
+[[courses]]
+course_code = "FL11101"
+course_name = "综合英语"
+credit = 1.5
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 36
+
+[[courses]]
+course_code = "MA21026"
+course_name = "微积分A（1）"
+credit = 6.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 96
+
+[[courses]]
+course_code = "MA21029"
+course_name = "代数与几何A"
+credit = 4.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 64
+
+[[courses]]
+course_code = "ME31096"
+course_name = "智能机器人专题讲座（1）"
+credit = 1.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "MX11021"
+course_name = "思想道德修养与法律基础"
+credit = 2.5
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[[courses]]
+course_code = "MX11029"
+course_name = "“习近平新时代中国特色社会主义思想概论”（1）"
+credit = 1.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[[courses]]
+course_code = "PE13001"
+course_name = "体育"
+credit = 1.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 32
+
+[[courses]]
+course_code = "AS31202"
+course_name = "理论力学B"
+credit = 4.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 64
+
+[[courses]]
+course_code = "FL11102"
+course_name = "学术英语阅读"
+credit = 1.5
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 36
+
+[[courses]]
+course_code = "MA21027"
+course_name = "微积分A（2）"
+credit = 6.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 96
+
+[[courses]]
+course_code = "ME31029"
+course_name = "画法几何与工程制图基础"
+credit = 4.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 64
+
+[[courses]]
+course_code = "ME31095"
+course_name = "智能机器人专题讲座（2）"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "MX11022"
+course_name = "中国近现代史纲要"
+credit = 2.5
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[[courses]]
+course_code = "MX11025"
+course_name = "形势与政策（1）"
+credit = 0.5
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[[courses]]
+course_code = "MX11030"
+course_name = "“习近平新时代中国特色社会主义思想概论”（2）"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[[courses]]
+course_code = "PE13002"
+course_name = "体育"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 32
+
+[[courses]]
+course_code = "PH21001"
+course_name = "大学物理A(1)"
+credit = 6.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "物理学院"
+total_hours = 96
+
+[[courses]]
+course_code = "AD14001"
+course_name = "文献检索"
+credit = 0.5
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "图书馆"
+total_hours = 12
+
+[[courses]]
+course_code = "CS31107"
+course_name = "集合论与图论"
+credit = 3.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 48
+
+[[courses]]
+course_code = "LS21001"
+course_name = "生命科学基础与应用"
+credit = 1.0
+recommended_year_semester = "第一学年夏季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 16
+
+[[courses]]
+course_code = "ME44001"
+course_name = "机械产品创新设计及仿真"
+credit = 1.0
+recommended_year_semester = "第一学年夏季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "创新学分课程"
+offering_college = "机电工程学院"
+
+[[courses]]
+course_code = "22ME32602"
+course_name = "数字信号与图像处理"
+credit = 2.0
+recommended_year_semester = "第一学年暑假"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22ME32602"
+course_name = "数字信号与图像处理"
+credit = 2.0
+recommended_year_semester = "第一学年寒假"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "CS32132"
+course_name = "数据结构与算法"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 48
+
+[[courses]]
+course_code = "FL12076"
+course_name = "雅思综合"
+credit = 1.5
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "英语"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "MA21017"
+course_name = "概率论与数理统计C"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 48
+
+[[courses]]
+course_code = "MA21020"
+course_name = "复变函数与积分变换"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 48
+
+[[courses]]
+course_code = "ME31030"
+course_name = "机械工程制图"
+credit = 1.5
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 24
+
+[[courses]]
+course_code = "ME44003"
+course_name = "创意机器人探索与挑战"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+
+[[courses]]
+course_code = "MX11024"
+course_name = "毛泽东思想和中国特色社会主义理论体系概论"
+credit = 4.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 64
+
+[[courses]]
+course_code = "PE13003"
+course_name = "体育"
+credit = 0.5
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "PH21002"
+course_name = "大学物理A(2)"
+credit = 5.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "物理学院"
+total_hours = 80
+
+[[courses]]
+course_code = "PH21009"
+course_name = "大学物理实验A(1)"
+credit = 1.5
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "物理学院"
+total_hours = 33
+
+[[courses]]
+course_code = "AS31209"
+course_name = "工程力学实验"
+credit = 1.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 24
+
+[[courses]]
+course_code = "AS31251"
+course_name = "材料力学"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "EE31029"
+course_name = "电路与电子技术基础"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "电气工程及自动化学院"
+total_hours = 48
+
+[[courses]]
+course_code = "FL12077"
+course_name = "学术英语(理工)"
+credit = 1.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "英语"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "ME31012"
+course_name = "机械原理A"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 48
+
+[[courses]]
+course_code = "ME31013"
+course_name = "机械基础实验（机械原理）A"
+credit = 0.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 14
+
+[[courses]]
+course_code = "ME34010"
+course_name = "工程实践与创新"
+credit = 4.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+
+[[courses]]
+course_code = "MX11032"
+course_name = "形势与政策（2）"
+credit = 1.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[[courses]]
+course_code = "MX11035"
+course_name = "马克思主义基本原理"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[[courses]]
+course_code = "PE13004"
+course_name = "体育"
+credit = 0.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "PH21010"
+course_name = "大学物理实验A(2)"
+credit = 1.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "物理学院"
+total_hours = 27
+
+[[courses]]
+course_code = "ME34001"
+course_name = "机械原理课程设计"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+
+[[courses]]
+course_code = "ME44002"
+course_name = "机械创新设计与制作"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "创新学分课程"
+offering_college = "机电工程学院"
+
+[[courses]]
+course_code = "13SE90800100"
+course_name = "航空航天产品质量工程技术"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "13SE90800600"
+course_name = "流体力学基本原理和应用"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "13SE90801700"
+course_name = "金属材料：特性及加工"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "13SE90802100"
+course_name = "面向材料的纳米加工"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "14SE90800900"
+course_name = "高级非线性有限元法及其工程应用"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "ME33093"
+course_name = "纳米尺度材料和制造的分子动力学研究"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "ME33095"
+course_name = "智能结构设计及其控制"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "ME33097"
+course_name = "导弹发射装备与技术"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "ME33098"
+course_name = "航天器机构技术"
+credit = 1.0
+recommended_year_semester = "第二学年夏季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "CS31954"
+course_name = "微机原理与接口D"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 32
+
+[[courses]]
+course_code = "EE31024"
+course_name = "电子技术B"
+credit = 2.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "电气工程及自动化学院"
+total_hours = 40
+
+[[courses]]
+course_code = "EE31121"
+course_name = "电工学实验"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "电气工程及自动化学院"
+total_hours = 36
+
+[[courses]]
+course_code = "EE31203"
+course_name = "互换性与测量技术基础B"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "仪器科学与工程学院"
+total_hours = 24
+
+[[courses]]
+course_code = "ME31016"
+course_name = "机械设计A"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 48
+
+[[courses]]
+course_code = "ME31019"
+course_name = "机械基础实验（机械设计）"
+credit = 0.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 12
+
+[[courses]]
+course_code = "ME32103"
+course_name = "机械工程材料及成形技术基础B"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "ME32502"
+course_name = "机电系统控制基础A"
+credit = 3.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 56
+
+[[courses]]
+course_code = "ME32602"
+course_name = "传感器"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "ME34003"
+course_name = "机械设计课程设计B"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+
+[[courses]]
+course_code = "CS33271"
+course_name = "大数据计算基础"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 48
+
+[[courses]]
+course_code = "ME32593"
+course_name = "机器人智能控制基础"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "ME33540"
+course_name = "机器人交互技术"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "ME33561"
+course_name = "机器人学基础"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "ME33562"
+course_name = "机器人机构学"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "ME33563"
+course_name = "机器人运动控制技术"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "ME33564"
+course_name = "嵌入式系统应用"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "ME33566"
+course_name = "工业机器人设计与应用"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "MX11033"
+course_name = "形势与政策（3）"
+credit = 0.5
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[[courses]]
+course_code = "ME32106"
+course_name = "机械制造技术基础C"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22ME33600"
+course_name = "综合实践与生产实习（机器人综合实践）"
+credit = 3.0
+recommended_year_semester = "第三学年夏季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+
+[[courses]]
+course_code = "22ME33603"
+course_name = "机器人综合课程设计"
+credit = 3.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+
+[[courses]]
+course_code = "22ME22023"
+course_name = "机械工程材料及成形技术基础"
+credit = 2.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22ME32603"
+course_name = "微操作与微尺度机器人"
+credit = 1.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22ME32604"
+course_name = "机器人仿生学基础"
+credit = 1.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22ME32605"
+course_name = "机器人交互技术"
+credit = 2.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22ME32606"
+course_name = "机器人智能控制技术"
+credit = 2.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22ME32607"
+course_name = "空间机器人"
+credit = 1.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22ME32608"
+course_name = "医疗机器人技术"
+credit = 1.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22ME32609"
+course_name = "生机电一体化机器人"
+credit = 2.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22ME32610"
+course_name = "嵌入式系统应用"
+credit = 2.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22ME32611"
+course_name = "并联机器人技术"
+credit = 1.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22ME32612"
+course_name = "特种智能移动机器人"
+credit = 1.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机电工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22ME33610"
+course_name = "毕业论文（设计）"
+credit = 8.0
+recommended_year_semester = "第四学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+
+[[courses]]
+course_code = "PE00001"
+course_name = "体质健康测试"
+credit = 4.0
+recommended_year_semester = "第四学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+
+[info]
+year = "2023"
+major_code = "02088"
+major_name = "智能机器人班（英才）"
+school_name = "机电工程学院"
+plan_category = "本"
+plan_ID = "HIT-2023-02088"

@@ -57,8 +57,8 @@ total_hours = 32
 course_code = "22MX31011"
 course_name = "马克思主义经典著作导读（1）"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "马克思主义学院"
@@ -68,8 +68,8 @@ total_hours = 32
 course_code = "22PE13003"
 course_name = "体育（3）"
 credit = 0.5
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "体育"
 offering_college = "体育部"
@@ -79,12 +79,100 @@ total_hours = 16
 course_code = "22MX32008"
 course_name = "中国哲学史"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 offering_college = "马克思主义学院"
 total_hours = 32
+
+[[courses]]
+course_code = "22MX11007"
+course_name = "形势与政策（2）"
+credit = 1.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MX21002"
+course_name = "科学社会主义"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MX22007"
+course_name = "马克思主义发展史"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MX22025"
+course_name = "毛泽东思想"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX31012"
+course_name = "马克思主义经典著作导读（2）"
+credit = 1.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22MX32009"
+course_name = "中国共产党建设的理论与实践"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22PE13004"
+course_name = "体育（4）"
+credit = 0.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22MX32005"
+course_name = "中国公务员制度概论"
+credit = 1.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 24
 
 [info]
 year = "2025"

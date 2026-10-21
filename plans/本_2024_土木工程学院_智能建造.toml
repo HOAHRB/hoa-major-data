@@ -2,8 +2,8 @@
 course_code = "22CE31001"
 course_name = "结构动力学"
 credit = 1.5
-assessment_method = "考查"
 recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "土木工程学院"
@@ -57,8 +57,8 @@ total_hours = 32
 course_code = "22PE13005"
 course_name = "体育（5）"
 credit = 0.5
-assessment_method = "考查"
 recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "体育"
 offering_college = "体育部"
@@ -68,8 +68,8 @@ total_hours = 16
 course_code = "22CE32067"
 course_name = "量子力学"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
 course_nature = "限选"
 course_category = "其他"
 offering_college = "土木工程学院"
@@ -79,8 +79,8 @@ total_hours = 32
 course_code = "22CE32068"
 course_name = "弹性力学A"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
 course_nature = "限选"
 course_category = "其他"
 offering_college = "土木工程学院"
@@ -90,8 +90,8 @@ total_hours = 32
 course_code = "22MA22012"
 course_name = "概率论"
 credit = 4.5
-assessment_method = "考查"
 recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
 course_nature = "限选"
 course_category = "其他"
 offering_college = "数学学院"
@@ -101,12 +101,88 @@ total_hours = 72
 course_code = "22CE32094"
 course_name = "机器视觉智能监测"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 offering_college = "土木工程学院"
 total_hours = 32
+
+[[courses]]
+course_code = "22CE31008"
+course_name = "工程结构抗震"
+credit = 1.5
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "土木工程学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22CE33031"
+course_name = "智能建造与课程设计"
+credit = 4.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "土木工程学院"
+
+[[courses]]
+course_code = "22MX11008"
+course_name = "形势与政策（3）"
+credit = 0.5
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[[courses]]
+course_code = "22PE13006"
+course_name = "体育（6）"
+credit = 0.5
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22CE32042"
+course_name = "流体动力学与智能风工程"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "土木工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CE32069"
+course_name = "概率图模型"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "土木工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MA22010"
+course_name = "泛函分析基础"
+credit = 4.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 64
 
 [info]
 year = "2024"

@@ -46,8 +46,8 @@ total_hours = 48
 course_code = "22PE13005"
 course_name = "体育（5）"
 credit = 0.5
-assessment_method = "考查"
 recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "体育"
 offering_college = "体育部"
@@ -68,12 +68,78 @@ total_hours = 64
 course_code = "22MA22007"
 course_name = "初等数论"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
 course_nature = "限选"
 course_category = "其他"
 offering_college = "数学学院"
 total_hours = 32
+
+[[courses]]
+course_code = "22MA22010"
+course_name = "泛函分析基础"
+credit = 4.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22MA31009"
+course_name = "点集拓扑学"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MA31010"
+course_name = "微分几何"
+credit = 3.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MA31020"
+course_name = "数理统计"
+credit = 4.5
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 72
+
+[[courses]]
+course_code = "22MX11008"
+course_name = "形势与政策（3）"
+credit = 0.5
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[[courses]]
+course_code = "22PE13006"
+course_name = "体育（6）"
+credit = 0.5
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
 
 [info]
 year = "2024"

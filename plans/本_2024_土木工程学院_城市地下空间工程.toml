@@ -35,8 +35,8 @@ total_hours = 32
 course_code = "22CE33017"
 course_name = "地下空间规划与建筑课程设计"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "土木工程学院"
@@ -45,8 +45,8 @@ offering_college = "土木工程学院"
 course_code = "22CE33018"
 course_name = "混凝土结构课程设计B"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "土木工程学院"
@@ -55,8 +55,8 @@ offering_college = "土木工程学院"
 course_code = "22CE33019"
 course_name = "基础工程A课程设计"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "土木工程学院"
@@ -65,8 +65,8 @@ offering_college = "土木工程学院"
 course_code = "22PE13005"
 course_name = "体育（5）"
 credit = 0.5
-assessment_method = "考查"
 recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "体育"
 offering_college = "体育部"
@@ -76,8 +76,8 @@ total_hours = 16
 course_code = "22CE32030"
 course_name = "工程岩体力学"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 offering_college = "土木工程学院"
@@ -87,8 +87,8 @@ total_hours = 32
 course_code = "22CE32031"
 course_name = "地基处理"
 credit = 1.5
-assessment_method = "考查"
 recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 offering_college = "土木工程学院"
@@ -98,8 +98,8 @@ total_hours = 24
 course_code = "22CE32045"
 course_name = "岩土工程勘察"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 offering_college = "土木工程学院"
@@ -109,8 +109,8 @@ total_hours = 32
 course_code = "22CE32081"
 course_name = "岩土工程监测"
 credit = 1.5
-assessment_method = "考查"
 recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 offering_college = "土木工程学院"
@@ -120,12 +120,142 @@ total_hours = 24
 course_code = "22CE32092"
 course_name = "AI+工程结构抗震"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 offering_college = "土木工程学院"
 total_hours = 16
+
+[[courses]]
+course_code = "22CE31025"
+course_name = "地下建筑结构"
+credit = 2.5
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "土木工程学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22CE31026"
+course_name = "支护与开挖设计"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "土木工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CE31027"
+course_name = "地下防护工程"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "土木工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CE33020"
+course_name = "工程地质实习"
+credit = 1.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "土木工程学院"
+
+[[courses]]
+course_code = "22CE33021"
+course_name = "地下建筑结构课程设计"
+credit = 1.5
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "土木工程学院"
+
+[[courses]]
+course_code = "22MX11008"
+course_name = "形势与政策（3）"
+credit = 0.5
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[[courses]]
+course_code = "22PE13006"
+course_name = "体育（6）"
+credit = 0.5
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22CE32003"
+course_name = "装配式混凝土结构"
+credit = 1.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "土木工程学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22CE32005"
+course_name = "BIM技术理论与方法"
+credit = 1.5
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "土木工程学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22CE32011"
+course_name = "土动力学"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "土木工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CE32047"
+course_name = "地下工程防灾"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "土木工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CE32050"
+course_name = "地下工程灾害超前辨识"
+credit = 1.5
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "土木工程学院"
+total_hours = 24
 
 [info]
 year = "2024"

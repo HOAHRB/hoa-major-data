@@ -90,8 +90,8 @@ total_hours = 32
 course_code = "22HS32406"
 course_name = "中国文化"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第一学年夏季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 offering_college = "人文社科学部"
@@ -156,9 +156,86 @@ total_hours = 32
 course_code = "22HS32401"
 course_name = "中国概况"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS22413"
+course_name = "中级口语（下）"
+credit = 4.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 64
+
+[[courses]]
+course_code = "22HS22415"
+course_name = "中级听力（下）"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS31408"
+course_name = "中级汉语（下）"
+credit = 6.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 96
+
+[[courses]]
+course_code = "22HS31409"
+course_name = "中级阅读（下）"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS31410"
+course_name = "中级写作（下）"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX44001"
+course_name = "劳动教育概论"
+credit = 0.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[[courses]]
+course_code = "22HS32402"
+course_name = "语法学"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "选修"
 course_category = "其他"
 offering_college = "人文社科学部"
 total_hours = 32

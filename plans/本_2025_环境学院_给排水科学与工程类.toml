@@ -2,8 +2,8 @@
 course_code = "22AS22009"
 course_name = "工程力学B"
 credit = 3.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "航天学院"
@@ -13,8 +13,8 @@ total_hours = 48
 course_code = "22EE22014"
 course_name = "电工与电子技术E"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "电气工程及自动化学院"
@@ -35,8 +35,8 @@ total_hours = 32
 course_code = "22EN21004"
 course_name = "水化学"
 credit = 3.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "环境学院"
@@ -68,8 +68,8 @@ total_hours = 48
 course_code = "22ME21007"
 course_name = "土木制图基础"
 credit = 3.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "机电工程学院"
@@ -90,8 +90,140 @@ total_hours = 40
 course_code = "22PE13003"
 course_name = "体育（3）"
 credit = 0.5
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22EN21008"
+course_name = "水力学"
+credit = 4.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "环境学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22EN21009"
+course_name = "水化学实验"
+credit = 1.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "环境学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22EN22008"
+course_name = "水文学和水文地质"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "环境学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EN22017"
+course_name = "水工程建设基础"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "环境学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EN22018"
+course_name = "水工程经济学"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "环境学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EN22019"
+course_name = "水处理生物学"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "环境学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22EN22020"
+course_name = "水分析化学"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "环境学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EN22023"
+course_name = "城市水系统概论"
+credit = 1.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "环境学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22EN22030"
+course_name = "水系统模拟与仿真基础B"
+credit = 1.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "环境学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22MX11005"
+course_name = "马克思主义基本原理"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MX11007"
+course_name = "形势与政策（2）"
+credit = 1.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22PE13004"
+course_name = "体育（4）"
+credit = 0.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "体育"
 offering_college = "体育部"

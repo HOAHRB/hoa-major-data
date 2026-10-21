@@ -107,6 +107,116 @@ course_category = "体育"
 offering_college = "体育部"
 total_hours = 32
 
+[[courses]]
+course_code = "22AD16003"
+course_name = "悦己人生"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+total_hours = 32
+
+[[courses]]
+course_code = "22AR21004"
+course_name = "智能创意设计基础"
+credit = 4.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22AR22005"
+course_name = "设计美学基础"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22AR22008"
+course_name = "造型艺术基础-2"
+credit = 3.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22AR22020"
+course_name = "设计与调研分析"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CS14004"
+course_name = "计算思维与人工智能"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL12002"
+course_name = "大学外语"
+credit = 1.5
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "英语"
+offering_college = "人文社科学部"
+total_hours = 36
+
+[[courses]]
+course_code = "22MX11012"
+course_name = "大学生思想文化素养"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX11015"
+course_name = "形势与政策"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22PE13002"
+course_name = "体育（2）"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 32
+
 [info]
 year = "2026"
 major_code = "11B304"

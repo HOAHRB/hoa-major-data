@@ -107,6 +107,116 @@ course_category = "体育"
 offering_college = "体育部"
 total_hours = 32
 
+[[courses]]
+course_code = "22AD16003"
+course_name = "悦己人生"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL22212"
+course_name = "俄语实践语法（2）"
+credit = 1.5
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 24
+
+[[courses]]
+course_code = "22FL22218"
+course_name = "俄语口语（2）"
+credit = 0.5
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 8
+
+[[courses]]
+course_code = "22FL22221"
+course_name = "俄语视听说（1）"
+credit = 0.5
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 8
+
+[[courses]]
+course_code = "22FL22225"
+course_name = "基础俄语（2）A"
+credit = 4.5
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "专业基础"
+offering_college = "人文社科学部"
+total_hours = 72
+
+[[courses]]
+course_code = "22HS16001"
+course_name = "写作与沟通"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 16
+
+[[courses]]
+course_code = "22LS15001"
+course_name = "生命科学基础"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生命科学和医学学部"
+total_hours = 16
+
+[[courses]]
+course_code = "22MX11012"
+course_name = "大学生思想文化素养"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX11015"
+course_name = "形势与政策"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22PE13002"
+course_name = "体育（2）"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 32
+
 [info]
 year = "2026"
 major_code = "35152"

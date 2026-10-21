@@ -141,6 +141,116 @@ course_category = "其他"
 offering_college = "人文社科学部"
 total_hours = 36
 
+[[courses]]
+course_code = "22AD16003C"
+course_name = "悦己人生"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+total_hours = 72
+
+[[courses]]
+course_code = "22FL12002C"
+course_name = "大学外语"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "英语"
+offering_college = "人文社科学部"
+total_hours = 72
+
+[[courses]]
+course_code = "22MA15041C"
+course_name = "微积分E（2）"
+credit = 4.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 144
+
+[[courses]]
+course_code = "22MX11012C"
+course_name = "大学生思想文化素养"
+credit = 3.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22MX11015C"
+course_name = "形势与政策"
+credit = 3.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 108
+
+[[courses]]
+course_code = "22MX16001C"
+course_name = "国家安全教育"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 36
+
+[[courses]]
+course_code = "22PE13002C"
+course_name = "体育（2）"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 36
+
+[[courses]]
+course_code = "22PH15008C"
+course_name = "大学物理F"
+credit = 4.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "物理学院"
+total_hours = 144
+
+[[courses]]
+course_code = "22FL32259C"
+course_name = "综合俄语2"
+credit = 3.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 108
+
+[[courses]]
+course_code = "22FL32261C"
+course_name = "俄语基础语法2"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 36
+
 [info]
 year = "2026"
 major_code = "37289"

@@ -1,0 +1,916 @@
+[[courses]]
+course_code = "22AD11001"
+course_name = "思想政治理论实践课"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "学生工作部（处）/团委"
+total_hours = 32
+
+[[courses]]
+course_code = "22CS14001"
+course_name = "计算思维与信息基础"
+credit = 2.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL12001"
+course_name = "大学外语"
+credit = 2.5
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "英语"
+offering_college = "人文社科学部"
+total_hours = 60
+
+[[courses]]
+course_code = "22MA15011"
+course_name = "微积分F（1）"
+credit = 5.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 80
+
+[[courses]]
+course_code = "22MA15020"
+course_name = "代数与几何E"
+credit = 3.5
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 56
+
+[[courses]]
+course_code = "22MX11001"
+course_name = "习近平新时代中国特色社会主义思想概论"
+credit = 2.5
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22MX11002"
+course_name = "思想道德与法治"
+credit = 2.5
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22PE13001"
+course_name = "体育（1）"
+credit = 1.0
+recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 32
+
+[[courses]]
+course_code = "22AD16001"
+course_name = "军事理论"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+total_hours = 36
+
+[[courses]]
+course_code = "22AD16003"
+course_name = "悦己人生"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM22203C"
+course_name = "数字时代的管理"
+credit = 1.5
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22EM31202C"
+course_name = "面向对象编程"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL12002"
+course_name = "大学外语"
+credit = 1.5
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "英语"
+offering_college = "人文社科学部"
+total_hours = 36
+
+[[courses]]
+course_code = "22MA15012"
+course_name = "微积分F（2）"
+credit = 5.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 80
+
+[[courses]]
+course_code = "22MX11003"
+course_name = "中国近现代史纲要"
+credit = 2.5
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22MX11006"
+course_name = "形势与政策（1）"
+credit = 0.5
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[[courses]]
+course_code = "22MX16001"
+course_name = "国家安全教育"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22PE13002"
+course_name = "体育（2）"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 32
+
+[[courses]]
+course_code = "22AD16002"
+course_name = "军事技能"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+
+[[courses]]
+course_code = "22EM22001"
+course_name = "商务数据分析"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM31201C"
+course_name = "数据库和SQL"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22EM31204C"
+course_name = "数字生态系统"
+credit = 1.5
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22EM31215C"
+course_name = "数字营销"
+credit = 1.5
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22HS16001"
+course_name = "写作与沟通"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 16
+
+[[courses]]
+course_code = "22MA15029"
+course_name = "概率论与数理统计H"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MX11004"
+course_name = "毛泽东思想和中国特色社会主义理论体系概论"
+credit = 2.5
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22PE13003"
+course_name = "体育（3）"
+credit = 0.5
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22EM21202C"
+course_name = "会计数据分析"
+credit = 2.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22EM21203C"
+course_name = "应用统计"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22EM21204C"
+course_name = "运筹学方法和技术"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22EM22002"
+course_name = "算法与数据结构"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM31203C"
+course_name = "企业社会责任和人工智能"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM31205C"
+course_name = "技术项目管理"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM31216C"
+course_name = "职业发展（1）"
+credit = 0.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 8
+
+[[courses]]
+course_code = "22MX11005"
+course_name = "马克思主义基本原理"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MX11007"
+course_name = "形势与政策（2）"
+credit = 1.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22PE13004"
+course_name = "体育（4）"
+credit = 0.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22EM22003"
+course_name = "Python程序设计"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM22007"
+course_name = "人工智能与机器学习"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22EM31202"
+course_name = "网络社会媒体营销分析"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM31204"
+course_name = "大数据智能分析理论与方法"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM31207C"
+course_name = "可持续商业创新"
+credit = 3.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22EM31209C"
+course_name = "大数据分析与R语言"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22PE13005"
+course_name = "体育（5）"
+credit = 0.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22EM32002"
+course_name = "数据仓库与数据挖掘"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM32008"
+course_name = "运筹学优化软件及建模实践"
+credit = 1.5
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22EM32010"
+course_name = "决策分析"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM32011"
+course_name = "人工智能与大数据基础及应用"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM32202C"
+course_name = "专业法语（1）"
+credit = 1.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22EM21201C"
+course_name = "战略与商业智能"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM21205C"
+course_name = "现代商业的合规性和治理"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM31105"
+course_name = "文本分析与文本挖掘"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM31201"
+course_name = "大数据基础设施"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM31203"
+course_name = "大数据计量经济分析"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM31211C"
+course_name = "负责算法"
+credit = 4.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22EM31214C"
+course_name = "商业研究方法"
+credit = 1.5
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22EM31217C"
+course_name = "职业发展（2）"
+credit = 1.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MX11008"
+course_name = "形势与政策（3）"
+credit = 0.5
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[[courses]]
+course_code = "22MX44001"
+course_name = "劳动教育概论"
+credit = 0.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[[courses]]
+course_code = "22PE13006"
+course_name = "体育（6）"
+credit = 0.5
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22EM32002"
+course_name = "数据仓库与数据挖掘"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM32008"
+course_name = "运筹学优化软件及建模实践"
+credit = 1.5
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22EM32009"
+course_name = "固定收益分析"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM32011"
+course_name = "人工智能与大数据基础及应用"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM32203C"
+course_name = "专业法语（2）"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM33201C"
+course_name = "生产实习"
+credit = 4.0
+recommended_year_semester = "第三学年夏季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+
+[[courses]]
+course_code = "22EM33202C"
+course_name = "毕业实习"
+credit = 8.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+
+[[courses]]
+course_code = "22EM32002"
+course_name = "数据仓库与数据挖掘"
+credit = 2.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM32008"
+course_name = "运筹学优化软件及建模实践"
+credit = 1.5
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22EM32009"
+course_name = "固定收益分析"
+credit = 2.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM32010"
+course_name = "决策分析"
+credit = 2.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM32106"
+course_name = "专业思维训练"
+credit = 1.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22EM32107"
+course_name = "人工智能与大数据基础及应用"
+credit = 2.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM32108"
+course_name = "生成式人工智能商务分析"
+credit = 1.0
+recommended_year_semester = "第四学年秋季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22EM33203C"
+course_name = "毕业论文（设计）"
+credit = 14.0
+recommended_year_semester = "第四学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+
+[[courses]]
+course_code = "22EM32002"
+course_name = "数据仓库与数据挖掘"
+credit = 2.0
+recommended_year_semester = "第四学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM32008"
+course_name = "运筹学优化软件及建模实践"
+credit = 1.5
+recommended_year_semester = "第四学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22EM32011"
+course_name = "人工智能与大数据基础及应用"
+credit = 2.0
+recommended_year_semester = "第四学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EM32110"
+course_name = "AI驱动的数字化平台变革"
+credit = 1.0
+recommended_year_semester = "第四学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22EM32112"
+course_name = "世界经济新格局下的全球战略管理"
+credit = 1.0
+recommended_year_semester = "第四学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22EM32113"
+course_name = "商业数据分析与高级定量方法"
+credit = 1.0
+recommended_year_semester = "第四学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22EM32114"
+course_name = "气候变化、粮食安全与可持续发展管理"
+credit = 1.0
+recommended_year_semester = "第四学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22EM32906"
+course_name = "数字治理"
+credit = 2.5
+recommended_year_semester = "第四学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "经济与管理学院"
+total_hours = 40
+
+[info]
+year = "2023"
+major_code = "071001"
+major_name = "大数据管理与应用（中外合作）"
+school_name = "经济与管理学院"
+plan_category = "本"
+plan_ID = "HIT-2023-071001"

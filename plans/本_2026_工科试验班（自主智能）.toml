@@ -96,6 +96,116 @@ course_category = "体育"
 offering_college = "体育部"
 total_hours = 32
 
+[[courses]]
+course_code = "22AD16003"
+course_name = "悦己人生"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）/团委"
+total_hours = 32
+
+[[courses]]
+course_code = "22CS21007"
+course_name = "计算与智能程序设计"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算学部"
+total_hours = 48
+
+[[courses]]
+course_code = "22EE32077"
+course_name = "电路与电子技术（1）"
+credit = 3.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "电气工程及自动化学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22FL12004"
+course_name = "外语综合（2）"
+credit = 1.5
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "英语"
+offering_college = "人文社科学部"
+total_hours = 36
+
+[[courses]]
+course_code = "22MA15016"
+course_name = "数学分析（2）"
+credit = 5.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "数学学院"
+total_hours = 80
+
+[[courses]]
+course_code = "22MX11012"
+course_name = "大学生思想文化素养"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX11015"
+course_name = "形势与政策"
+credit = 2.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX16001"
+course_name = "国家安全教育"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22PE13002"
+course_name = "体育（2）"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 32
+
+[[courses]]
+course_code = "22PH15012"
+course_name = "大学物理x（1）"
+credit = 5.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "物理学院"
+total_hours = 80
+
 [info]
 year = "2026"
 major_code = "260126Q01"

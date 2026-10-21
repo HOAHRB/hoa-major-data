@@ -2,8 +2,8 @@
 course_code = "22AD11001"
 course_name = "思想政治理论实践课"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "思政"
 offering_college = "学生工作部（处）/团委"
@@ -13,8 +13,8 @@ total_hours = 32
 course_code = "22AD16001"
 course_name = "军事理论"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "学生工作部（处）/团委"
@@ -24,8 +24,8 @@ total_hours = 36
 course_code = "22AD16004"
 course_name = "军事技能"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "学生工作部（处）/团委"
@@ -45,8 +45,8 @@ total_hours = 64
 course_code = "22FL12003"
 course_name = "外语综合（1）"
 credit = 2.5
-assessment_method = "考查"
 recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "英语"
 offering_college = "人文社科学部"
@@ -101,8 +101,8 @@ total_hours = 40
 course_code = "22PE13001"
 course_name = "体育（1）"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "体育"
 offering_college = "体育部"
@@ -124,8 +124,8 @@ total_hours = 40
 course_code = "22CC15005"
 course_name = "大学化学x"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 offering_college = "化工与化学学院"
@@ -135,8 +135,8 @@ total_hours = 32
 course_code = "22LS15002"
 course_name = "生命科学基础"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第一学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 offering_college = "生命科学和医学学部"
@@ -146,8 +146,8 @@ total_hours = 32
 course_code = "22AD16003"
 course_name = "悦己人生"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "学生工作部（处）/团委"
@@ -161,18 +161,6 @@ recommended_year_semester = "第一学年春季"
 assessment_method = "考试"
 course_nature = "必修"
 course_category = "其他"
-track = "方向08"
-offering_college = "电气工程及自动化学院"
-total_hours = 64
-
-[[courses]]
-course_code = "22EE21002"
-course_name = "电路与电子学"
-credit = 4.0
-recommended_year_semester = "第一学年春季"
-assessment_method = "考试"
-course_nature = "必修"
-course_category = "其他"
 track = "方向03"
 offering_college = "电气工程及自动化学院"
 total_hours = 64
@@ -221,7 +209,7 @@ recommended_year_semester = "第一学年春季"
 assessment_method = "考试"
 course_nature = "必修"
 course_category = "其他"
-track = "方向04"
+track = "方向05"
 offering_college = "电气工程及自动化学院"
 total_hours = 64
 
@@ -245,7 +233,19 @@ recommended_year_semester = "第一学年春季"
 assessment_method = "考试"
 course_nature = "必修"
 course_category = "其他"
-track = "方向05"
+track = "方向08"
+offering_college = "电气工程及自动化学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22EE21002"
+course_name = "电路与电子学"
+credit = 4.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向04"
 offering_college = "电气工程及自动化学院"
 total_hours = 64
 
@@ -253,11 +253,11 @@ total_hours = 64
 course_code = "22EE21003"
 course_name = "电路与电子学实验"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
-track = "方向01"
+track = "方向09"
 offering_college = "电气工程及自动化学院"
 total_hours = 24
 
@@ -265,56 +265,8 @@ total_hours = 24
 course_code = "22EE21003"
 course_name = "电路与电子学实验"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第一学年春季"
-course_nature = "必修"
-course_category = "其他"
-track = "方向04"
-offering_college = "电气工程及自动化学院"
-total_hours = 24
-
-[[courses]]
-course_code = "22EE21003"
-course_name = "电路与电子学实验"
-credit = 1.0
 assessment_method = "考查"
-recommended_year_semester = "第一学年春季"
-course_nature = "必修"
-course_category = "其他"
-track = "方向07"
-offering_college = "电气工程及自动化学院"
-total_hours = 24
-
-[[courses]]
-course_code = "22EE21003"
-course_name = "电路与电子学实验"
-credit = 1.0
-assessment_method = "考查"
-recommended_year_semester = "第一学年春季"
-course_nature = "必修"
-course_category = "其他"
-track = "方向03"
-offering_college = "电气工程及自动化学院"
-total_hours = 24
-
-[[courses]]
-course_code = "22EE21003"
-course_name = "电路与电子学实验"
-credit = 1.0
-assessment_method = "考查"
-recommended_year_semester = "第一学年春季"
-course_nature = "必修"
-course_category = "其他"
-track = "方向05"
-offering_college = "电气工程及自动化学院"
-total_hours = 24
-
-[[courses]]
-course_code = "22EE21003"
-course_name = "电路与电子学实验"
-credit = 1.0
-assessment_method = "考查"
-recommended_year_semester = "第一学年春季"
 course_nature = "必修"
 course_category = "其他"
 track = "方向08"
@@ -325,11 +277,11 @@ total_hours = 24
 course_code = "22EE21003"
 course_name = "电路与电子学实验"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
-track = "方向09"
+track = "方向06"
 offering_college = "电气工程及自动化学院"
 total_hours = 24
 
@@ -337,11 +289,59 @@ total_hours = 24
 course_code = "22EE21003"
 course_name = "电路与电子学实验"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
-track = "方向06"
+track = "方向01"
+offering_college = "电气工程及自动化学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22EE21003"
+course_name = "电路与电子学实验"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向05"
+offering_college = "电气工程及自动化学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22EE21003"
+course_name = "电路与电子学实验"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向04"
+offering_college = "电气工程及自动化学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22EE21003"
+course_name = "电路与电子学实验"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向07"
+offering_college = "电气工程及自动化学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22EE21003"
+course_name = "电路与电子学实验"
+credit = 1.0
+recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向03"
 offering_college = "电气工程及自动化学院"
 total_hours = 24
 
@@ -349,8 +349,8 @@ total_hours = 24
 course_code = "22FL12004"
 course_name = "外语综合（2）"
 credit = 1.5
-assessment_method = "考查"
 recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "英语"
 offering_college = "人文社科学部"
@@ -383,11 +383,11 @@ total_hours = 48
 course_code = "22MS22104"
 course_name = "材料科学与工程基础"
 credit = 4.0
-assessment_method = "考查"
 recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
-track = "方向02"
+track = "方向10"
 offering_college = "材料科学与工程学院"
 total_hours = 64
 
@@ -395,11 +395,11 @@ total_hours = 64
 course_code = "22MS22104"
 course_name = "材料科学与工程基础"
 credit = 4.0
-assessment_method = "考查"
 recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
-track = "方向10"
+track = "方向02"
 offering_college = "材料科学与工程学院"
 total_hours = 64
 
@@ -407,11 +407,11 @@ total_hours = 64
 course_code = "22MS22901"
 course_name = "材料科学与工程基础实验"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
-track = "方向02"
+track = "方向10"
 offering_college = "材料科学与工程学院"
 total_hours = 24
 
@@ -419,11 +419,11 @@ total_hours = 24
 course_code = "22MS22901"
 course_name = "材料科学与工程基础实验"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
-track = "方向10"
+track = "方向02"
 offering_college = "材料科学与工程学院"
 total_hours = 24
 
@@ -442,8 +442,8 @@ total_hours = 40
 course_code = "22MX11002"
 course_name = "思想道德与法治"
 credit = 2.5
-assessment_method = "考查"
 recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "思政"
 offering_college = "马克思主义学院"
@@ -453,8 +453,8 @@ total_hours = 40
 course_code = "22MX11006"
 course_name = "形势与政策（1）"
 credit = 0.5
-assessment_method = "考查"
 recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "思政"
 offering_college = "马克思主义学院"
@@ -464,8 +464,8 @@ total_hours = 8
 course_code = "22MX16001"
 course_name = "国家安全教育"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "马克思主义学院"
@@ -475,8 +475,8 @@ total_hours = 16
 course_code = "22PE13002"
 course_name = "体育（2）"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "体育"
 offering_college = "体育部"
@@ -497,8 +497,8 @@ total_hours = 80
 course_code = "22PH15014"
 course_name = "大学物理实验x（1）"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "物理学院"
@@ -508,8 +508,8 @@ total_hours = 24
 course_code = "22FT32001"
 course_name = "未来技术专题"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第一学年春季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 offering_college = "未来技术学院"
@@ -519,8 +519,8 @@ total_hours = 16
 course_code = "22MX44001"
 course_name = "劳动教育概论"
 credit = 0.0
-assessment_method = "考查"
 recommended_year_semester = "第一学年夏季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "马克思主义学院"
@@ -534,7 +534,19 @@ recommended_year_semester = "第二学年秋季"
 assessment_method = "考试"
 course_nature = "必修"
 course_category = "其他"
-track = "方向08"
+track = "方向09"
+offering_college = "航天学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22AS22001"
+course_name = "理论力学"
+credit = 4.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向07"
 offering_college = "航天学院"
 total_hours = 64
 
@@ -554,23 +566,11 @@ total_hours = 64
 course_code = "22AS22001"
 course_name = "理论力学"
 credit = 4.0
-assessment_method = "考查"
-recommended_year_semester = "第二学年秋季"
-course_nature = "必修"
-course_category = "其他"
-track = "方向07"
-offering_college = "航天学院"
-total_hours = 64
-
-[[courses]]
-course_code = "22AS22001"
-course_name = "理论力学"
-credit = 4.0
 recommended_year_semester = "第二学年秋季"
 assessment_method = "考试"
 course_nature = "必修"
 course_category = "其他"
-track = "方向09"
+track = "方向08"
 offering_college = "航天学院"
 total_hours = 64
 
@@ -591,6 +591,18 @@ course_code = "22CC22009"
 course_name = "有机化学x"
 credit = 3.5
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向06"
+offering_college = "化工与化学学院"
+total_hours = 56
+
+[[courses]]
+course_code = "22CC22009"
+course_name = "有机化学x"
+credit = 3.5
+recommended_year_semester = "第二学年秋季"
 assessment_method = "考试"
 course_nature = "必修"
 course_category = "其他"
@@ -599,23 +611,11 @@ offering_college = "化工与化学学院"
 total_hours = 56
 
 [[courses]]
-course_code = "22CC22009"
-course_name = "有机化学x"
-credit = 3.5
-assessment_method = "考查"
-recommended_year_semester = "第二学年秋季"
-course_nature = "必修"
-course_category = "其他"
-track = "方向06"
-offering_college = "化工与化学学院"
-total_hours = 56
-
-[[courses]]
 course_code = "22CC31004"
 course_name = "高分子材料分析表征技术"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 track = "方向07"
@@ -638,8 +638,8 @@ total_hours = 64
 course_code = "22CS21503"
 course_name = "Python程序设计A"
 credit = 2.5
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 track = "方向06"
@@ -650,8 +650,8 @@ total_hours = 40
 course_code = "22EN21004"
 course_name = "水化学"
 credit = 3.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 track = "方向06"
@@ -674,12 +674,60 @@ total_hours = 40
 course_code = "22IS22006"
 course_name = "嵌入式系统及应用"
 credit = 3.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向08"
+offering_college = "仪器科学与工程学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22IS22006"
+course_name = "嵌入式系统及应用"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 track = "方向04"
 offering_college = "仪器科学与工程学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MA15031"
+course_name = "概率论与数理统计x"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向09"
+offering_college = "数学学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MA15031"
+course_name = "概率论与数理统计x"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向10"
+offering_college = "数学学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22MA15031"
+course_name = "概率论与数理统计x"
+credit = 3.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向08"
+offering_college = "数学学院"
 total_hours = 48
 
 [[courses]]
@@ -702,7 +750,7 @@ recommended_year_semester = "第二学年秋季"
 assessment_method = "考试"
 course_nature = "必修"
 course_category = "其他"
-track = "方向09"
+track = "方向05"
 offering_college = "数学学院"
 total_hours = 48
 
@@ -710,11 +758,11 @@ total_hours = 48
 course_code = "22MA15031"
 course_name = "概率论与数理统计x"
 credit = 3.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
-track = "方向10"
+track = "方向04"
 offering_college = "数学学院"
 total_hours = 48
 
@@ -731,50 +779,14 @@ offering_college = "数学学院"
 total_hours = 48
 
 [[courses]]
-course_code = "22MA15031"
-course_name = "概率论与数理统计x"
-credit = 3.0
-assessment_method = "考查"
-recommended_year_semester = "第二学年秋季"
-course_nature = "必修"
-course_category = "其他"
-track = "方向04"
-offering_college = "数学学院"
-total_hours = 48
-
-[[courses]]
-course_code = "22MA15031"
-course_name = "概率论与数理统计x"
-credit = 3.0
-recommended_year_semester = "第二学年秋季"
-assessment_method = "考试"
-course_nature = "必修"
-course_category = "其他"
-track = "方向05"
-offering_college = "数学学院"
-total_hours = 48
-
-[[courses]]
-course_code = "22MA15031"
-course_name = "概率论与数理统计x"
-credit = 3.0
-assessment_method = "考查"
-recommended_year_semester = "第二学年秋季"
-course_nature = "必修"
-course_category = "其他"
-track = "方向08"
-offering_college = "数学学院"
-total_hours = 48
-
-[[courses]]
 course_code = "22MA15032"
 course_name = "复变函数与积分变换"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
-track = "方向09"
+track = "方向08"
 offering_college = "数学学院"
 total_hours = 32
 
@@ -782,8 +794,8 @@ total_hours = 32
 course_code = "22MA15032"
 course_name = "复变函数与积分变换"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 track = "方向04"
@@ -794,20 +806,8 @@ total_hours = 32
 course_code = "22MA15032"
 course_name = "复变函数与积分变换"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
-course_nature = "必修"
-course_category = "其他"
-track = "方向08"
-offering_college = "数学学院"
-total_hours = 32
-
-[[courses]]
-course_code = "22MA15033"
-course_name = "最优化方法"
-credit = 2.0
 assessment_method = "考查"
-recommended_year_semester = "第二学年秋季"
 course_nature = "必修"
 course_category = "其他"
 track = "方向09"
@@ -818,8 +818,20 @@ total_hours = 32
 course_code = "22MA15033"
 course_name = "最优化方法"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向09"
+offering_college = "数学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MA15033"
+course_name = "最优化方法"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 track = "方向03"
@@ -901,8 +913,8 @@ total_hours = 48
 course_code = "22PE13003"
 course_name = "体育（3）"
 credit = 0.5
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "体育"
 offering_college = "体育部"
@@ -916,30 +928,6 @@ recommended_year_semester = "第二学年秋季"
 assessment_method = "考试"
 course_nature = "必修"
 course_category = "其他"
-track = "方向09"
-offering_college = "物理学院"
-total_hours = 64
-
-[[courses]]
-course_code = "22PH15013"
-course_name = "大学物理x（2）"
-credit = 4.0
-recommended_year_semester = "第二学年秋季"
-assessment_method = "考试"
-course_nature = "必修"
-course_category = "其他"
-track = "方向08"
-offering_college = "物理学院"
-total_hours = 64
-
-[[courses]]
-course_code = "22PH15013"
-course_name = "大学物理x（2）"
-credit = 4.0
-recommended_year_semester = "第二学年秋季"
-assessment_method = "考试"
-course_nature = "必修"
-course_category = "其他"
 track = "方向10"
 offering_college = "物理学院"
 total_hours = 64
@@ -952,7 +940,43 @@ recommended_year_semester = "第二学年秋季"
 assessment_method = "考试"
 course_nature = "必修"
 course_category = "其他"
+track = "方向09"
+offering_college = "物理学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22PH15013"
+course_name = "大学物理x（2）"
+credit = 4.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向07"
+offering_college = "物理学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22PH15013"
+course_name = "大学物理x（2）"
+credit = 4.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
 track = "方向05"
+offering_college = "物理学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22PH15013"
+course_name = "大学物理x（2）"
+credit = 4.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向08"
 offering_college = "物理学院"
 total_hours = 64
 
@@ -993,71 +1017,11 @@ offering_college = "物理学院"
 total_hours = 64
 
 [[courses]]
-course_code = "22PH15013"
-course_name = "大学物理x（2）"
-credit = 4.0
-recommended_year_semester = "第二学年秋季"
-assessment_method = "考试"
-course_nature = "必修"
-course_category = "其他"
-track = "方向07"
-offering_college = "物理学院"
-total_hours = 64
-
-[[courses]]
 course_code = "22PH15015"
 course_name = "大学物理实验x（2）"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
-course_nature = "必修"
-course_category = "其他"
-track = "方向04"
-offering_college = "物理学院"
-total_hours = 24
-
-[[courses]]
-course_code = "22PH15015"
-course_name = "大学物理实验x（2）"
-credit = 1.0
 assessment_method = "考查"
-recommended_year_semester = "第二学年秋季"
-course_nature = "必修"
-course_category = "其他"
-track = "方向09"
-offering_college = "物理学院"
-total_hours = 24
-
-[[courses]]
-course_code = "22PH15015"
-course_name = "大学物理实验x（2）"
-credit = 1.0
-assessment_method = "考查"
-recommended_year_semester = "第二学年秋季"
-course_nature = "必修"
-course_category = "其他"
-track = "方向05"
-offering_college = "物理学院"
-total_hours = 24
-
-[[courses]]
-course_code = "22PH15015"
-course_name = "大学物理实验x（2）"
-credit = 1.0
-assessment_method = "考查"
-recommended_year_semester = "第二学年秋季"
-course_nature = "必修"
-course_category = "其他"
-track = "方向08"
-offering_college = "物理学院"
-total_hours = 24
-
-[[courses]]
-course_code = "22PH15015"
-course_name = "大学物理实验x（2）"
-credit = 1.0
-assessment_method = "考查"
-recommended_year_semester = "第二学年秋季"
 course_nature = "必修"
 course_category = "其他"
 track = "方向03"
@@ -1068,8 +1032,44 @@ total_hours = 24
 course_code = "22PH15015"
 course_name = "大学物理实验x（2）"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向09"
+offering_college = "物理学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22PH15015"
+course_name = "大学物理实验x（2）"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向08"
+offering_college = "物理学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22PH15015"
+course_name = "大学物理实验x（2）"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向05"
+offering_college = "物理学院"
+total_hours = 24
+
+[[courses]]
+course_code = "22PH15015"
+course_name = "大学物理实验x（2）"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 track = "方向10"
@@ -1077,11 +1077,23 @@ offering_college = "物理学院"
 total_hours = 24
 
 [[courses]]
+course_code = "22PH15015"
+course_name = "大学物理实验x（2）"
+credit = 1.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向04"
+offering_college = "物理学院"
+total_hours = 24
+
+[[courses]]
 course_code = "22CC22012"
 course_name = "材料科学基础"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 track = "方向06"
@@ -1092,8 +1104,8 @@ total_hours = 32
 course_code = "22CC31001"
 course_name = "高分子物理"
 credit = 4.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 track = "方向07"
@@ -1104,8 +1116,8 @@ total_hours = 64
 course_code = "22CC31028"
 course_name = "电化学原理A"
 credit = 5.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 track = "方向06"
@@ -1116,8 +1128,8 @@ total_hours = 80
 course_code = "22CS21004"
 course_name = "离散数学"
 credit = 4.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 track = "方向06"
@@ -1128,8 +1140,8 @@ total_hours = 64
 course_code = "22EI31562"
 course_name = "人工智能与机器学习"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 track = "方向06"
@@ -1140,19 +1152,19 @@ total_hours = 32
 course_code = "22EM32413"
 course_name = "领导力与沟通"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
-offering_college = "经济与管理学院"
+offering_college = "商学院"
 total_hours = 16
 
 [[courses]]
 course_code = "22EN22012"
 course_name = "工程伦理学"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 offering_college = "环境学院"
@@ -1162,32 +1174,8 @@ total_hours = 16
 course_code = "22ES22003"
 course_name = "热力学基础"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
-course_nature = "选修"
-course_category = "其他"
-track = "方向10"
-offering_college = "能源科学与工程学院"
-total_hours = 32
-
-[[courses]]
-course_code = "22ES22003"
-course_name = "热力学基础"
-credit = 2.0
 assessment_method = "考查"
-recommended_year_semester = "第二学年秋季"
-course_nature = "选修"
-course_category = "其他"
-track = "方向06"
-offering_college = "能源科学与工程学院"
-total_hours = 32
-
-[[courses]]
-course_code = "22ES22003"
-course_name = "热力学基础"
-credit = 2.0
-assessment_method = "考查"
-recommended_year_semester = "第二学年秋季"
 course_nature = "选修"
 course_category = "其他"
 track = "方向09"
@@ -1198,8 +1186,32 @@ total_hours = 32
 course_code = "22ES22003"
 course_name = "热力学基础"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+track = "方向10"
+offering_college = "能源科学与工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22ES22003"
+course_name = "热力学基础"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+track = "方向06"
+offering_college = "能源科学与工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22ES22003"
+course_name = "热力学基础"
+credit = 2.0
+recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 track = "方向08"
@@ -1210,8 +1222,8 @@ total_hours = 32
 course_code = "22FL12005"
 course_name = "外语综合（3）"
 credit = 1.5
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 offering_college = "人文社科学部"
@@ -1233,8 +1245,8 @@ total_hours = 32
 course_code = "22MA15031"
 course_name = "概率论与数理统计x"
 credit = 3.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 track = "方向07"
@@ -1245,8 +1257,8 @@ total_hours = 48
 course_code = "22MA15032"
 course_name = "复变函数与积分变换"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 track = "方向03"
@@ -1257,8 +1269,8 @@ total_hours = 32
 course_code = "22MA15033"
 course_name = "最优化方法"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 track = "方向06"
@@ -1269,8 +1281,8 @@ total_hours = 32
 course_code = "22MA15033"
 course_name = "最优化方法"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 track = "方向05"
@@ -1281,8 +1293,8 @@ total_hours = 32
 course_code = "22MS22702"
 course_name = "材料化学基础"
 credit = 2.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 track = "方向10"
@@ -1293,13 +1305,675 @@ total_hours = 32
 course_code = "22PH15015"
 course_name = "大学物理实验x（2）"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "选修"
 course_category = "其他"
 track = "方向07"
 offering_college = "物理学院"
 total_hours = 24
+
+[[courses]]
+course_code = "22AS22014"
+course_name = "系统与控制"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向03"
+offering_college = "航天学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22AS22014"
+course_name = "系统与控制"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向04"
+offering_college = "航天学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22AS22298"
+course_name = "固体力学（1）"
+credit = 4.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向10"
+offering_college = "航天学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22AS22298"
+course_name = "固体力学（1）"
+credit = 4.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向08"
+offering_college = "航天学院"
+total_hours = 64
+
+[[courses]]
+course_code = "22AS22299"
+course_name = "动力学与控制"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向08"
+offering_college = "航天学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22AS22299"
+course_name = "动力学与控制"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向09"
+offering_college = "航天学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22AS22301"
+course_name = "复合材料导论"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向07"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AS31110"
+course_name = "人工智能基础"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向03"
+offering_college = "航天学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22AS31303"
+course_name = "复合材料力学"
+credit = 3.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向07"
+offering_college = "航天学院"
+total_hours = 56
+
+[[courses]]
+course_code = "22AS31307"
+course_name = "材料物理性能"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向10"
+offering_college = "航天学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22AS31361"
+course_name = "材料科学基础"
+credit = 5.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向07"
+offering_college = "航天学院"
+total_hours = 80
+
+[[courses]]
+course_code = "22AS31502"
+course_name = "航天器姿态动力学与控制"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向05"
+offering_college = "航天学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22CC22004"
+course_name = "物理化学x"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向07"
+offering_college = "化工与化学学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22CC22005"
+course_name = "分析化学x"
+credit = 2.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向07"
+offering_college = "化工与化学学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22CS22004"
+course_name = "数据结构与算法"
+credit = 3.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向09"
+offering_college = "计算学部"
+total_hours = 56
+
+[[courses]]
+course_code = "22CS22008"
+course_name = "计算机系统"
+credit = 3.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向03"
+offering_college = "计算学部"
+total_hours = 56
+
+[[courses]]
+course_code = "22CS22008"
+course_name = "计算机系统"
+credit = 3.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向09"
+offering_college = "计算学部"
+total_hours = 56
+
+[[courses]]
+course_code = "22EE22042"
+course_name = "信号与系统"
+credit = 2.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向05"
+offering_college = "电气工程及自动化学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22EI31390"
+course_name = "信号处理"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向08"
+offering_college = "电子与信息工程学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22EI31390"
+course_name = "信号处理"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向09"
+offering_college = "电子与信息工程学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22EN22019"
+course_name = "水处理生物学"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向06"
+offering_college = "环境学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22EN22020"
+course_name = "水分析化学"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向06"
+offering_college = "环境学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22ES22029"
+course_name = "流体力学(1)"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向06"
+offering_college = "能源科学与工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22ES22029"
+course_name = "流体力学(1)"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向09"
+offering_college = "能源科学与工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22ES22029"
+course_name = "流体力学(1)"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向08"
+offering_college = "能源科学与工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS16001"
+course_name = "写作与沟通"
+credit = 1.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 16
+
+[[courses]]
+course_code = "22IS31401"
+course_name = "精密机械学基础（2）"
+credit = 3.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向04"
+offering_college = "仪器科学与工程学院"
+total_hours = 56
+
+[[courses]]
+course_code = "22IS33401"
+course_name = "精密机械学基础课程设计"
+credit = 1.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向04"
+offering_college = "仪器科学与工程学院"
+
+[[courses]]
+course_code = "22ME21002"
+course_name = "设计与制造（2）"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向10"
+offering_college = "机电工程学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22ME22010"
+course_name = "工程训练（制造工艺实习）B"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向04"
+offering_college = "机电工程学院"
+
+[[courses]]
+course_code = "22ME22010"
+course_name = "工程训练（制造工艺实习）B"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向08"
+offering_college = "机电工程学院"
+
+[[courses]]
+course_code = "22ME22010"
+course_name = "工程训练（制造工艺实习）B"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向10"
+offering_college = "机电工程学院"
+
+[[courses]]
+course_code = "22MS31101"
+course_name = "热处理原理A"
+credit = 2.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+track = "方向10"
+offering_college = "材料科学与工程学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22MS32128"
+course_name = "高分子化学"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+track = "方向07"
+offering_college = "材料科学与工程学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22MX11004"
+course_name = "毛泽东思想和中国特色社会主义理论体系概论"
+credit = 2.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22MX11007"
+course_name = "形势与政策（2）"
+credit = 1.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22MX44001"
+course_name = "劳动教育概论"
+credit = 0.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[[courses]]
+course_code = "22PE13004"
+course_name = "体育（4）"
+credit = 0.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22AS22018"
+course_name = "理论力学D"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+track = "方向05"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AS22297"
+course_name = "工程仿真模拟"
+credit = 1.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+track = "方向04"
+offering_college = "航天学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22AS22297"
+course_name = "工程仿真模拟"
+credit = 1.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+track = "方向10"
+offering_college = "航天学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22AS22297"
+course_name = "工程仿真模拟"
+credit = 1.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+track = "方向08"
+offering_college = "航天学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22AS31101"
+course_name = "系统建模与仿真基础"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+track = "方向05"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22AS31505"
+course_name = "导弹飞行力学"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "选修"
+course_category = "其他"
+track = "方向05"
+offering_college = "航天学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CC22006"
+course_name = "计算化学x"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+track = "方向06"
+offering_college = "化工与化学学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22CS22004"
+course_name = "数据结构与算法"
+credit = 3.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+track = "方向06"
+offering_college = "计算学部"
+total_hours = 56
+
+[[courses]]
+course_code = "22CS22006"
+course_name = "计算机组成原理A"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+track = "方向08"
+offering_college = "计算学部"
+total_hours = 48
+
+[[courses]]
+course_code = "22CS22006"
+course_name = "计算机组成原理A"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+track = "方向09"
+offering_college = "计算学部"
+total_hours = 48
+
+[[courses]]
+course_code = "22CS22008"
+course_name = "计算机系统"
+credit = 3.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+track = "方向06"
+offering_college = "计算学部"
+total_hours = 56
+
+[[courses]]
+course_code = "22CS22010"
+course_name = "人工智能导论"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+track = "方向10"
+offering_college = "计算学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22CS22010"
+course_name = "人工智能导论"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+track = "方向09"
+offering_college = "计算学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22CS22010"
+course_name = "人工智能导论"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+track = "方向08"
+offering_college = "计算学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22EI31461"
+course_name = "电磁场与电磁波A"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+track = "方向09"
+offering_college = "电子与信息工程学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22EN22029"
+course_name = "水系统模拟与仿真基础"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+track = "方向06"
+offering_college = "环境学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22FL12006"
+course_name = "外语综合（4）"
+credit = 1.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22MA22010"
+course_name = "泛函分析基础"
+credit = 4.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+track = "方向05"
+offering_college = "数学学院"
+total_hours = 64
 
 [info]
 year = "2025"

@@ -2,8 +2,8 @@
 course_code = "22AR21002"
 course_name = "专业认知实践"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "建筑与设计学院"
@@ -12,8 +12,8 @@ offering_college = "建筑与设计学院"
 course_code = "22AR21008"
 course_name = "环境科学概论"
 credit = 1.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "建筑与设计学院"
@@ -56,8 +56,8 @@ total_hours = 48
 course_code = "22ME21007"
 course_name = "土木制图基础"
 credit = 3.0
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "机电工程学院"
@@ -78,8 +78,95 @@ total_hours = 48
 course_code = "22PE13003"
 course_name = "体育（3）"
 credit = 0.5
-assessment_method = "考查"
 recommended_year_semester = "第二学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[[courses]]
+course_code = "22AR31201"
+course_name = "工程热力学"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22AR31203"
+course_name = "传热学"
+credit = 3.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 48
+
+[[courses]]
+course_code = "22AR31205"
+course_name = "流体输配管网"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑与设计学院"
+total_hours = 32
+
+[[courses]]
+course_code = "22EE22013"
+course_name = "电工与电子技术D"
+credit = 2.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "电气工程及自动化学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22ME22010"
+course_name = "工程训练（制造工艺实习）B"
+credit = 2.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机电工程学院"
+
+[[courses]]
+course_code = "22MX11004"
+course_name = "毛泽东思想和中国特色社会主义理论体系概论"
+credit = 2.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[[courses]]
+course_code = "22MX11007"
+course_name = "形势与政策（2）"
+credit = 1.0
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "思政"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[[courses]]
+course_code = "22PE13004"
+course_name = "体育（4）"
+credit = 0.5
+recommended_year_semester = "第二学年春季"
+assessment_method = "考查"
 course_nature = "必修"
 course_category = "体育"
 offering_college = "体育部"
