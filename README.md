@@ -67,3 +67,23 @@ git diff -- major_mapping.json course_introductions.json plans
 ```
 
 确认新增、修改和删除均符合预期后，再提交本仓库的更改。
+
+## 课程身份与成绩构成
+
+专业课程路由和课号使用培养方案中的原始 `course_code`。`lookup_table.toml` 只选择正文、资料下载和 GitHub 入口使用的资源仓库，不改变课程元数据或教务简介的身份。
+
+专业课程成绩构成在对应培养方案的课程条目中维护，不使用中央 `grades_summary.json` 补全：
+
+```toml
+[[courses]]
+course_code = "22MA15005"
+course_name = "微积分C（1）"
+grade_details = [
+  { name = "平时成绩", percent = "30%" },
+  { name = "期末考试", percent = "70%" },
+]
+```
+
+按入学年份、专业和原始课号确认适用范围，在提交说明中提供依据。缺少字段或值为 `[]` 时显示暂无成绩构成；当前数据尚未普遍提供该字段。`hoahrb-jwts` 更新培养方案时按年份、专业代码和原始课号保留已有的手工 `grade_details`，课程删除或课号变化时不自动迁移；若会丢失已有贡献，发布会报错，需先确认并迁移或归档。
+
+`grades_summary.json` 继续保留上游以仓库 ID 为键的语义，供没有培养方案身份的共享分类页使用。课程仓库正文中的成绩徽章也属于资料正文，不作为专业课程信息栏的来源。
