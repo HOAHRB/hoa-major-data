@@ -678,6 +678,7 @@ course_category = "其他"
 offering_college = "马克思主义学院"
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "49491"
 major_name = "思想政治教育"

@@ -1006,6 +1006,7 @@ offering_college = "环境学院"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "27251W"
 major_name = "给排水科学与工程（威海拔尖班）"

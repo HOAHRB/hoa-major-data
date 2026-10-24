@@ -1940,6 +1940,7 @@ course_category = "体育"
 offering_college = "体育部"
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "09331W"
 major_name = "土木工程（威海拔尖班）"

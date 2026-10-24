@@ -1204,6 +1204,7 @@ offering_college = "机电工程学院"
 total_hours = 32
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "02087"
 major_name = "智能制造工程"

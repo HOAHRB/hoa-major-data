@@ -547,6 +547,7 @@ offering_college = "物理学院"
 total_hours = 24
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "52WL02"
 major_name = "人工智能领域方向（2+X模式）"

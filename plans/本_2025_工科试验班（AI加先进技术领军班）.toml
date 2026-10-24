@@ -284,6 +284,7 @@ offering_college = "电子与信息工程学院"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2025"
 major_code = "250225L02"
 major_name = "工科试验班（AI加先进技术领军班）"

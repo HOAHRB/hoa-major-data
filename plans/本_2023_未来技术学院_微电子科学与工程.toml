@@ -883,6 +883,7 @@ course_category = "体育"
 offering_college = "体育部"
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "52WL214"
 major_name = "微电子科学与工程"

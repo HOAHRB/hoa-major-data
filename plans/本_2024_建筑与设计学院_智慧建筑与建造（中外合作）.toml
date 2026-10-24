@@ -558,6 +558,7 @@ offering_college = "建筑与设计学院"
 total_hours = 56
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "11B349"
 major_name = "智慧建筑与建造（中外合作）"

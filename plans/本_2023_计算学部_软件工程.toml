@@ -1743,6 +1743,7 @@ course_category = "其他"
 offering_college = "计算学部"
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "13B371"
 major_name = "软件工程"

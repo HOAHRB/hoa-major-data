@@ -240,6 +240,7 @@ offering_college = "物理学院"
 total_hours = 24
 
 [info]
+study_level = "undergrad"
 year = "2026"
 major_code = "020831"
 major_name = "飞行器制造工程（强基计划）"

@@ -1428,6 +1428,7 @@ offering_college = "计算学部"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "13B039"
 major_name = "网络空间安全"

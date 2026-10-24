@@ -218,6 +218,7 @@ offering_college = "物理学院"
 total_hours = 80
 
 [info]
+study_level = "undergrad"
 year = "2026"
 major_code = "040281"
 major_name = "储能科学与工程（强基计划）"

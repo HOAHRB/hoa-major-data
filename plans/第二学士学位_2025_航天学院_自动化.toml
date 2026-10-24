@@ -274,6 +274,7 @@ offering_college = "航天学院"
 total_hours = 32
 
 [info]
+study_level = "undergrad"
 year = "2025"
 major_code = "01E041"
 major_name = "自动化"

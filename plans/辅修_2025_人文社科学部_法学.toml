@@ -21,6 +21,7 @@ offering_college = "人文社科学部"
 total_hours = 40
 
 [info]
+study_level = "undergrad"
 year = "2025"
 major_code = "35F242"
 major_name = "法学"

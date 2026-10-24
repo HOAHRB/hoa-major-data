@@ -426,6 +426,7 @@ offering_college = "体育部"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2025"
 major_code = "25149"
 major_name = "材料科学与工程（高分子材料方向）"

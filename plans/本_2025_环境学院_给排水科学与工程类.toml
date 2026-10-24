@@ -230,6 +230,7 @@ offering_college = "体育部"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2025"
 major_code = "2725L01"
 major_name = "给排水科学与工程类"

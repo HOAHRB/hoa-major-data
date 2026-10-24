@@ -219,6 +219,7 @@ offering_college = "物理学院"
 total_hours = 64
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "2723L270"
 major_name = "工科试验班（生态环境类）"

@@ -1116,6 +1116,7 @@ course_category = "其他"
 offering_college = "航天学院"
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "01211"
 major_name = "电子科学与技术"

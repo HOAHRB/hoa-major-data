@@ -1070,6 +1070,7 @@ offering_college = "材料科学与工程学院"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "03443W"
 major_name = "光电信息材料与器件（威海拔尖班）"

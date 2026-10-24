@@ -920,6 +920,7 @@ offering_college = "机电工程学院"
 total_hours = 32
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "52WL083"
 major_name = "飞行器制造工程"

@@ -810,6 +810,7 @@ offering_college = "人文社科学部"
 total_hours = 24
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "35SXS161103"
 major_name = "社会学（+大数据管理与应用双学士学位）"

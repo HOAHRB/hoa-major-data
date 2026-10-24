@@ -218,6 +218,7 @@ offering_college = "物理学院"
 total_hours = 80
 
 [info]
+study_level = "undergrad"
 year = "2026"
 major_code = "5213SY01"
 major_name = "人工智能班（英才）"

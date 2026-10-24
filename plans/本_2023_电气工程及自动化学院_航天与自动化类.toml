@@ -625,6 +625,7 @@ offering_college = "电气工程及自动化学院"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "0523L040"
 major_name = "航天与自动化类"

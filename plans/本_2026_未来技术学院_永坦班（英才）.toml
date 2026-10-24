@@ -251,6 +251,7 @@ offering_college = "物理学院"
 total_hours = 24
 
 [info]
+study_level = "undergrad"
 year = "2026"
 major_code = "5205SY2"
 major_name = "永坦班（英才）"

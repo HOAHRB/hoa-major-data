@@ -54,6 +54,7 @@ offering_college = "建筑与设计学院"
 total_hours = 48
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "11BF345"
 major_name = "城乡规划"

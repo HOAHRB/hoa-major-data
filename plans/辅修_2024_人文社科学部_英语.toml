@@ -87,6 +87,7 @@ offering_college = "人文社科学部"
 total_hours = 32
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "35F151"
 major_name = "英语"

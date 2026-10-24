@@ -173,6 +173,7 @@ offering_college = "体育部"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2025"
 major_code = "11B262"
 major_name = "建筑环境与能源应用工程"

@@ -24,6 +24,7 @@
 - `major_name`：专业名称
 - `school_name`：学院名称
 - `plan_category`：方案类别
+- `study_level`：培养层次；当前所有方案统一为 `"undergrad"`
 - `plan_ID`：由 `HIT-{year}-{major_code}` 确定的方案标识
 
 文件名和 `major_mapping.json` 均由同一份方案元信息生成，只是面向不同用途的投影，
@@ -45,6 +46,12 @@
 2. `major_mapping.json` 中的年份、专业代码、专业名称、学院名称和 `plan_ID` 与
    对应 TOML 的 `[info]` 一致；
 3. 同一年级内不得出现重复的 `major_code`，`plan_ID` 必须保持确定性和唯一性。
+
+为兼容上游的培养层次筛选，所有方案的 `[info].study_level` 和
+`major_mapping.json` 对应条目的 `study_level` 均显式设为 `"undergrad"`，两处必须一致。
+本仓库目前没有研究生方案；该值是本科层次的兼容默认值，不从 `plan_category` 推导，
+也不改变普通本科、辅修、第二学士学位或本科国际生等既有类别及发布范围。
+`hoahrb-jwts` 抓取时输出此字段，`merge-data` 为缺少字段的旧方案补上该默认值。
 
 以下文件由维护者手工管理，不会被 `hoahrb-jwts` 覆盖：
 

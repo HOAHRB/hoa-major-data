@@ -251,6 +251,7 @@ offering_college = "未来技术学院"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2026"
 major_code = "52WL01"
 major_name = "未来技术模块"

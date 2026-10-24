@@ -218,6 +218,7 @@ offering_college = "物理学院"
 total_hours = 24
 
 [info]
+study_level = "undergrad"
 year = "2026"
 major_code = "52AIS"
 major_name = "自主智能系统班（英才）"

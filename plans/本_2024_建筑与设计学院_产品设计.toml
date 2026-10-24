@@ -776,6 +776,7 @@ offering_college = "机电工程学院"
 total_hours = 48
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "11B3410"
 major_name = "产品设计"

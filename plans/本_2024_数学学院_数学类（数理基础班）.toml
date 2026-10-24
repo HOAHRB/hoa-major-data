@@ -361,6 +361,7 @@ offering_college = "数学学院"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "31120SL"
 major_name = "数学类（数理基础班）"

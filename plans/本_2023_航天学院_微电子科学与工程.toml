@@ -1006,6 +1006,7 @@ course_category = "其他"
 offering_college = "航天学院"
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "01214"
 major_name = "微电子科学与工程"

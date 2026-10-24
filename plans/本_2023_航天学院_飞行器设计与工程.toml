@@ -1337,6 +1337,7 @@ course_category = "其他"
 offering_college = "航天学院"
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "01182"
 major_name = "飞行器设计与工程"

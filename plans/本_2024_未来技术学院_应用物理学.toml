@@ -800,6 +800,7 @@ offering_college = "物理学院"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "52WL111"
 major_name = "应用物理学"

@@ -1025,6 +1025,7 @@ course_category = "体育"
 offering_college = "体育部"
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "52WL211Z"
 major_name = "电子科学与技术（智能制造领域）"

@@ -1005,6 +1005,7 @@ course_category = "其他"
 offering_college = "航天学院"
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "01213"
 major_name = "光电信息科学与工程(光学工程方向)"

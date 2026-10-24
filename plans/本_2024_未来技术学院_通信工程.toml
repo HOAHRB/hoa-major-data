@@ -765,6 +765,7 @@ offering_college = "电子与信息工程学院"
 total_hours = 24
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "52WL051"
 major_name = "通信工程"

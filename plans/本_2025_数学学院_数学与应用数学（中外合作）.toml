@@ -450,6 +450,7 @@ offering_college = "物理学院"
 total_hours = 144
 
 [info]
+study_level = "undergrad"
 year = "2025"
 major_code = "31126"
 major_name = "数学与应用数学（中外合作）"

@@ -555,6 +555,7 @@ offering_college = "数学学院"
 total_hours = 64
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "52SXS121031"
 major_name = "数学与应用数学（+计算机科学与技术双学士学位）"

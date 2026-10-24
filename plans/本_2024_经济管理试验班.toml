@@ -240,6 +240,7 @@ offering_college = "体育部"
 total_hours = 32
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "10L0124L1001"
 major_name = "经济管理试验班"

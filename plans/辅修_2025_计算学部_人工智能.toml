@@ -10,6 +10,7 @@ offering_college = "计算学部"
 total_hours = 48
 
 [info]
+study_level = "undergrad"
 year = "2025"
 major_code = "13BF036"
 major_name = "人工智能"

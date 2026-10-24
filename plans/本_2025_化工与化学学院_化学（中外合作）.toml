@@ -373,6 +373,7 @@ offering_college = "物理学院"
 total_hours = 144
 
 [info]
+study_level = "undergrad"
 year = "2025"
 major_code = "25079"
 major_name = "化学（中外合作）"

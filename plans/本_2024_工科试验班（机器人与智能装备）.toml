@@ -229,6 +229,7 @@ offering_college = "物理学院"
 total_hours = 72
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "230123L03"
 major_name = "工科试验班（机器人与智能装备）"

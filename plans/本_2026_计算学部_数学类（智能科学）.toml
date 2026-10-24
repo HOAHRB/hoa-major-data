@@ -218,6 +218,7 @@ offering_college = "物理学院"
 total_hours = 24
 
 [info]
+study_level = "undergrad"
 year = "2026"
 major_code = "13B0312"
 major_name = "数学类（智能科学）"

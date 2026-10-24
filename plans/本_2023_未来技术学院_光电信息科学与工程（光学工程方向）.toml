@@ -925,6 +925,7 @@ course_category = "体育"
 offering_college = "体育部"
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "52WL213"
 major_name = "光电信息科学与工程（光学工程方向）"

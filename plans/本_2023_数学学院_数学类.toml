@@ -350,6 +350,7 @@ offering_college = "马克思主义学院"
 total_hours = 8
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "31120"
 major_name = "数学类"

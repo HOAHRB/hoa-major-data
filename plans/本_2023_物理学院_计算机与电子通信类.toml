@@ -405,6 +405,7 @@ offering_college = "电子与信息工程学院"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "3223L030"
 major_name = "计算机与电子通信类"

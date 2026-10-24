@@ -885,6 +885,7 @@ course_category = "其他"
 offering_college = "航天学院"
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "01187"
 major_name = "工程力学（强基计划）"

@@ -1182,6 +1182,7 @@ course_category = "体育"
 offering_college = "体育部"
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "52WL085"
 major_name = "机械电子工程"

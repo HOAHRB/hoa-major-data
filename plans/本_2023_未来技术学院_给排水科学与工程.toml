@@ -1049,6 +1049,7 @@ offering_college = "环境学院"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "52WL251S"
 major_name = "给排水科学与工程"

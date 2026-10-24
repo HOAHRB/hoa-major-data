@@ -131,6 +131,7 @@ offering_college = "体育部"
 total_hours = 36
 
 [info]
+study_level = "undergrad"
 year = "2026"
 major_code = "25079"
 major_name = "化学（中外合作）"

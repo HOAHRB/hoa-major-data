@@ -207,6 +207,7 @@ offering_college = "物理学院"
 total_hours = 80
 
 [info]
+study_level = "undergrad"
 year = "2026"
 major_code = "260326Q03"
 major_name = "工科试验班（未来空天）"

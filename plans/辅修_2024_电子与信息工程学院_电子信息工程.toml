@@ -109,6 +109,7 @@ offering_college = "电子与信息工程学院"
 total_hours = 40
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "20F052"
 major_name = "电子信息工程"

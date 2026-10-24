@@ -207,6 +207,7 @@ offering_college = "物理学院"
 total_hours = 80
 
 [info]
+study_level = "undergrad"
 year = "2026"
 major_code = "260126Q01"
 major_name = "工科试验班（自主智能）"

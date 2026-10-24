@@ -1281,6 +1281,7 @@ course_category = "其他"
 offering_college = "电子与信息工程学院"
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "5205SY2"
 major_name = "永坦班（英才）"

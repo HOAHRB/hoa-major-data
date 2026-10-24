@@ -915,6 +915,7 @@ course_category = "体育"
 offering_college = "体育部"
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "52WL024"
 major_name = "能源与动力工程"

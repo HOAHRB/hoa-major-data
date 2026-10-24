@@ -272,6 +272,7 @@ offering_college = "物理学院"
 total_hours = 24
 
 [info]
+study_level = "undergrad"
 year = "2025"
 major_code = "09Y331"
 major_name = "土木工程"

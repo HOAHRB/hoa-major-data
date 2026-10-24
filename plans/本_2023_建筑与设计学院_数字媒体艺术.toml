@@ -1113,6 +1113,7 @@ course_category = "其他"
 offering_college = "建筑与设计学院"
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "11B304"
 major_name = "数字媒体艺术"

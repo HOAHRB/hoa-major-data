@@ -690,6 +690,7 @@ offering_college = "机电工程学院"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "0223L080"
 major_name = "机器人与智能装备类"

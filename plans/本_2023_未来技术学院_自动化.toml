@@ -1192,6 +1192,7 @@ offering_college = "航天学院"
 total_hours = 48
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "52WL041"
 major_name = "自动化"

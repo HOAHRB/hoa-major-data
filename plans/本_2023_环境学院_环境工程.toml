@@ -951,6 +951,7 @@ course_category = "其他"
 offering_college = "环境学院"
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "27271"
 major_name = "环境工程"

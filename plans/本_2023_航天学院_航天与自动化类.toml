@@ -669,6 +669,7 @@ offering_college = "航天学院"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "0123L040"
 major_name = "航天与自动化类"

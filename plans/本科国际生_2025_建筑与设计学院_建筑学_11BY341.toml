@@ -261,6 +261,7 @@ offering_college = "建筑与设计学院"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2025"
 major_code = "11BY341"
 major_name = "建筑学"

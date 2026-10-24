@@ -76,6 +76,7 @@ offering_college = "经济与管理学院"
 total_hours = 32
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "07F206S"
 major_name = "公共行政领导力"

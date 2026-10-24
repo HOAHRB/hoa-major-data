@@ -1765,6 +1765,7 @@ course_category = "其他"
 offering_college = "计算学部"
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "13B035"
 major_name = "数据科学与大数据技术"

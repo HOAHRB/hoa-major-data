@@ -536,6 +536,7 @@ offering_college = "化工与化学学院"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "2523L140"
 major_name = "工科试验班（新材料化工类）"

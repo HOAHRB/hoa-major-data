@@ -1454,6 +1454,7 @@ course_category = "体育"
 offering_college = "体育部"
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "05061"
 major_name = "电气工程及其自动化"

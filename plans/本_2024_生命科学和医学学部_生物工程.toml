@@ -1063,6 +1063,7 @@ offering_college = "生命科学和医学学部"
 total_hours = 32
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "37282"
 major_name = "生物工程"

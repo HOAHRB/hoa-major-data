@@ -946,6 +946,7 @@ course_category = "其他"
 offering_college = "航天学院"
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "52189"
 major_name = "善义班（英才）"

@@ -1112,6 +1112,7 @@ course_category = "其他"
 offering_college = "建筑与设计学院"
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "11B262"
 major_name = "建筑环境与能源应用工程"

@@ -678,6 +678,7 @@ offering_college = "航天学院"
 total_hours = 24
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "01SXS121041"
 major_name = "数学与应用数学（+自动化双学士学位）"

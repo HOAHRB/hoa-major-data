@@ -931,6 +931,7 @@ offering_college = "航天学院"
 total_hours = 24
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "52WL042"
 major_name = "探测制导与控制技术"

@@ -230,6 +230,7 @@ offering_college = "物理学院"
 total_hours = 72
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "190119L01"
 major_name = "工科试验班（航天与自动化）"

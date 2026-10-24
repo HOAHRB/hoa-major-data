@@ -1044,6 +1044,7 @@ course_category = "体育"
 offering_college = "体育部"
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "02088"
 major_name = "智能机器人班（英才）"

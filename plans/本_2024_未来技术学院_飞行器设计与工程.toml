@@ -930,6 +930,7 @@ offering_college = "航天学院"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "52WL182"
 major_name = "飞行器设计与工程"

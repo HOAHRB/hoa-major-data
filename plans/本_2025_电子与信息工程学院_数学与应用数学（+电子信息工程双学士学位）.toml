@@ -383,6 +383,7 @@ offering_college = "物理学院"
 total_hours = 80
 
 [info]
+study_level = "undergrad"
 year = "2025"
 major_code = "20SXS121052"
 major_name = "数学与应用数学（+电子信息工程双学士学位）"

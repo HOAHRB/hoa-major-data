@@ -975,6 +975,7 @@ offering_college = "体育部"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "0402MK4"
 major_name = "飞行器动力工程模块"

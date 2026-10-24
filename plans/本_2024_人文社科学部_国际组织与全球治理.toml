@@ -834,6 +834,7 @@ offering_college = "人文社科学部"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "35154"
 major_name = "国际组织与全球治理"

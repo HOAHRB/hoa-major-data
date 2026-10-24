@@ -328,6 +328,7 @@ offering_college = "物理学院"
 total_hours = 80
 
 [info]
+study_level = "undergrad"
 year = "2025"
 major_code = "31120"
 major_name = "数学类"

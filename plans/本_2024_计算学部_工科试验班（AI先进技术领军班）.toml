@@ -776,6 +776,7 @@ offering_college = "计算学部"
 total_hours = 32
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "13B24L0301"
 major_name = "工科试验班（AI先进技术领军班）"

@@ -21,6 +21,7 @@ offering_college = "马克思主义学院"
 total_hours = 32
 
 [info]
+study_level = "undergrad"
 year = "2025"
 major_code = "49F492"
 major_name = "马克思主义理论"

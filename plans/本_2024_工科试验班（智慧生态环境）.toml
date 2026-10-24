@@ -229,6 +229,7 @@ offering_college = "物理学院"
 total_hours = 64
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "27L0124L270"
 major_name = "工科试验班（智慧生态环境）"

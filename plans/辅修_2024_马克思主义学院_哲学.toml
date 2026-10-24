@@ -87,6 +87,7 @@ offering_college = "马克思主义学院"
 total_hours = 24
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "49F493S"
 major_name = "哲学"

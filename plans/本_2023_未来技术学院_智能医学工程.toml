@@ -842,6 +842,7 @@ course_category = "体育"
 offering_college = "体育部"
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "52WL521S"
 major_name = "智能医学工程"

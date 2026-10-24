@@ -800,6 +800,7 @@ offering_college = "体育部"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "01184"
 major_name = "复合材料与工程"

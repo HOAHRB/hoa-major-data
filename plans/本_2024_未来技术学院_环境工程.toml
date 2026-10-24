@@ -744,6 +744,7 @@ offering_college = "环境学院"
 total_hours = 24
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "52WL271S"
 major_name = "环境工程"

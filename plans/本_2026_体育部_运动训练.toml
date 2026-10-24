@@ -86,6 +86,7 @@ offering_college = "体育部"
 total_hours = 64
 
 [info]
+study_level = "undergrad"
 year = "2026"
 major_code = "55552"
 major_name = "运动训练"

@@ -229,6 +229,7 @@ offering_college = "物理学院"
 total_hours = 24
 
 [info]
+study_level = "undergrad"
 year = "2025"
 major_code = "3125AI"
 major_name = "AI加先进技术领军班"

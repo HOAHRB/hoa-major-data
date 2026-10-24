@@ -934,6 +934,7 @@ offering_college = "化工与化学学院"
 total_hours = 32
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "25079"
 major_name = "化学（中外合作）"

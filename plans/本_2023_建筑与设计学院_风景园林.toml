@@ -1060,6 +1060,7 @@ offering_college = "建筑与设计学院"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2023"
 major_code = "11B347"
 major_name = "风景园林"

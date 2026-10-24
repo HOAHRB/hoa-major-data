@@ -427,6 +427,7 @@ offering_college = "体育部"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2025"
 major_code = "3523L230"
 major_name = "经济管理试验班（人文）"

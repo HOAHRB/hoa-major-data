@@ -820,6 +820,7 @@ offering_college = "航天学院"
 total_hours = 32
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "52WL216"
 major_name = "智能视觉工程"

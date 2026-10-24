@@ -797,6 +797,7 @@ offering_college = "航天学院"
 total_hours = 32
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "52WL215"
 major_name = "集成电路设计与集成系统"

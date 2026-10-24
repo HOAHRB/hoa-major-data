@@ -932,6 +932,7 @@ offering_college = "计算学部"
 total_hours = 32
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "52WL031"
 major_name = "计算机科学与技术"

@@ -787,6 +787,7 @@ offering_college = "航天学院"
 total_hours = 16
 
 [info]
+study_level = "undergrad"
 year = "2024"
 major_code = "52WL211"
 major_name = "电子科学与技术"

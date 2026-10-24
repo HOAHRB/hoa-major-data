@@ -273,6 +273,7 @@ offering_college = "马克思主义学院"
 total_hours = 8
 
 [info]
+study_level = "undergrad"
 year = "2025"
 major_code = "52WL01"
 major_name = "未来技术模块"
