@@ -329,40 +329,40 @@ DEFAULT = "22MA15021"
 
 # 军事理论
 [22AD16001]
-DEFAULT = "MillitaryTraining"
+DEFAULT = "MilitaryTraining"
 
 # 军事理论
 [22AD16001C]
-DEFAULT = "MillitaryTraining"
+DEFAULT = "MilitaryTraining"
 
 # 军事技能
 [22AD16002]
-DEFAULT = "MillitaryTraining"
+DEFAULT = "MilitaryTraining"
 
 # 军事技能
 [22AD16002C]
-DEFAULT = "MillitaryTraining"
+DEFAULT = "MilitaryTraining"
 
 # 军事技能
 [22AD16004]
-DEFAULT = "MillitaryTraining"
+DEFAULT = "MilitaryTraining"
 
 # 军事理论
 [22WHAD16001]
-DEFAULT = "MillitaryTraining"
+DEFAULT = "MilitaryTraining"
 
 # 军事技能
 [22WHAD16002]
-DEFAULT = "MillitaryTraining"
+DEFAULT = "MilitaryTraining"
 
 # 军事技能
 [22WHAD16004]
-DEFAULT = "MillitaryTraining"
+DEFAULT = "MilitaryTraining"
 
 # 军事理论
 [AD15002]
-DEFAULT = "MillitaryTraining"
+DEFAULT = "MilitaryTraining"
 
 # 军事技能
 [AD15003]
-DEFAULT = "MillitaryTraining"
+DEFAULT = "MilitaryTraining"

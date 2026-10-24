@@ -113,10 +113,10 @@
 - `PhysicalEducation`
 - `ComputationalThinking`
 - `Calculus1`、`Calculus2`
-- `MilitaryTraining`（不是 `MillitaryTraining`）
+- `MilitaryTraining`
 
 数字直接接在名称后，不使用 `Calculus-1` 形式。不同资料层次或系列应有可区分的名称，不能因改名抹去已有的分组边界。
 
 未显式归并的一对一资料入口仍允许沿用上游的课号回退。仅重命名宏课程时，不改变映射表的原始课号键，也不重写培养方案中的课号。
 
-现有映射中以课号命名的宏课程及 `MillitaryTraining` 是待统一迁移的历史标识。文档中的新命名约定不表示这些目标仓库已经存在。切换映射目标必须与真实仓库重命名、相关引用及生成内容同步完成，并验证旧入口兼容情况。
+`MilitaryTraining` 已完成仓库及映射目标的拼写迁移，历史名称为 `MillitaryTraining`。其他以课号命名的宏课程目标仓库尚未建立，仍保留现有映射；文档中的命名示例不表示目标仓库已经存在。后续切换映射目标时，须同步处理真实仓库、相关引用及生成内容，并验证旧入口兼容情况。
