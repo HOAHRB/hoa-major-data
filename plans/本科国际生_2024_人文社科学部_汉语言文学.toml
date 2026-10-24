@@ -170,7 +170,7 @@ credit = 4.0
 recommended_year_semester = "第二学年春季"
 assessment_method = "考试"
 course_nature = "必修"
-course_category = "其他"
+course_category = "专业基础"
 offering_college = "人文社科学部"
 total_hours = 64
 
@@ -181,7 +181,7 @@ credit = 2.0
 recommended_year_semester = "第二学年春季"
 assessment_method = "考试"
 course_nature = "必修"
-course_category = "其他"
+course_category = "专业基础"
 offering_college = "人文社科学部"
 total_hours = 32
 
@@ -192,7 +192,7 @@ credit = 6.0
 recommended_year_semester = "第二学年春季"
 assessment_method = "考试"
 course_nature = "必修"
-course_category = "其他"
+course_category = "专业核心"
 offering_college = "人文社科学部"
 total_hours = 96
 
@@ -203,7 +203,7 @@ credit = 2.0
 recommended_year_semester = "第二学年春季"
 assessment_method = "考试"
 course_nature = "必修"
-course_category = "其他"
+course_category = "专业核心"
 offering_college = "人文社科学部"
 total_hours = 32
 
@@ -214,7 +214,7 @@ credit = 2.0
 recommended_year_semester = "第二学年春季"
 assessment_method = "考试"
 course_nature = "必修"
-course_category = "其他"
+course_category = "专业核心"
 offering_college = "人文社科学部"
 total_hours = 32
 
@@ -240,11 +240,174 @@ course_category = "其他"
 offering_college = "人文社科学部"
 total_hours = 32
 
+[[courses]]
+course_code = "22HS32409"
+course_name = "影视文学"
+credit = 2.0
+recommended_year_semester = "第二学年夏季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS32410"
+course_name = "汉字的故事"
+credit = 2.0
+recommended_year_semester = "第二学年夏季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS22409"
+course_name = "准高级口语（上）"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS31411"
+course_name = "准高级汉语（上）"
+credit = 6.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 96
+
+[[courses]]
+course_code = "22HS31412"
+course_name = "文学赏读（上）"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS31413"
+course_name = "准高级写作（上）"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS33401"
+course_name = "语言与生活实践"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+
+[[courses]]
+course_code = "22HS32403"
+course_name = "修辞学"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS32407"
+course_name = "中国历史"
+credit = 2.0
+recommended_year_semester = "第三学年秋季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS22410"
+course_name = "准高级口语（下）"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS31414"
+course_name = "准高级汉语（下）"
+credit = 4.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 64
+
+[[courses]]
+course_code = "22HS31415"
+course_name = "文学赏读（下）"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS31416"
+course_name = "准高级写作（下）"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考试"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
+[[courses]]
+course_code = "22HS33402"
+course_name = "民俗劳动实践"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文社科学部"
+
+[[courses]]
+course_code = "22HS32404"
+course_name = "中国现当代文学"
+credit = 2.0
+recommended_year_semester = "第三学年春季"
+assessment_method = "考查"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "人文社科学部"
+total_hours = 32
+
 [info]
 study_level = "undergrad"
-year = "2025"
+year = "2024"
 major_code = "35163"
 major_name = "汉语言文学"
 school_name = "人文社科学部"
-plan_category = "本"
-plan_ID = "HIT-2025-35163"
+plan_category = "本科国际生"
+plan_ID = "HIT-2024-35163"
