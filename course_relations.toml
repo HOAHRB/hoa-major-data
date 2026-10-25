@@ -1,0 +1,26 @@
+# 课程群与单链课程系列：在上游 lookup_table.toml 之外增补。
+# 群和系列以自身 ID 为键，使用 name 和 members。
+# members 直接引用映射后的资料仓库 ID；宏课程名称从仓库文档读取，不在这里登记。
+# 维护格式和示例见 docs/course-model.md。
+
+# 课程群成员顺序不表达学习先后。
+[groups.CalculusFirstVolume]
+name = "微积分（上）课程群"
+members = ["Calculus1", "CalculusE1"]
+
+[groups.CalculusSecondVolume]
+name = "微积分（下）课程群"
+members = ["Calculus2", "CalculusE2"]
+
+[groups.AlgebraAndGeometry]
+name = "代数与几何课程群"
+members = ["AlgebraAndGeometry", "AlgebraAndGeometryFH"]
+
+# 课程系列成员数组的排列顺序就是单链顺序。
+[series.Calculus]
+name = "微积分系列课程"
+members = ["Calculus1", "Calculus2"]
+
+[series.CalculusE]
+name = "微积分E系列课程"
+members = ["CalculusE1", "CalculusE2"]
