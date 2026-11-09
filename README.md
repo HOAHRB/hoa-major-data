@@ -125,7 +125,8 @@ git diff -- major_mapping.json course_introductions.json plans
 本科国际生，不再进入普通本科主修发布或合并候选。
 
 当前主修体育（1—6）、旧体育课号及对应校区课号共用 `PhysicalEducation` 资料仓库，
-这里的仓库名表示映射目标；除军事课程外，其余宏课程资料仓库尚未建立，资料仍待补充。
+这里的仓库名表示映射目标；目前已建立 `MilitaryTraining` 和 `TheoreticalMechanics`，
+其余宏课程资料仓库尚未建立，资料仍待补充。
 具体 21 个课号以 `lookup_table.toml` 为准。体育史和体育建筑设计专题保持独立。
 各学期的资料应在资源仓库内标明适用范围；各培养方案中的学分、考核方式等仍分别保留。
 主修范围内的全部计算思维课程共 8 个课号统一使用 `ComputationalThinking` 资料仓库，
@@ -140,6 +141,15 @@ git diff -- major_mapping.json course_introductions.json plans
 C 后缀课程按册分别使用 `MathematicalAnalysisInternational1`、`MathematicalAnalysisInternational2`、`MathematicalAnalysisInternational3`。
 菁英班的 `22MA22017`、`22MA22019`、`22MA22903` 各自独立，普通第二、三册仍分别使用
 `22MA22013`、`22MA22006`。
+
+理论力学共 11 个普通本科主修课号，
+统一使用 `TheoreticalMechanics` 资料仓库：`22AS22001`、`22AS22002`、`22AS22003`、
+`22AS22004`、`22AS22018`、`22AS22025`、`22PH22011`、`22PH22013C`、
+`22WHOE22702`、`22WHOE22710`、`AS31202`。
+该范围包含物理学院及其中外合作版本、威海版本和旧课号，不包含经典力学、辅修或英语课。
+内容仓库提供课程简介、版本比较及 Markdown 教学大纲附件，辅修和英语版本仅在文档中介绍。
+映射按课号全局生效，适用于所有年级的同课号记录。
+目标内容仓库从 `HOAHRB-Courses/course-template` 创建。
 
 专业课程成绩构成在对应培养方案的课程条目中维护，不使用中央 `grades_summary.json` 补全：
 

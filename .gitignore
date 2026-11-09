@@ -1,0 +1,4 @@
+# Local planning documents are not course data.
+docs/plans/
+*-plan.md
+*-implementation-plan.md

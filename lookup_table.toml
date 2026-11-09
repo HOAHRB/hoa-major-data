@@ -366,3 +366,50 @@ DEFAULT = "MilitaryTraining"
 # 军事技能
 [AD15003]
 DEFAULT = "MilitaryTraining"
+
+# 理论力学：普通本科主修版本共用资料，包含旧课号及威海版本。
+# 共用课程说明及资料入口，各方案保留原始课程信息；经典力学、辅修和英语课不纳入。
+
+# 理论力学，4 学分、64 学时
+[22AS22001]
+DEFAULT = "TheoreticalMechanics"
+
+# 理论力学 A，4.5 学分、72 学时
+[22AS22002]
+DEFAULT = "TheoreticalMechanics"
+
+# 理论力学 B，4 学分、64 学时
+[22AS22003]
+DEFAULT = "TheoreticalMechanics"
+
+# 理论力学 C，2 学分、32 学时
+[22AS22004]
+DEFAULT = "TheoreticalMechanics"
+
+# 理论力学 D，2 学分、32 学时
+[22AS22018]
+DEFAULT = "TheoreticalMechanics"
+
+# 理论力学 F，3 学分、48 学时
+[22AS22025]
+DEFAULT = "TheoreticalMechanics"
+
+# 理论力学（物理学院），3.5 学分、56 学时
+[22PH22011]
+DEFAULT = "TheoreticalMechanics"
+
+# 理论力学（物理学院中外合作），6 学分、216 学时
+[22PH22013C]
+DEFAULT = "TheoreticalMechanics"
+
+# 理论力学 B（威海），4 学分、64 学时
+[22WHOE22702]
+DEFAULT = "TheoreticalMechanics"
+
+# 理论力学 F（威海），3 学分、48 学时
+[22WHOE22710]
+DEFAULT = "TheoreticalMechanics"
+
+# 理论力学 B（旧课号），4 学分、64 学时
+[AS31202]
+DEFAULT = "TheoreticalMechanics"
